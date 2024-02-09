@@ -1,0 +1,35 @@
+Informações do Atleta 1:
+Nome do Jogador: Nikola Jokic
+Time do Jogador: DEN
+Rank: 1
+Estatísticas do Jogador 1:
+Estatística: tripleDouble
+Quantidade: 15
+Informações do Atleta 2:
+Nome do Jogador: Domantas Sabonis
+Time do Jogador: SAC
+Rank: 1
+Estatísticas do Jogador 2:
+Estatística: tripleDouble
+Quantidade: 15
+Informações do Atleta 3:
+Nome do Jogador: Luka Doncic
+Time do Jogador: DAL
+Rank: 3
+Estatísticas do Jogador 3:
+Estatística: tripleDouble
+Quantidade: 9
+Informações do Atleta 4:
+Nome do Jogador: Giannis Antetokounmpo
+Time do Jogador: MIL
+Rank: 4
+Estatísticas do Jogador 4:
+Estatística: tripleDouble
+Quantidade: 7
+Informações do Atleta 5:
+Nome do Jogador: LeBron James
+Time do Jogador: LAL
+Rank: 5
+Estatísticas do Jogador 5:
+Estatística: tripleDouble
+Quantidade: 3

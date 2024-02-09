@@ -1,0 +1,61 @@
+/* Adicione este bloco de estilos ao seu arquivo CSS */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Cor de fundo do corpo */
+}
+
+#chat-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff; /* Cor de fundo do contêiner do chat */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para o contêiner do chat */
+}
+
+#chat-messages {
+    max-height: 300px;
+    overflow-y: auto;
+    border-bottom: 1px solid #ccc; /* Linha inferior para separar as mensagens */
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#user-input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 0;
+    border: 1px solid #ccc; /* Borda do campo de entrada do usuário */
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; /* Cor de fundo do botão quando hover */
+}
+
+/* Estilizar a barra de rolagem no contêiner de mensagens */
+#chat-messages::-webkit-scrollbar {
+    width: 8px;
+}
+
+#chat-messages::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+}
+
+#chat-messages::-webkit-scrollbar-track {
+    background-color: #f0f0f0;
+}

@@ -1,0 +1,348 @@
+{
+  "0": {
+    "title": "Líderes Ofensivos",
+    "groups": [
+      {
+        "abbrev": "PTS",
+        "desc": "Pontos por jogo",
+        "header": "Pontos",
+        "leaders": [
+          {
+            "name": "Indiana Pacers",
+            "uid": "s:40~l:46~t:11",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+            "statValue": "124.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
+            "rank": 1
+          },
+          {
+            "name": "Milwaukee Bucks",
+            "uid": "s:40~l:46~t:15",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+            "statValue": "123.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/mil/milwaukee-bucks",
+            "rank": 2
+          },
+          {
+            "name": "Atlanta Hawks",
+            "uid": "s:40~l:46~t:1",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+            "statValue": "121.5",
+            "href": "https://www.espn.com.br/nba/time/_/nome/atl/atlanta-hawks",
+            "rank": 3
+          },
+          {
+            "name": "Oklahoma City Thunder",
+            "uid": "s:40~l:46~t:25",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+            "statValue": "120.8",
+            "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+            "rank": 4
+          },
+          {
+            "name": "Boston Celtics",
+            "uid": "s:40~l:46~t:2",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+            "statValue": "120.4",
+            "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time"
+        }
+      },
+      {
+        "abbrev": "FG%",
+        "desc": "% Arremessos certos",
+        "header": "Arremessos %",
+        "leaders": [
+          {
+            "name": "Indiana Pacers",
+            "uid": "s:40~l:46~t:11",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+            "statValue": "50.7",
+            "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
+            "rank": 1
+          },
+          {
+            "name": "Oklahoma City Thunder",
+            "uid": "s:40~l:46~t:25",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+            "statValue": "50.1",
+            "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+            "rank": 2
+          },
+          {
+            "name": "Phoenix Suns",
+            "uid": "s:40~l:46~t:21",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+            "statValue": "50.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/phx/phoenix-suns",
+            "rank": 3
+          },
+          {
+            "name": "Milwaukee Bucks",
+            "uid": "s:40~l:46~t:15",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+            "statValue": "49.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/mil/milwaukee-bucks",
+            "rank": 4
+          },
+          {
+            "name": "LA Clippers",
+            "uid": "s:40~l:46~t:12",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+            "statValue": "49.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/lac/la-clippers",
+            "rank": 4
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time/_/table/offensive/ordenar/fieldGoalPct/dir/desce"
+        }
+      },
+      {
+        "abbrev": "PTSDiff",
+        "desc": "Pontos por jogo Differential",
+        "header": "Diferencial de Pontos",
+        "leaders": [
+          {
+            "name": "Boston Celtics",
+            "uid": "s:40~l:46~t:2",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+            "statValue": "+9.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+            "rank": 1
+          },
+          {
+            "name": "Oklahoma City Thunder",
+            "uid": "s:40~l:46~t:25",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+            "statValue": "+7.7",
+            "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+            "rank": 2
+          },
+          {
+            "name": "Minnesota Timberwolves",
+            "uid": "s:40~l:46~t:16",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+            "statValue": "+6.3",
+            "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
+            "rank": 3
+          },
+          {
+            "name": "LA Clippers",
+            "uid": "s:40~l:46~t:12",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+            "statValue": "+6.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/lac/la-clippers",
+            "rank": 4
+          },
+          {
+            "name": "Cleveland Cavaliers",
+            "uid": "s:40~l:46~t:5",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+            "statValue": "+5.5",
+            "href": "https://www.espn.com.br/nba/time/_/nome/cle/cleveland-cavaliers",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time/_/vista/diferencial/table/offensive/ordenar/avgPoints/dir/desce"
+        }
+      }
+    ]
+  },
+  "1": {
+    "title": "Líderes Defensivos",
+    "groups": [
+      {
+        "abbrev": "PTS",
+        "desc": "Pontos por jogo do rival",
+        "header": "Pontos Permitidos",
+        "leaders": [
+          {
+            "name": "Minnesota Timberwolves",
+            "uid": "s:40~l:46~t:16",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+            "statValue": "107.1",
+            "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
+            "rank": 1
+          },
+          {
+            "name": "Cleveland Cavaliers",
+            "uid": "s:40~l:46~t:5",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+            "statValue": "109.3",
+            "href": "https://www.espn.com.br/nba/time/_/nome/cle/cleveland-cavaliers",
+            "rank": 2
+          },
+          {
+            "name": "New York Knicks",
+            "uid": "s:40~l:46~t:18",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+            "statValue": "109.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/ny/new-york-knicks",
+            "rank": 3
+          },
+          {
+            "name": "Denver Nuggets",
+            "uid": "s:40~l:46~t:7",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+            "statValue": "110.5",
+            "href": "https://www.espn.com.br/nba/time/_/nome/den/denver-nuggets",
+            "rank": 4
+          },
+          {
+            "name": "Boston Celtics",
+            "uid": "s:40~l:46~t:2",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+            "statValue": "110.8",
+            "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time/_/vista/oponentes/table/offensive/ordenar/avgPoints/dir/sobe"
+        }
+      },
+      {
+        "abbrev": "REB",
+        "desc": "Rebotes por jogo",
+        "header": "Rebotes",
+        "leaders": [
+          {
+            "name": "Boston Celtics",
+            "uid": "s:40~l:46~t:2",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+            "statValue": "47.5",
+            "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+            "rank": 1
+          },
+          {
+            "name": "Utah Jazz",
+            "uid": "s:40~l:46~t:26",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+            "statValue": "46.7",
+            "href": "https://www.espn.com.br/nba/time/_/nome/utah/utah-jazz",
+            "rank": 2
+          },
+          {
+            "name": "Golden State Warriors",
+            "uid": "s:40~l:46~t:9",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+            "statValue": "46.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/gs/golden-state-warriors",
+            "rank": 3
+          },
+          {
+            "name": "New York Knicks",
+            "uid": "s:40~l:46~t:18",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+            "statValue": "46.3",
+            "href": "https://www.espn.com.br/nba/time/_/nome/ny/new-york-knicks",
+            "rank": 4
+          },
+          {
+            "name": "Houston Rockets",
+            "uid": "s:40~l:46~t:10",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+            "statValue": "45.3",
+            "href": "https://www.espn.com.br/nba/time/_/nome/hou/houston-rockets",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time/_/table/general/ordenar/avgRebounds/dir/desce"
+        }
+      },
+      {
+        "abbrev": "BLK",
+        "desc": "Tocos por jogo",
+        "header": "Tocos",
+        "leaders": [
+          {
+            "name": "Boston Celtics",
+            "uid": "s:40~l:46~t:2",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+            "statValue": "6.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+            "rank": 1
+          },
+          {
+            "name": "Oklahoma City Thunder",
+            "uid": "s:40~l:46~t:25",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+            "statValue": "6.6",
+            "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+            "rank": 1
+          },
+          {
+            "name": "Memphis Grizzlies",
+            "uid": "s:40~l:46~t:29",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+            "statValue": "6.1",
+            "href": "https://www.espn.com.br/nba/time/_/nome/mem/memphis-grizzlies",
+            "rank": 3
+          },
+          {
+            "name": "Utah Jazz",
+            "uid": "s:40~l:46~t:26",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+            "statValue": "6.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/utah/utah-jazz",
+            "rank": 4
+          },
+          {
+            "name": "San Antonio Spurs",
+            "uid": "s:40~l:46~t:24",
+            "type": "team",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+            "statValue": "6.0",
+            "href": "https://www.espn.com.br/nba/time/_/nome/sa/san-antonio-spurs",
+            "rank": 4
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/time/_/table/defensive/ordenar/avgBlocks/dir/desce"
+        }
+      }
+    ]
+  }
+}

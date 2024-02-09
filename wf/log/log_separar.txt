@@ -1,0 +1,1658 @@
+Conteúdo da pasta 'IA/letras' removido com sucesso.
+Conteúdo da pasta 'IA/identificado' removido com sucesso.
+Pasta 'IA/letras' criada com sucesso.
+Pasta 'IA/identificado' criada com sucesso.
+Contornos1 (153, 21, 23, 24)
+Contornos2 (201, 19, 29, 27)
+Contornos3 (104, 18, 23, 22)
+Contornos4 (13, 16, 17, 22)
+Contornos5 (53, 11, 28, 22)
+IA/letras/teste291letra1numero1.png
+IA/letras/teste291letra2numero2.png
+IA/letras/teste291letra3numero3.png
+IA/letras/teste291letra4numero4.png
+IA/letras/teste291letra5numero5.png
+IA/identificado/teste291.png
+Contornos1 (12, 16, 24, 28)
+Contornos2 (155, 14, 43, 30)
+Contornos3 (104, 14, 30, 26)
+Contornos4 (203, 11, 34, 24)
+Contornos5 (55, 9, 30, 23)
+IA/letras/teste292letra1numero1.png
+IA/letras/teste292letra2numero2.png
+IA/letras/teste292letra3numero3.png
+IA/letras/teste292letra4numero4.png
+IA/letras/teste292letra5numero5.png
+IA/identificado/teste292.png
+Contornos1 (152, 17, 36, 26)
+Contornos2 (55, 15, 31, 23)
+Contornos3 (206, 13, 27, 28)
+Contornos4 (12, 11, 21, 23)
+Contornos5 (104, 10, 27, 23)
+IA/letras/teste293letra1numero1.png
+IA/letras/teste293letra2numero2.png
+IA/letras/teste293letra3numero3.png
+IA/letras/teste293letra4numero4.png
+IA/letras/teste293letra5numero5.png
+IA/identificado/teste293.png
+Contornos1 (106, 18, 26, 17)
+Contornos2 (154, 16, 33, 20)
+Contornos3 (54, 12, 24, 27)
+Contornos4 (204, 11, 28, 25)
+Contornos5 (12, 8, 23, 24)
+IA/letras/teste294letra1numero1.png
+IA/letras/teste294letra2numero2.png
+IA/letras/teste294letra3numero3.png
+IA/letras/teste294letra4numero4.png
+IA/letras/teste294letra5numero5.png
+IA/identificado/teste294.png
+Contornos1 (204, 18, 28, 32)
+Contornos2 (12, 16, 26, 27)
+Contornos3 (107, 12, 24, 23)
+Contornos4 (154, 11, 24, 19)
+Contornos5 (55, 6, 29, 22)
+IA/letras/teste295letra1numero1.png
+IA/letras/teste295letra2numero2.png
+IA/letras/teste295letra3numero3.png
+IA/letras/teste295letra4numero4.png
+IA/letras/teste295letra5numero5.png
+IA/identificado/teste295.png
+Contornos1 (206, 19, 23, 25)
+Contornos2 (154, 16, 23, 21)
+Contornos3 (15, 11, 31, 24)
+Contornos4 (107, 9, 29, 26)
+Contornos5 (60, 6, 19, 25)
+IA/letras/teste296letra1numero1.png
+IA/letras/teste296letra2numero2.png
+IA/letras/teste296letra3numero3.png
+IA/letras/teste296letra4numero4.png
+IA/letras/teste296letra5numero5.png
+IA/identificado/teste296.png
+Contornos1 (158, 23, 32, 26)
+Contornos2 (109, 21, 30, 27)
+Contornos3 (56, 19, 27, 24)
+Contornos4 (207, 11, 20, 23)
+Contornos5 (11, 10, 26, 24)
+IA/letras/teste297letra1numero1.png
+IA/letras/teste297letra2numero2.png
+IA/letras/teste297letra3numero3.png
+IA/letras/teste297letra4numero4.png
+IA/letras/teste297letra5numero5.png
+IA/identificado/teste297.png
+Contornos1 (156, 15, 34, 27)
+Contornos2 (206, 12, 25, 23)
+Contornos3 (206, 12, 12, 7)
+Contornos4 (54, 10, 28, 29)
+Contornos5 (104, 9, 30, 24)
+Contornos6 (14, 6, 21, 23)
+IA/letras/teste298letra1numero1.png
+IA/letras/teste298letra2numero2.png
+IA/letras/teste298letra3numero3.png
+IA/letras/teste298letra4numero4.png
+IA/letras/teste298letra5numero5.png
+IA/letras/teste298letra6numero6.png
+IA/identificado/teste298.png
+Contornos1 (12, 16, 26, 23)
+Contornos2 (103, 15, 29, 28)
+Contornos3 (55, 12, 16, 23)
+Contornos4 (154, 11, 23, 21)
+Contornos5 (209, 6, 17, 25)
+IA/letras/teste299letra1numero1.png
+IA/letras/teste299letra2numero2.png
+IA/letras/teste299letra3numero3.png
+IA/letras/teste299letra4numero4.png
+IA/letras/teste299letra5numero5.png
+IA/identificado/teste299.png
+Contornos1 (11, 22, 20, 25)
+Contornos2 (58, 17, 22, 27)
+Contornos3 (205, 15, 22, 24)
+Contornos4 (154, 15, 24, 25)
+Contornos5 (107, 11, 34, 27)
+IA/letras/teste300letra1numero1.png
+IA/letras/teste300letra2numero2.png
+IA/letras/teste300letra3numero3.png
+IA/letras/teste300letra4numero4.png
+IA/letras/teste300letra5numero5.png
+IA/identificado/teste300.png
+Contornos1 (204, 18, 23, 24)
+Contornos2 (53, 16, 35, 22)
+Contornos3 (156, 15, 30, 24)
+Contornos4 (11, 15, 28, 28)
+Contornos5 (105, 13, 36, 26)
+IA/letras/teste301letra1numero1.png
+IA/letras/teste301letra2numero2.png
+IA/letras/teste301letra3numero3.png
+IA/letras/teste301letra4numero4.png
+IA/letras/teste301letra5numero5.png
+IA/identificado/teste301.png
+Contornos1 (156, 15, 25, 25)
+Contornos2 (14, 14, 28, 22)
+Contornos3 (104, 13, 29, 24)
+Contornos4 (52, 12, 29, 22)
+Contornos5 (206, 10, 18, 26)
+IA/letras/teste302letra1numero1.png
+IA/letras/teste302letra2numero2.png
+IA/letras/teste302letra3numero3.png
+IA/letras/teste302letra4numero4.png
+IA/letras/teste302letra5numero5.png
+IA/identificado/teste302.png
+Contornos1 (106, 15, 26, 24)
+Contornos2 (204, 13, 18, 26)
+Contornos3 (153, 12, 27, 21)
+Contornos4 (55, 11, 27, 23)
+Contornos5 (15, 9, 20, 20)
+IA/letras/teste303letra1numero1.png
+IA/letras/teste303letra2numero2.png
+IA/letras/teste303letra3numero3.png
+IA/letras/teste303letra4numero4.png
+IA/letras/teste303letra5numero5.png
+IA/identificado/teste303.png
+Contornos1 (14, 20, 18, 25)
+Contornos2 (57, 16, 27, 29)
+Contornos3 (104, 13, 22, 25)
+Contornos4 (207, 12, 24, 26)
+Contornos5 (157, 9, 25, 25)
+IA/letras/teste304letra1numero1.png
+IA/letras/teste304letra2numero2.png
+IA/letras/teste304letra3numero3.png
+IA/letras/teste304letra4numero4.png
+IA/letras/teste304letra5numero5.png
+IA/identificado/teste304.png
+Contornos1 (157, 14, 31, 23)
+Contornos2 (204, 13, 24, 24)
+Contornos3 (105, 13, 34, 26)
+Contornos4 (52, 12, 29, 24)
+Contornos5 (16, 12, 20, 23)
+IA/letras/teste305letra1numero1.png
+IA/letras/teste305letra2numero2.png
+IA/letras/teste305letra3numero3.png
+IA/letras/teste305letra4numero4.png
+IA/letras/teste305letra5numero5.png
+IA/identificado/teste305.png
+Contornos1 (54, 16, 30, 26)
+Contornos2 (106, 15, 31, 25)
+Contornos3 (156, 12, 23, 23)
+Contornos4 (8, 12, 23, 22)
+Contornos5 (205, 10, 31, 24)
+IA/letras/teste306letra1numero1.png
+IA/letras/teste306letra2numero2.png
+IA/letras/teste306letra3numero3.png
+IA/letras/teste306letra4numero4.png
+IA/letras/teste306letra5numero5.png
+IA/identificado/teste306.png
+Contornos1 (8, 13, 22, 24)
+Contornos2 (158, 11, 20, 21)
+Contornos3 (106, 11, 24, 24)
+Contornos4 (55, 8, 26, 24)
+Contornos5 (205, 6, 23, 24)
+IA/letras/teste307letra1numero1.png
+IA/letras/teste307letra2numero2.png
+IA/letras/teste307letra3numero3.png
+IA/letras/teste307letra4numero4.png
+IA/letras/teste307letra5numero5.png
+IA/identificado/teste307.png
+Contornos1 (202, 22, 20, 24)
+Contornos2 (97, 16, 16, 26)
+Contornos3 (11, 13, 27, 26)
+Contornos4 (59, 12, 24, 20)
+Contornos5 (158, 11, 28, 25)
+IA/letras/teste308letra1numero1.png
+IA/letras/teste308letra2numero2.png
+IA/letras/teste308letra3numero3.png
+IA/letras/teste308letra4numero4.png
+IA/letras/teste308letra5numero5.png
+IA/identificado/teste308.png
+Contornos1 (205, 12, 20, 23)
+Contornos2 (104, 10, 24, 24)
+Contornos3 (54, 10, 39, 25)
+Contornos4 (154, 9, 24, 23)
+Contornos5 (13, 7, 21, 21)
+IA/letras/teste309letra1numero1.png
+IA/letras/teste309letra2numero2.png
+IA/letras/teste309letra3numero3.png
+IA/letras/teste309letra4numero4.png
+IA/letras/teste309letra5numero5.png
+IA/identificado/teste309.png
+Contornos1 (105, 13, 29, 27)
+Contornos2 (56, 13, 25, 24)
+Contornos3 (157, 12, 27, 21)
+Contornos4 (206, 11, 19, 21)
+Contornos5 (12, 10, 17, 21)
+IA/letras/teste310letra1numero1.png
+IA/letras/teste310letra2numero2.png
+IA/letras/teste310letra3numero3.png
+IA/letras/teste310letra4numero4.png
+IA/letras/teste310letra5numero5.png
+IA/identificado/teste310.png
+Contornos1 (15, 20, 19, 24)
+Contornos2 (54, 17, 23, 23)
+Contornos3 (201, 15, 30, 24)
+Contornos4 (154, 15, 29, 24)
+Contornos5 (104, 9, 28, 25)
+IA/letras/teste311letra1numero1.png
+IA/letras/teste311letra2numero2.png
+IA/letras/teste311letra3numero3.png
+IA/letras/teste311letra4numero4.png
+IA/letras/teste311letra5numero5.png
+IA/identificado/teste311.png
+Contornos1 (107, 20, 30, 27)
+Contornos2 (201, 14, 32, 25)
+Contornos3 (12, 12, 23, 21)
+Contornos4 (155, 10, 34, 24)
+Contornos5 (57, 10, 27, 26)
+IA/letras/teste312letra1numero1.png
+IA/letras/teste312letra2numero2.png
+IA/letras/teste312letra3numero3.png
+IA/letras/teste312letra4numero4.png
+IA/letras/teste312letra5numero5.png
+IA/identificado/teste312.png
+Contornos1 (13, 23, 24, 26)
+Contornos2 (109, 22, 22, 22)
+Contornos3 (156, 18, 39, 24)
+Contornos4 (203, 14, 17, 20)
+Contornos5 (57, 14, 24, 25)
+IA/letras/teste313letra1numero1.png
+IA/letras/teste313letra2numero2.png
+IA/letras/teste313letra3numero3.png
+IA/letras/teste313letra4numero4.png
+IA/letras/teste313letra5numero5.png
+IA/identificado/teste313.png
+Contornos1 (156, 15, 22, 22)
+Contornos2 (202, 12, 26, 25)
+Contornos3 (106, 11, 19, 24)
+Contornos4 (61, 10, 22, 24)
+Contornos5 (13, 7, 21, 21)
+IA/letras/teste314letra1numero1.png
+IA/letras/teste314letra2numero2.png
+IA/letras/teste314letra3numero3.png
+IA/letras/teste314letra4numero4.png
+IA/letras/teste314letra5numero5.png
+IA/identificado/teste314.png
+Contornos1 (104, 16, 19, 21)
+Contornos2 (204, 15, 31, 25)
+Contornos3 (56, 14, 23, 27)
+Contornos4 (157, 13, 28, 26)
+Contornos5 (12, 11, 23, 22)
+IA/letras/teste315letra1numero1.png
+IA/letras/teste315letra2numero2.png
+IA/letras/teste315letra3numero3.png
+IA/letras/teste315letra4numero4.png
+IA/letras/teste315letra5numero5.png
+IA/identificado/teste315.png
+Contornos1 (54, 21, 25, 24)
+Contornos2 (203, 16, 22, 28)
+Contornos3 (154, 13, 28, 24)
+Contornos4 (107, 13, 32, 24)
+Contornos5 (10, 12, 23, 26)
+IA/letras/teste316letra1numero1.png
+IA/letras/teste316letra2numero2.png
+IA/letras/teste316letra3numero3.png
+IA/letras/teste316letra4numero4.png
+IA/letras/teste316letra5numero5.png
+IA/identificado/teste316.png
+Contornos1 (101, 14, 32, 24)
+Contornos2 (204, 13, 22, 23)
+Contornos3 (156, 13, 33, 23)
+Contornos4 (12, 13, 25, 25)
+Contornos5 (53, 11, 33, 25)
+IA/letras/teste317letra1numero1.png
+IA/letras/teste317letra2numero2.png
+IA/letras/teste317letra3numero3.png
+IA/letras/teste317letra4numero4.png
+IA/letras/teste317letra5numero5.png
+IA/identificado/teste317.png
+Contornos1 (60, 17, 9, 7)
+Contornos2 (58, 16, 26, 19)
+Contornos3 (104, 14, 22, 25)
+Contornos4 (158, 12, 28, 26)
+Contornos5 (201, 10, 29, 27)
+Contornos6 (13, 9, 18, 25)
+IA/letras/teste318letra1numero1.png
+IA/letras/teste318letra2numero2.png
+IA/letras/teste318letra3numero3.png
+IA/letras/teste318letra4numero4.png
+IA/letras/teste318letra5numero5.png
+IA/letras/teste318letra6numero6.png
+IA/identificado/teste318.png
+Contornos1 (153, 16, 21, 23)
+Contornos2 (56, 15, 23, 24)
+Contornos3 (206, 14, 30, 24)
+Contornos4 (12, 13, 25, 26)
+Contornos5 (105, 12, 31, 27)
+IA/letras/teste319letra1numero1.png
+IA/letras/teste319letra2numero2.png
+IA/letras/teste319letra3numero3.png
+IA/letras/teste319letra4numero4.png
+IA/letras/teste319letra5numero5.png
+IA/identificado/teste319.png
+Contornos1 (205, 17, 17, 23)
+Contornos2 (56, 17, 22, 24)
+Contornos3 (157, 15, 29, 22)
+Contornos4 (12, 9, 18, 21)
+Contornos5 (106, 8, 30, 26)
+IA/letras/teste320letra1numero1.png
+IA/letras/teste320letra2numero2.png
+IA/letras/teste320letra3numero3.png
+IA/letras/teste320letra4numero4.png
+IA/letras/teste320letra5numero5.png
+IA/identificado/teste320.png
+Contornos1 (202, 17, 29, 25)
+Contornos2 (11, 16, 19, 23)
+Contornos3 (107, 14, 28, 26)
+Contornos4 (55, 14, 34, 29)
+Contornos5 (156, 11, 31, 26)
+IA/letras/teste321letra1numero1.png
+IA/letras/teste321letra2numero2.png
+IA/letras/teste321letra3numero3.png
+IA/letras/teste321letra4numero4.png
+IA/letras/teste321letra5numero5.png
+IA/identificado/teste321.png
+Contornos1 (202, 19, 20, 24)
+Contornos2 (155, 14, 25, 22)
+Contornos3 (60, 14, 25, 24)
+Contornos4 (103, 9, 30, 23)
+Contornos5 (11, 8, 25, 26)
+IA/letras/teste322letra1numero1.png
+IA/letras/teste322letra2numero2.png
+IA/letras/teste322letra3numero3.png
+IA/letras/teste322letra4numero4.png
+IA/letras/teste322letra5numero5.png
+IA/identificado/teste322.png
+Contornos1 (12, 22, 21, 25)
+Contornos2 (159, 16, 34, 27)
+Contornos3 (204, 15, 31, 25)
+Contornos4 (105, 8, 28, 25)
+Contornos5 (58, 7, 25, 22)
+IA/letras/teste323letra1numero1.png
+IA/letras/teste323letra2numero2.png
+IA/letras/teste323letra3numero3.png
+IA/letras/teste323letra4numero4.png
+IA/letras/teste323letra5numero5.png
+IA/identificado/teste323.png
+Contornos1 (13, 21, 26, 26)
+Contornos2 (105, 17, 33, 24)
+Contornos3 (201, 16, 28, 27)
+Contornos4 (152, 16, 40, 27)
+Contornos5 (55, 9, 21, 24)
+IA/letras/teste324letra1numero1.png
+IA/letras/teste324letra2numero2.png
+IA/letras/teste324letra3numero3.png
+IA/letras/teste324letra4numero4.png
+IA/letras/teste324letra5numero5.png
+IA/identificado/teste324.png
+Contornos1 (56, 19, 25, 26)
+Contornos2 (204, 18, 30, 23)
+Contornos3 (106, 14, 31, 19)
+Contornos4 (13, 11, 28, 25)
+Contornos5 (158, 8, 19, 23)
+IA/letras/teste325letra1numero1.png
+IA/letras/teste325letra2numero2.png
+IA/letras/teste325letra3numero3.png
+IA/letras/teste325letra4numero4.png
+IA/letras/teste325letra5numero5.png
+IA/identificado/teste325.png
+Contornos1 (55, 17, 26, 24)
+Contornos2 (10, 13, 25, 27)
+Contornos3 (202, 12, 25, 22)
+Contornos4 (159, 11, 18, 21)
+Contornos5 (105, 9, 27, 23)
+IA/letras/teste326letra1numero1.png
+IA/letras/teste326letra2numero2.png
+IA/letras/teste326letra3numero3.png
+IA/letras/teste326letra4numero4.png
+IA/letras/teste326letra5numero5.png
+IA/identificado/teste326.png
+Contornos1 (154, 23, 26, 25)
+Contornos2 (207, 13, 22, 20)
+Contornos3 (57, 12, 21, 21)
+Contornos4 (12, 11, 25, 23)
+Contornos5 (108, 9, 25, 22)
+IA/letras/teste327letra1numero1.png
+IA/letras/teste327letra2numero2.png
+IA/letras/teste327letra3numero3.png
+IA/letras/teste327letra4numero4.png
+IA/letras/teste327letra5numero5.png
+IA/identificado/teste327.png
+Contornos1 (206, 13, 25, 24)
+Contornos2 (106, 13, 24, 23)
+Contornos3 (53, 12, 27, 23)
+Contornos4 (14, 11, 15, 21)
+Contornos5 (154, 10, 28, 21)
+IA/letras/teste328letra1numero1.png
+IA/letras/teste328letra2numero2.png
+IA/letras/teste328letra3numero3.png
+IA/letras/teste328letra4numero4.png
+IA/letras/teste328letra5numero5.png
+IA/identificado/teste328.png
+Contornos1 (157, 16, 30, 21)
+Contornos2 (54, 13, 26, 19)
+Contornos3 (13, 10, 29, 25)
+Contornos4 (107, 9, 24, 24)
+Contornos5 (203, 8, 31, 25)
+IA/letras/teste329letra1numero1.png
+IA/letras/teste329letra2numero2.png
+IA/letras/teste329letra3numero3.png
+IA/letras/teste329letra4numero4.png
+IA/letras/teste329letra5numero5.png
+IA/identificado/teste329.png
+Contornos1 (154, 15, 27, 22)
+Contornos2 (11, 12, 22, 21)
+Contornos3 (207, 10, 20, 22)
+Contornos4 (106, 10, 22, 25)
+Contornos5 (59, 8, 26, 23)
+IA/letras/teste330letra1numero1.png
+IA/letras/teste330letra2numero2.png
+IA/letras/teste330letra3numero3.png
+IA/letras/teste330letra4numero4.png
+IA/letras/teste330letra5numero5.png
+IA/identificado/teste330.png
+Contornos1 (59, 15, 25, 25)
+Contornos2 (104, 13, 38, 33)
+Contornos3 (203, 12, 24, 19)
+Contornos4 (12, 12, 23, 19)
+Contornos5 (154, 11, 29, 26)
+IA/letras/teste331letra1numero1.png
+IA/letras/teste331letra2numero2.png
+IA/letras/teste331letra3numero3.png
+IA/letras/teste331letra4numero4.png
+IA/letras/teste331letra5numero5.png
+IA/identificado/teste331.png
+Contornos1 (106, 16, 27, 24)
+Contornos2 (54, 13, 32, 27)
+Contornos3 (156, 12, 26, 25)
+Contornos4 (13, 11, 22, 20)
+Contornos5 (205, 8, 18, 22)
+IA/letras/teste332letra1numero1.png
+IA/letras/teste332letra2numero2.png
+IA/letras/teste332letra3numero3.png
+IA/letras/teste332letra4numero4.png
+IA/letras/teste332letra5numero5.png
+IA/identificado/teste332.png
+Contornos1 (105, 16, 32, 24)
+Contornos2 (156, 15, 24, 23)
+Contornos3 (54, 14, 24, 18)
+Contornos4 (12, 13, 14, 22)
+Contornos5 (203, 12, 23, 27)
+IA/letras/teste333letra1numero1.png
+IA/letras/teste333letra2numero2.png
+IA/letras/teste333letra3numero3.png
+IA/letras/teste333letra4numero4.png
+IA/letras/teste333letra5numero5.png
+IA/identificado/teste333.png
+Contornos1 (205, 19, 22, 22)
+Contornos2 (110, 13, 26, 23)
+Contornos3 (57, 13, 30, 25)
+Contornos4 (155, 12, 25, 24)
+Contornos5 (9, 12, 21, 22)
+IA/letras/teste334letra1numero1.png
+IA/letras/teste334letra2numero2.png
+IA/letras/teste334letra3numero3.png
+IA/letras/teste334letra4numero4.png
+IA/letras/teste334letra5numero5.png
+IA/identificado/teste334.png
+Contornos1 (151, 16, 32, 25)
+Contornos2 (59, 16, 33, 27)
+Contornos3 (14, 11, 27, 25)
+Contornos4 (204, 10, 25, 24)
+Contornos5 (107, 9, 32, 31)
+IA/letras/teste335letra1numero1.png
+IA/letras/teste335letra2numero2.png
+IA/letras/teste335letra3numero3.png
+IA/letras/teste335letra4numero4.png
+IA/letras/teste335letra5numero5.png
+IA/identificado/teste335.png
+Contornos1 (12, 18, 23, 20)
+Contornos2 (104, 16, 27, 25)
+Contornos3 (205, 14, 17, 24)
+Contornos4 (155, 10, 30, 24)
+Contornos5 (59, 9, 18, 23)
+IA/letras/teste336letra1numero1.png
+IA/letras/teste336letra2numero2.png
+IA/letras/teste336letra3numero3.png
+IA/letras/teste336letra4numero4.png
+IA/letras/teste336letra5numero5.png
+IA/identificado/teste336.png
+Contornos1 (159, 19, 35, 23)
+Contornos2 (55, 15, 31, 26)
+Contornos3 (204, 12, 22, 24)
+Contornos4 (107, 12, 30, 24)
+Contornos5 (13, 11, 16, 22)
+IA/letras/teste337letra1numero1.png
+IA/letras/teste337letra2numero2.png
+IA/letras/teste337letra3numero3.png
+IA/letras/teste337letra4numero4.png
+IA/letras/teste337letra5numero5.png
+IA/identificado/teste337.png
+Contornos1 (204, 20, 17, 24)
+Contornos2 (106, 20, 27, 25)
+Contornos3 (152, 15, 37, 24)
+Contornos4 (17, 11, 25, 27)
+Contornos5 (59, 6, 23, 24)
+IA/letras/teste338letra1numero1.png
+IA/letras/teste338letra2numero2.png
+IA/letras/teste338letra3numero3.png
+IA/letras/teste338letra4numero4.png
+IA/letras/teste338letra5numero5.png
+IA/identificado/teste338.png
+Contornos1 (205, 18, 28, 25)
+Contornos2 (10, 17, 19, 21)
+Contornos3 (107, 13, 23, 25)
+Contornos4 (155, 12, 27, 25)
+Contornos5 (52, 11, 15, 24)
+IA/letras/teste339letra1numero1.png
+IA/letras/teste339letra2numero2.png
+IA/letras/teste339letra3numero3.png
+IA/letras/teste339letra4numero4.png
+IA/letras/teste339letra5numero5.png
+IA/identificado/teste339.png
+Contornos1 (104, 21, 28, 24)
+Contornos2 (11, 16, 31, 25)
+Contornos3 (204, 15, 18, 28)
+Contornos4 (157, 13, 30, 27)
+Contornos5 (54, 13, 29, 25)
+IA/letras/teste340letra1numero1.png
+IA/letras/teste340letra2numero2.png
+IA/letras/teste340letra3numero3.png
+IA/letras/teste340letra4numero4.png
+IA/letras/teste340letra5numero5.png
+IA/identificado/teste340.png
+Contornos1 (107, 23, 20, 26)
+Contornos2 (207, 12, 22, 25)
+Contornos3 (159, 12, 26, 25)
+Contornos4 (15, 12, 24, 21)
+Contornos5 (61, 10, 26, 25)
+IA/letras/teste342letra1numero1.png
+IA/letras/teste342letra2numero2.png
+IA/letras/teste342letra3numero3.png
+IA/letras/teste342letra4numero4.png
+IA/letras/teste342letra5numero5.png
+IA/identificado/teste342.png
+Contornos1 (107, 19, 32, 26)
+Contornos2 (56, 16, 31, 24)
+Contornos3 (206, 14, 20, 26)
+Contornos4 (156, 13, 15, 21)
+Contornos5 (11, 13, 24, 22)
+IA/letras/teste343letra1numero1.png
+IA/letras/teste343letra2numero2.png
+IA/letras/teste343letra3numero3.png
+IA/letras/teste343letra4numero4.png
+IA/letras/teste343letra5numero5.png
+IA/identificado/teste343.png
+Contornos1 (13, 20, 26, 23)
+Contornos2 (104, 15, 30, 27)
+Contornos3 (57, 15, 29, 27)
+Contornos4 (204, 12, 28, 23)
+Contornos5 (153, 11, 32, 24)
+IA/letras/teste344letra1numero1.png
+IA/letras/teste344letra2numero2.png
+IA/letras/teste344letra3numero3.png
+IA/letras/teste344letra4numero4.png
+IA/letras/teste344letra5numero5.png
+IA/identificado/teste344.png
+Contornos1 (103, 17, 29, 23)
+Contornos2 (55, 14, 32, 28)
+Contornos3 (205, 11, 20, 22)
+Contornos4 (154, 9, 28, 27)
+Contornos5 (13, 9, 21, 26)
+IA/letras/teste345letra1numero1.png
+IA/letras/teste345letra2numero2.png
+IA/letras/teste345letra3numero3.png
+IA/letras/teste345letra4numero4.png
+IA/letras/teste345letra5numero5.png
+IA/identificado/teste345.png
+Contornos1 (203, 16, 21, 23)
+Contornos2 (106, 16, 23, 23)
+Contornos3 (58, 13, 25, 24)
+Contornos4 (156, 10, 25, 23)
+Contornos5 (14, 9, 25, 24)
+IA/letras/teste346letra1numero1.png
+IA/letras/teste346letra2numero2.png
+IA/letras/teste346letra3numero3.png
+IA/letras/teste346letra4numero4.png
+IA/letras/teste346letra5numero5.png
+IA/identificado/teste346.png
+Contornos1 (155, 16, 29, 26)
+Contornos2 (103, 16, 31, 24)
+Contornos3 (205, 15, 11, 31)
+Contornos4 (14, 13, 26, 24)
+Contornos5 (54, 11, 28, 20)
+IA/letras/teste347letra1numero1.png
+IA/letras/teste347letra2numero2.png
+IA/letras/teste347letra3numero3.png
+IA/letras/teste347letra4numero4.png
+IA/letras/teste347letra5numero5.png
+IA/identificado/teste347.png
+Contornos1 (106, 19, 28, 27)
+Contornos2 (52, 17, 31, 24)
+Contornos3 (13, 15, 29, 25)
+Contornos4 (208, 8, 18, 27)
+Contornos5 (156, 7, 22, 25)
+IA/letras/teste348letra1numero1.png
+IA/letras/teste348letra2numero2.png
+IA/letras/teste348letra3numero3.png
+IA/letras/teste348letra4numero4.png
+IA/letras/teste348letra5numero5.png
+IA/identificado/teste348.png
+Contornos1 (203, 17, 25, 26)
+Contornos2 (156, 14, 36, 26)
+Contornos3 (14, 14, 21, 28)
+Contornos4 (55, 13, 25, 26)
+Contornos5 (108, 12, 32, 25)
+IA/letras/teste349letra1numero1.png
+IA/letras/teste349letra2numero2.png
+IA/letras/teste349letra3numero3.png
+IA/letras/teste349letra4numero4.png
+IA/letras/teste349letra5numero5.png
+IA/identificado/teste349.png
+Contornos1 (104, 16, 30, 28)
+Contornos2 (54, 15, 30, 26)
+Contornos3 (207, 11, 20, 21)
+Contornos4 (155, 11, 27, 20)
+Contornos5 (14, 7, 10, 23)
+IA/letras/teste350letra1numero1.png
+IA/letras/teste350letra2numero2.png
+IA/letras/teste350letra3numero3.png
+IA/letras/teste350letra4numero4.png
+IA/letras/teste350letra5numero5.png
+IA/identificado/teste350.png
+Contornos1 (106, 18, 27, 23)
+Contornos2 (54, 17, 22, 23)
+Contornos3 (13, 13, 23, 27)
+Contornos4 (205, 10, 21, 26)
+Contornos5 (156, 9, 28, 26)
+IA/letras/teste351letra1numero1.png
+IA/letras/teste351letra2numero2.png
+IA/letras/teste351letra3numero3.png
+IA/letras/teste351letra4numero4.png
+IA/letras/teste351letra5numero5.png
+IA/identificado/teste351.png
+Contornos1 (204, 15, 23, 23)
+Contornos2 (156, 14, 20, 22)
+Contornos3 (103, 11, 29, 25)
+Contornos4 (56, 10, 29, 22)
+Contornos5 (10, 9, 25, 21)
+IA/letras/teste352letra1numero1.png
+IA/letras/teste352letra2numero2.png
+IA/letras/teste352letra3numero3.png
+IA/letras/teste352letra4numero4.png
+IA/letras/teste352letra5numero5.png
+IA/identificado/teste352.png
+Contornos1 (54, 16, 23, 22)
+Contornos2 (104, 14, 17, 24)
+Contornos3 (204, 11, 22, 22)
+Contornos4 (158, 10, 26, 26)
+Contornos5 (14, 9, 29, 29)
+IA/letras/teste353letra1numero1.png
+IA/letras/teste353letra2numero2.png
+IA/letras/teste353letra3numero3.png
+IA/letras/teste353letra4numero4.png
+IA/letras/teste353letra5numero5.png
+IA/identificado/teste353.png
+Contornos1 (151, 18, 32, 25)
+Contornos2 (55, 15, 35, 25)
+Contornos3 (204, 12, 19, 26)
+Contornos4 (109, 11, 30, 25)
+Contornos5 (9, 7, 25, 23)
+IA/letras/teste354letra1numero1.png
+IA/letras/teste354letra2numero2.png
+IA/letras/teste354letra3numero3.png
+IA/letras/teste354letra4numero4.png
+IA/letras/teste354letra5numero5.png
+IA/identificado/teste354.png
+Contornos1 (13, 17, 20, 23)
+Contornos2 (203, 13, 17, 20)
+Contornos3 (107, 13, 23, 23)
+Contornos4 (155, 11, 24, 23)
+Contornos5 (58, 11, 26, 23)
+IA/letras/teste355letra1numero1.png
+IA/letras/teste355letra2numero2.png
+IA/letras/teste355letra3numero3.png
+IA/letras/teste355letra4numero4.png
+IA/letras/teste355letra5numero5.png
+IA/identificado/teste355.png
+Contornos1 (107, 15, 32, 23)
+Contornos2 (13, 14, 21, 26)
+Contornos3 (204, 12, 34, 21)
+Contornos4 (161, 12, 20, 21)
+Contornos5 (53, 8, 32, 24)
+IA/letras/teste356letra1numero1.png
+IA/letras/teste356letra2numero2.png
+IA/letras/teste356letra3numero3.png
+IA/letras/teste356letra4numero4.png
+IA/letras/teste356letra5numero5.png
+IA/identificado/teste356.png
+Contornos1 (55, 19, 36, 24)
+Contornos2 (157, 15, 22, 29)
+Contornos3 (15, 15, 33, 29)
+Contornos4 (202, 12, 26, 22)
+Contornos5 (111, 10, 18, 23)
+IA/letras/teste357letra1numero1.png
+IA/letras/teste357letra2numero2.png
+IA/letras/teste357letra3numero3.png
+IA/letras/teste357letra4numero4.png
+IA/letras/teste357letra5numero5.png
+IA/identificado/teste357.png
+Contornos1 (11, 23, 21, 27)
+Contornos2 (56, 16, 24, 25)
+Contornos3 (209, 15, 27, 23)
+Contornos4 (156, 13, 26, 22)
+Contornos5 (109, 9, 21, 25)
+IA/letras/teste358letra1numero1.png
+IA/letras/teste358letra2numero2.png
+IA/letras/teste358letra3numero3.png
+IA/letras/teste358letra4numero4.png
+IA/letras/teste358letra5numero5.png
+IA/identificado/teste358.png
+Contornos1 (155, 16, 27, 27)
+Contornos2 (10, 13, 25, 21)
+Contornos3 (204, 12, 20, 22)
+Contornos4 (109, 11, 31, 28)
+Contornos5 (54, 9, 15, 24)
+IA/letras/teste359letra1numero1.png
+IA/letras/teste359letra2numero2.png
+IA/letras/teste359letra3numero3.png
+IA/letras/teste359letra4numero4.png
+IA/letras/teste359letra5numero5.png
+IA/identificado/teste359.png
+Contornos1 (104, 17, 27, 22)
+Contornos2 (56, 17, 19, 22)
+Contornos3 (16, 15, 20, 28)
+Contornos4 (206, 11, 26, 28)
+Contornos5 (157, 9, 28, 22)
+IA/letras/teste360letra1numero1.png
+IA/letras/teste360letra2numero2.png
+IA/letras/teste360letra3numero3.png
+IA/letras/teste360letra4numero4.png
+IA/letras/teste360letra5numero5.png
+IA/identificado/teste360.png
+Contornos1 (14, 15, 26, 28)
+Contornos2 (152, 12, 31, 21)
+Contornos3 (53, 11, 28, 26)
+Contornos4 (207, 9, 21, 22)
+Contornos5 (105, 9, 26, 27)
+IA/letras/teste361letra1numero1.png
+IA/letras/teste361letra2numero2.png
+IA/letras/teste361letra3numero3.png
+IA/letras/teste361letra4numero4.png
+IA/letras/teste361letra5numero5.png
+IA/identificado/teste361.png
+Contornos1 (153, 16, 28, 23)
+Contornos2 (203, 14, 27, 26)
+Contornos3 (106, 12, 33, 29)
+Contornos4 (11, 11, 23, 26)
+Contornos5 (58, 9, 25, 24)
+IA/letras/teste362letra1numero1.png
+IA/letras/teste362letra2numero2.png
+IA/letras/teste362letra3numero3.png
+IA/letras/teste362letra4numero4.png
+IA/letras/teste362letra5numero5.png
+IA/identificado/teste362.png
+Contornos1 (107, 14, 30, 24)
+Contornos2 (203, 13, 26, 20)
+Contornos3 (55, 13, 31, 27)
+Contornos4 (155, 12, 25, 24)
+Contornos5 (12, 10, 29, 27)
+IA/letras/teste363letra1numero1.png
+IA/letras/teste363letra2numero2.png
+IA/letras/teste363letra3numero3.png
+IA/letras/teste363letra4numero4.png
+IA/letras/teste363letra5numero5.png
+IA/identificado/teste363.png
+Contornos1 (153, 15, 26, 27)
+Contornos2 (11, 14, 31, 24)
+Contornos3 (106, 13, 27, 25)
+Contornos4 (53, 13, 35, 26)
+Contornos5 (207, 12, 30, 23)
+IA/letras/teste364letra1numero1.png
+IA/letras/teste364letra2numero2.png
+IA/letras/teste364letra3numero3.png
+IA/letras/teste364letra4numero4.png
+IA/letras/teste364letra5numero5.png
+IA/identificado/teste364.png
+Contornos1 (55, 16, 38, 26)
+Contornos2 (103, 14, 26, 25)
+Contornos3 (204, 11, 26, 24)
+Contornos4 (13, 10, 15, 20)
+Contornos5 (156, 6, 24, 23)
+IA/letras/teste365letra1numero1.png
+IA/letras/teste365letra2numero2.png
+IA/letras/teste365letra3numero3.png
+IA/letras/teste365letra4numero4.png
+IA/letras/teste365letra5numero5.png
+IA/identificado/teste365.png
+Contornos1 (12, 19, 22, 28)
+Contornos2 (158, 18, 22, 24)
+Contornos3 (208, 16, 24, 27)
+Contornos4 (103, 12, 26, 23)
+Contornos5 (56, 10, 36, 24)
+IA/letras/teste366letra1numero1.png
+IA/letras/teste366letra2numero2.png
+IA/letras/teste366letra3numero3.png
+IA/letras/teste366letra4numero4.png
+IA/letras/teste366letra5numero5.png
+IA/identificado/teste366.png
+Contornos1 (204, 18, 31, 26)
+Contornos2 (106, 14, 24, 24)
+Contornos3 (57, 12, 31, 24)
+Contornos4 (155, 10, 29, 23)
+Contornos5 (17, 9, 19, 22)
+IA/letras/teste367letra1numero1.png
+IA/letras/teste367letra2numero2.png
+IA/letras/teste367letra3numero3.png
+IA/letras/teste367letra4numero4.png
+IA/letras/teste367letra5numero5.png
+IA/identificado/teste367.png
+Contornos1 (108, 18, 23, 24)
+Contornos2 (13, 16, 19, 24)
+Contornos3 (57, 12, 22, 24)
+Contornos4 (157, 11, 23, 24)
+Contornos5 (204, 10, 26, 23)
+IA/letras/teste368letra1numero1.png
+IA/letras/teste368letra2numero2.png
+IA/letras/teste368letra3numero3.png
+IA/letras/teste368letra4numero4.png
+IA/letras/teste368letra5numero5.png
+IA/identificado/teste368.png
+Contornos1 (158, 15, 24, 21)
+Contornos2 (51, 14, 31, 24)
+Contornos3 (11, 12, 23, 24)
+Contornos4 (206, 11, 25, 28)
+Contornos5 (107, 7, 26, 22)
+IA/letras/teste369letra1numero1.png
+IA/letras/teste369letra2numero2.png
+IA/letras/teste369letra3numero3.png
+IA/letras/teste369letra4numero4.png
+IA/letras/teste369letra5numero5.png
+IA/identificado/teste369.png
+Contornos1 (9, 17, 19, 24)
+Contornos2 (155, 14, 25, 27)
+Contornos3 (109, 14, 30, 27)
+Contornos4 (52, 14, 26, 26)
+Contornos5 (205, 12, 16, 23)
+IA/letras/teste370letra1numero1.png
+IA/letras/teste370letra2numero2.png
+IA/letras/teste370letra3numero3.png
+IA/letras/teste370letra4numero4.png
+IA/letras/teste370letra5numero5.png
+IA/identificado/teste370.png
+Contornos1 (204, 16, 27, 24)
+Contornos2 (52, 16, 39, 28)
+Contornos3 (10, 16, 30, 29)
+Contornos4 (158, 12, 31, 25)
+Contornos5 (106, 8, 19, 22)
+IA/letras/teste371letra1numero1.png
+IA/letras/teste371letra2numero2.png
+IA/letras/teste371letra3numero3.png
+IA/letras/teste371letra4numero4.png
+IA/letras/teste371letra5numero5.png
+IA/identificado/teste371.png
+Contornos1 (155, 14, 31, 28)
+Contornos2 (11, 14, 21, 22)
+Contornos3 (57, 13, 27, 27)
+Contornos4 (207, 10, 15, 22)
+Contornos5 (107, 8, 24, 21)
+IA/letras/teste372letra1numero1.png
+IA/letras/teste372letra2numero2.png
+IA/letras/teste372letra3numero3.png
+IA/letras/teste372letra4numero4.png
+IA/letras/teste372letra5numero5.png
+IA/identificado/teste372.png
+Contornos1 (157, 16, 27, 24)
+Contornos2 (14, 11, 23, 22)
+Contornos3 (55, 9, 25, 25)
+Contornos4 (203, 7, 17, 22)
+Contornos5 (106, 4, 22, 25)
+IA/letras/teste373letra1numero1.png
+IA/letras/teste373letra2numero2.png
+IA/letras/teste373letra3numero3.png
+IA/letras/teste373letra4numero4.png
+IA/letras/teste373letra5numero5.png
+IA/identificado/teste373.png
+Contornos1 (156, 21, 31, 26)
+Contornos2 (58, 16, 38, 25)
+Contornos3 (103, 13, 21, 23)
+Contornos4 (11, 8, 26, 26)
+Contornos5 (207, 7, 22, 22)
+IA/letras/teste374letra1numero1.png
+IA/letras/teste374letra2numero2.png
+IA/letras/teste374letra3numero3.png
+IA/letras/teste374letra4numero4.png
+IA/letras/teste374letra5numero5.png
+IA/identificado/teste374.png
+Contornos1 (204, 16, 23, 22)
+Contornos2 (160, 15, 36, 29)
+Contornos3 (104, 11, 27, 19)
+Contornos4 (57, 11, 22, 20)
+Contornos5 (14, 11, 30, 28)
+IA/letras/teste375letra1numero1.png
+IA/letras/teste375letra2numero2.png
+IA/letras/teste375letra3numero3.png
+IA/letras/teste375letra4numero4.png
+IA/letras/teste375letra5numero5.png
+IA/identificado/teste375.png
+Contornos1 (103, 15, 31, 26)
+Contornos2 (205, 12, 20, 23)
+Contornos3 (155, 11, 26, 24)
+Contornos4 (13, 11, 16, 23)
+Contornos5 (58, 10, 32, 25)
+IA/letras/teste376letra1numero1.png
+IA/letras/teste376letra2numero2.png
+IA/letras/teste376letra3numero3.png
+IA/letras/teste376letra4numero4.png
+IA/letras/teste376letra5numero5.png
+IA/identificado/teste376.png
+Contornos1 (10, 21, 31, 26)
+Contornos2 (204, 13, 21, 20)
+Contornos3 (150, 12, 37, 21)
+Contornos4 (103, 11, 33, 25)
+Contornos5 (55, 9, 23, 22)
+IA/letras/teste377letra1numero1.png
+IA/letras/teste377letra2numero2.png
+IA/letras/teste377letra3numero3.png
+IA/letras/teste377letra4numero4.png
+IA/letras/teste377letra5numero5.png
+IA/identificado/teste377.png
+Contornos1 (158, 20, 34, 27)
+Contornos2 (13, 17, 30, 23)
+Contornos3 (108, 13, 29, 24)
+Contornos4 (56, 12, 26, 22)
+Contornos5 (202, 7, 24, 23)
+IA/letras/teste378letra1numero1.png
+IA/letras/teste378letra2numero2.png
+IA/letras/teste378letra3numero3.png
+IA/letras/teste378letra4numero4.png
+IA/letras/teste378letra5numero5.png
+IA/identificado/teste378.png
+Contornos1 (108, 21, 27, 24)
+Contornos2 (57, 20, 22, 29)
+Contornos3 (152, 16, 33, 20)
+Contornos4 (13, 14, 17, 24)
+Contornos6 (206, 12, 25, 21)
+IA/letras/teste379letra1numero1.png
+IA/letras/teste379letra2numero2.png
+IA/letras/teste379letra3numero3.png
+IA/letras/teste379letra4numero4.png
+IA/letras/teste379letra5numero5.png
+IA/identificado/teste379.png
+Contornos1 (204, 16, 26, 22)
+Contornos2 (13, 15, 19, 22)
+Contornos3 (56, 10, 28, 21)
+Contornos4 (153, 9, 27, 23)
+Contornos5 (104, 9, 25, 23)
+IA/letras/teste380letra1numero1.png
+IA/letras/teste380letra2numero2.png
+IA/letras/teste380letra3numero3.png
+IA/letras/teste380letra4numero4.png
+IA/letras/teste380letra5numero5.png
+IA/identificado/teste380.png
+Contornos1 (157, 17, 34, 24)
+Contornos2 (12, 14, 24, 23)
+Contornos3 (107, 11, 17, 19)
+Contornos4 (56, 11, 25, 22)
+Contornos5 (205, 8, 22, 22)
+IA/letras/teste381letra1numero1.png
+IA/letras/teste381letra2numero2.png
+IA/letras/teste381letra3numero3.png
+IA/letras/teste381letra4numero4.png
+IA/letras/teste381letra5numero5.png
+IA/identificado/teste381.png
+Contornos1 (56, 16, 26, 27)
+Contornos2 (104, 14, 33, 27)
+Contornos3 (203, 13, 24, 24)
+Contornos4 (154, 12, 24, 22)
+Contornos5 (11, 11, 27, 26)
+IA/letras/teste382letra1numero1.png
+IA/letras/teste382letra2numero2.png
+IA/letras/teste382letra3numero3.png
+IA/letras/teste382letra4numero4.png
+IA/letras/teste382letra5numero5.png
+IA/identificado/teste382.png
+Contornos1 (54, 16, 20, 25)
+Contornos2 (156, 14, 25, 21)
+Contornos3 (10, 14, 32, 28)
+Contornos4 (110, 13, 26, 26)
+Contornos5 (204, 7, 15, 23)
+IA/letras/teste383letra1numero1.png
+IA/letras/teste383letra2numero2.png
+IA/letras/teste383letra3numero3.png
+IA/letras/teste383letra4numero4.png
+IA/letras/teste383letra5numero5.png
+IA/identificado/teste383.png
+Contornos1 (15, 21, 25, 22)
+Contornos2 (57, 18, 20, 24)
+Contornos3 (156, 14, 23, 23)
+Contornos4 (202, 13, 21, 19)
+Contornos5 (110, 11, 30, 27)
+IA/letras/teste384letra1numero1.png
+IA/letras/teste384letra2numero2.png
+IA/letras/teste384letra3numero3.png
+IA/letras/teste384letra4numero4.png
+IA/letras/teste384letra5numero5.png
+IA/identificado/teste384.png
+Contornos1 (205, 17, 23, 24)
+Contornos2 (157, 16, 23, 29)
+Contornos3 (52, 16, 30, 25)
+Contornos4 (109, 15, 22, 27)
+Contornos5 (13, 12, 18, 24)
+IA/letras/teste385letra1numero1.png
+IA/letras/teste385letra2numero2.png
+IA/letras/teste385letra3numero3.png
+IA/letras/teste385letra4numero4.png
+IA/letras/teste385letra5numero5.png
+IA/identificado/teste385.png
+Contornos1 (155, 17, 37, 25)
+Contornos2 (100, 12, 39, 25)
+Contornos3 (60, 9, 27, 26)
+Contornos4 (204, 8, 37, 24)
+Contornos5 (17, 6, 19, 25)
+IA/letras/teste386letra1numero1.png
+IA/letras/teste386letra2numero2.png
+IA/letras/teste386letra3numero3.png
+IA/letras/teste386letra4numero4.png
+IA/letras/teste386letra5numero5.png
+IA/identificado/teste386.png
+Contornos1 (53, 17, 36, 26)
+Contornos2 (12, 14, 30, 27)
+Contornos3 (203, 10, 23, 25)
+Contornos4 (104, 10, 20, 22)
+Contornos5 (159, 7, 25, 23)
+IA/letras/teste387letra1numero1.png
+IA/letras/teste387letra2numero2.png
+IA/letras/teste387letra3numero3.png
+IA/letras/teste387letra4numero4.png
+IA/letras/teste387letra5numero5.png
+IA/identificado/teste387.png
+Contornos1 (206, 15, 20, 22)
+Contornos2 (106, 15, 20, 23)
+Contornos3 (60, 14, 21, 20)
+Contornos4 (13, 11, 24, 23)
+Contornos5 (157, 8, 23, 27)
+IA/letras/teste388letra1numero1.png
+IA/letras/teste388letra2numero2.png
+IA/letras/teste388letra3numero3.png
+IA/letras/teste388letra4numero4.png
+IA/letras/teste388letra5numero5.png
+IA/identificado/teste388.png
+Contornos1 (10, 17, 23, 23)
+Contornos2 (108, 16, 35, 25)
+Contornos3 (207, 13, 11, 20)
+Contornos4 (155, 9, 39, 26)
+Contornos5 (54, 9, 28, 22)
+IA/letras/teste389letra1numero1.png
+IA/letras/teste389letra2numero2.png
+IA/letras/teste389letra3numero3.png
+IA/letras/teste389letra4numero4.png
+IA/letras/teste389letra5numero5.png
+IA/identificado/teste389.png
+Contornos1 (52, 16, 22, 23)
+Contornos2 (157, 13, 24, 25)
+Contornos3 (10, 12, 34, 22)
+Contornos4 (204, 11, 21, 22)
+Contornos5 (108, 10, 28, 24)
+IA/letras/teste390letra1numero1.png
+IA/letras/teste390letra2numero2.png
+IA/letras/teste390letra3numero3.png
+IA/letras/teste390letra4numero4.png
+IA/letras/teste390letra5numero5.png
+IA/identificado/teste390.png
+Contornos1 (203, 16, 28, 25)
+Contornos2 (9, 15, 27, 23)
+Contornos3 (154, 14, 34, 22)
+Contornos4 (106, 12, 31, 24)
+Contornos5 (53, 11, 31, 22)
+IA/letras/teste391letra1numero1.png
+IA/letras/teste391letra2numero2.png
+IA/letras/teste391letra3numero3.png
+IA/letras/teste391letra4numero4.png
+IA/letras/teste391letra5numero5.png
+IA/identificado/teste391.png
+Contornos1 (58, 12, 32, 25)
+Contornos2 (202, 11, 25, 23)
+Contornos3 (16, 11, 19, 26)
+Contornos4 (153, 9, 25, 24)
+Contornos5 (106, 8, 24, 26)
+IA/letras/teste493letra1numero1.png
+IA/letras/teste493letra2numero2.png
+IA/letras/teste493letra3numero3.png
+IA/letras/teste493letra4numero4.png
+IA/letras/teste493letra5numero5.png
+IA/identificado/teste493.png
+Contornos2 (201, 17, 32, 27)
+Contornos3 (154, 14, 21, 23)
+Contornos4 (15, 14, 18, 24)
+Contornos5 (104, 13, 24, 22)
+Contornos6 (55, 12, 31, 24)
+IA/letras/teste494letra1numero1.png
+IA/letras/teste494letra2numero2.png
+IA/letras/teste494letra3numero3.png
+IA/letras/teste494letra4numero4.png
+IA/letras/teste494letra5numero5.png
+IA/identificado/teste494.png
+Contornos1 (200, 15, 30, 23)
+Contornos2 (153, 15, 27, 27)
+Contornos3 (11, 14, 29, 24)
+Contornos4 (104, 13, 27, 22)
+Contornos5 (56, 8, 28, 24)
+IA/letras/teste495letra1numero1.png
+IA/letras/teste495letra2numero2.png
+IA/letras/teste495letra3numero3.png
+IA/letras/teste495letra4numero4.png
+IA/letras/teste495letra5numero5.png
+IA/identificado/teste495.png
+Contornos1 (107, 21, 29, 27)
+Contornos2 (14, 20, 20, 26)
+Contornos3 (206, 17, 26, 24)
+Contornos4 (53, 13, 32, 19)
+Contornos5 (159, 12, 31, 26)
+IA/letras/teste496letra1numero1.png
+IA/letras/teste496letra2numero2.png
+IA/letras/teste496letra3numero3.png
+IA/letras/teste496letra4numero4.png
+IA/letras/teste496letra5numero5.png
+IA/identificado/teste496.png
+Contornos1 (157, 11, 22, 26)
+Contornos2 (56, 11, 33, 28)
+Contornos3 (8, 11, 19, 23)
+Contornos4 (107, 9, 27, 22)
+Contornos5 (203, 8, 20, 26)
+IA/letras/teste497letra1numero1.png
+IA/letras/teste497letra2numero2.png
+IA/letras/teste497letra3numero3.png
+IA/letras/teste497letra4numero4.png
+IA/letras/teste497letra5numero5.png
+IA/identificado/teste497.png
+Contornos1 (104, 20, 34, 25)
+Contornos2 (204, 18, 33, 22)
+Contornos3 (13, 17, 29, 26)
+Contornos4 (156, 13, 25, 19)
+Contornos5 (58, 11, 27, 21)
+IA/letras/teste498letra1numero1.png
+IA/letras/teste498letra2numero2.png
+IA/letras/teste498letra3numero3.png
+IA/letras/teste498letra4numero4.png
+IA/letras/teste498letra5numero5.png
+IA/identificado/teste498.png
+Contornos1 (108, 21, 34, 28)
+Contornos2 (60, 17, 21, 23)
+Contornos3 (153, 15, 31, 25)
+Contornos4 (202, 13, 25, 27)
+Contornos5 (14, 9, 28, 27)
+IA/letras/teste499letra1numero1.png
+IA/letras/teste499letra2numero2.png
+IA/letras/teste499letra3numero3.png
+IA/letras/teste499letra4numero4.png
+IA/letras/teste499letra5numero5.png
+IA/identificado/teste499.png
+Contornos1 (58, 14, 32, 30)
+Contornos2 (206, 13, 22, 25)
+Contornos3 (156, 13, 21, 23)
+Contornos4 (106, 13, 33, 23)
+Contornos5 (11, 11, 34, 27)
+IA/letras/teste500letra1numero1.png
+IA/letras/teste500letra2numero2.png
+IA/letras/teste500letra3numero3.png
+IA/letras/teste500letra4numero4.png
+IA/letras/teste500letra5numero5.png
+IA/identificado/teste500.png
+Contornos1 (58, 22, 24, 26)
+Contornos2 (154, 17, 34, 22)
+Contornos3 (15, 13, 29, 26)
+Contornos4 (206, 9, 26, 27)
+Contornos5 (107, 4, 23, 27)
+IA/letras/teste501letra1numero1.png
+IA/letras/teste501letra2numero2.png
+IA/letras/teste501letra3numero3.png
+IA/letras/teste501letra4numero4.png
+IA/letras/teste501letra5numero5.png
+IA/identificado/teste501.png
+Contornos1 (55, 18, 28, 26)
+Contornos2 (103, 17, 34, 24)
+Contornos3 (12, 17, 18, 26)
+Contornos4 (206, 15, 22, 27)
+Contornos5 (154, 15, 39, 32)
+IA/letras/teste502letra1numero1.png
+IA/letras/teste502letra2numero2.png
+IA/letras/teste502letra3numero3.png
+IA/letras/teste502letra4numero4.png
+IA/letras/teste502letra5numero5.png
+IA/identificado/teste502.png
+Contornos1 (54, 18, 35, 24)
+Contornos2 (104, 16, 27, 25)
+Contornos3 (11, 15, 27, 25)
+Contornos4 (159, 13, 25, 24)
+Contornos5 (205, 11, 25, 26)
+IA/letras/teste503letra1numero1.png
+IA/letras/teste503letra2numero2.png
+IA/letras/teste503letra3numero3.png
+IA/letras/teste503letra4numero4.png
+IA/letras/teste503letra5numero5.png
+IA/identificado/teste503.png
+Contornos1 (106, 22, 33, 26)
+Contornos2 (204, 17, 26, 24)
+Contornos3 (54, 16, 32, 22)
+Contornos4 (153, 12, 26, 23)
+Contornos5 (12, 11, 15, 21)
+IA/letras/teste504letra1numero1.png
+IA/letras/teste504letra2numero2.png
+IA/letras/teste504letra3numero3.png
+IA/letras/teste504letra4numero4.png
+IA/letras/teste504letra5numero5.png
+IA/identificado/teste504.png
+Contornos1 (15, 23, 29, 27)
+Contornos2 (103, 16, 29, 28)
+Contornos3 (155, 14, 36, 26)
+Contornos4 (206, 11, 27, 25)
+Contornos5 (56, 9, 26, 26)
+IA/letras/teste505letra1numero1.png
+IA/letras/teste505letra2numero2.png
+IA/letras/teste505letra3numero3.png
+IA/letras/teste505letra4numero4.png
+IA/letras/teste505letra5numero5.png
+IA/identificado/teste505.png
+Contornos1 (12, 15, 32, 27)
+Contornos2 (160, 14, 23, 27)
+Contornos3 (102, 13, 31, 25)
+Contornos4 (57, 13, 28, 23)
+Contornos5 (205, 8, 21, 22)
+IA/letras/teste506letra1numero1.png
+IA/letras/teste506letra2numero2.png
+IA/letras/teste506letra3numero3.png
+IA/letras/teste506letra4numero4.png
+IA/letras/teste506letra5numero5.png
+IA/identificado/teste506.png
+Contornos1 (161, 21, 29, 26)
+Contornos2 (109, 17, 26, 26)
+Contornos3 (59, 15, 19, 26)
+Contornos4 (203, 14, 26, 21)
+Contornos5 (14, 8, 27, 27)
+IA/letras/teste507letra1numero1.png
+IA/letras/teste507letra2numero2.png
+IA/letras/teste507letra3numero3.png
+IA/letras/teste507letra4numero4.png
+IA/letras/teste507letra5numero5.png
+IA/identificado/teste507.png
+Contornos1 (157, 22, 29, 26)
+Contornos2 (103, 17, 17, 32)
+Contornos3 (206, 15, 19, 27)
+Contornos4 (55, 12, 22, 24)
+Contornos5 (16, 8, 20, 21)
+IA/letras/teste508letra1numero1.png
+IA/letras/teste508letra2numero2.png
+IA/letras/teste508letra3numero3.png
+IA/letras/teste508letra4numero4.png
+IA/letras/teste508letra5numero5.png
+IA/identificado/teste508.png
+Contornos1 (106, 14, 28, 31)
+Contornos2 (206, 12, 24, 27)
+Contornos3 (157, 12, 29, 22)
+Contornos4 (16, 11, 17, 21)
+Contornos5 (58, 10, 22, 23)
+IA/letras/teste509letra1numero1.png
+IA/letras/teste509letra2numero2.png
+IA/letras/teste509letra3numero3.png
+IA/letras/teste509letra4numero4.png
+IA/letras/teste509letra5numero5.png
+IA/identificado/teste509.png
+Contornos1 (108, 17, 34, 32)
+Contornos2 (16, 17, 19, 24)
+Contornos3 (206, 12, 22, 25)
+Contornos4 (153, 12, 35, 25)
+Contornos5 (60, 9, 17, 22)
+IA/letras/teste510letra1numero1.png
+IA/letras/teste510letra2numero2.png
+IA/letras/teste510letra3numero3.png
+IA/letras/teste510letra4numero4.png
+IA/letras/teste510letra5numero5.png
+IA/identificado/teste510.png
+Contornos1 (203, 17, 14, 27)
+Contornos2 (103, 14, 33, 22)
+Contornos3 (157, 13, 29, 26)
+Contornos4 (14, 10, 19, 23)
+Contornos5 (55, 7, 21, 23)
+IA/letras/teste511letra1numero1.png
+IA/letras/teste511letra2numero2.png
+IA/letras/teste511letra3numero3.png
+IA/letras/teste511letra4numero4.png
+IA/letras/teste511letra5numero5.png
+IA/identificado/teste511.png
+Contornos1 (203, 22, 31, 25)
+Contornos2 (106, 13, 31, 24)
+Contornos3 (13, 13, 19, 26)
+Contornos4 (153, 12, 21, 20)
+Contornos5 (57, 8, 19, 21)
+IA/letras/teste512letra1numero1.png
+IA/letras/teste512letra2numero2.png
+IA/letras/teste512letra3numero3.png
+IA/letras/teste512letra4numero4.png
+IA/letras/teste512letra5numero5.png
+IA/identificado/teste512.png
+Contornos1 (110, 21, 33, 27)
+Contornos2 (204, 17, 25, 22)
+Contornos3 (16, 13, 19, 24)
+Contornos4 (57, 10, 24, 24)
+Contornos5 (158, 9, 27, 28)
+IA/letras/teste513letra1numero1.png
+IA/letras/teste513letra2numero2.png
+IA/letras/teste513letra3numero3.png
+IA/letras/teste513letra4numero4.png
+IA/letras/teste513letra5numero5.png
+IA/identificado/teste513.png
+Contornos1 (105, 17, 28, 25)
+Contornos2 (202, 15, 21, 23)
+Contornos3 (12, 15, 31, 24)
+Contornos4 (157, 11, 25, 25)
+Contornos5 (54, 11, 26, 26)
+IA/letras/teste514letra1numero1.png
+IA/letras/teste514letra2numero2.png
+IA/letras/teste514letra3numero3.png
+IA/letras/teste514letra4numero4.png
+IA/letras/teste514letra5numero5.png
+IA/identificado/teste514.png
+Contornos1 (155, 18, 34, 26)
+Contornos2 (17, 18, 25, 28)
+Contornos3 (205, 14, 21, 21)
+Contornos4 (105, 10, 27, 20)
+Contornos5 (58, 9, 23, 27)
+IA/letras/teste515letra1numero1.png
+IA/letras/teste515letra2numero2.png
+IA/letras/teste515letra3numero3.png
+IA/letras/teste515letra4numero4.png
+IA/letras/teste515letra5numero5.png
+IA/identificado/teste515.png
+Contornos1 (105, 17, 30, 23)
+Contornos2 (157, 16, 26, 25)
+Contornos3 (205, 14, 24, 24)
+Contornos4 (56, 12, 29, 25)
+Contornos5 (12, 12, 20, 25)
+IA/letras/teste516letra1numero1.png
+IA/letras/teste516letra2numero2.png
+IA/letras/teste516letra3numero3.png
+IA/letras/teste516letra4numero4.png
+IA/letras/teste516letra5numero5.png
+IA/identificado/teste516.png
+Contornos1 (106, 17, 37, 28)
+Contornos2 (59, 17, 20, 25)
+Contornos3 (155, 16, 13, 28)
+Contornos4 (203, 9, 22, 27)
+Contornos5 (13, 9, 18, 27)
+IA/letras/teste517letra1numero1.png
+IA/letras/teste517letra2numero2.png
+IA/letras/teste517letra3numero3.png
+IA/letras/teste517letra4numero4.png
+IA/letras/teste517letra5numero5.png
+IA/identificado/teste517.png
+Contornos1 (14, 21, 22, 23)
+Contornos2 (56, 15, 34, 25)
+Contornos3 (206, 13, 21, 24)
+Contornos4 (106, 13, 31, 25)
+Contornos5 (159, 4, 24, 28)
+IA/letras/teste518letra1numero1.png
+IA/letras/teste518letra2numero2.png
+IA/letras/teste518letra3numero3.png
+IA/letras/teste518letra4numero4.png
+IA/letras/teste518letra5numero5.png
+IA/identificado/teste518.png
+Contornos1 (58, 22, 25, 27)
+Contornos2 (102, 16, 35, 26)
+Contornos3 (204, 15, 22, 25)
+Contornos4 (12, 12, 23, 19)
+Contornos5 (161, 11, 26, 28)
+IA/letras/teste519letra1numero1.png
+IA/letras/teste519letra2numero2.png
+IA/letras/teste519letra3numero3.png
+IA/letras/teste519letra4numero4.png
+IA/letras/teste519letra5numero5.png
+IA/identificado/teste519.png
+Contornos1 (110, 21, 27, 24)
+Contornos2 (11, 18, 27, 22)
+Contornos3 (206, 16, 28, 23)
+Contornos4 (156, 11, 26, 21)
+Contornos5 (56, 8, 28, 25)
+IA/letras/teste520letra1numero1.png
+IA/letras/teste520letra2numero2.png
+IA/letras/teste520letra3numero3.png
+IA/letras/teste520letra4numero4.png
+IA/letras/teste520letra5numero5.png
+IA/identificado/teste520.png
+Contornos1 (12, 20, 27, 25)
+Contornos2 (206, 16, 30, 26)
+Contornos3 (52, 15, 32, 23)
+Contornos4 (154, 10, 37, 26)
+Contornos5 (104, 10, 21, 22)
+IA/letras/teste521letra1numero1.png
+IA/letras/teste521letra2numero2.png
+IA/letras/teste521letra3numero3.png
+IA/letras/teste521letra4numero4.png
+IA/letras/teste521letra5numero5.png
+IA/identificado/teste521.png
+Contornos1 (204, 17, 31, 27)
+Contornos2 (154, 15, 25, 25)
+Contornos3 (105, 15, 33, 28)
+Contornos4 (56, 15, 32, 23)
+Contornos5 (14, 10, 30, 31)
+IA/letras/teste522letra1numero1.png
+IA/letras/teste522letra2numero2.png
+IA/letras/teste522letra3numero3.png
+IA/letras/teste522letra4numero4.png
+IA/letras/teste522letra5numero5.png
+IA/identificado/teste522.png
+Contornos1 (53, 16, 28, 24)
+Contornos2 (207, 14, 22, 25)
+Contornos3 (110, 14, 30, 25)
+Contornos4 (9, 14, 21, 21)
+Contornos5 (158, 11, 22, 24)
+IA/letras/teste523letra1numero1.png
+IA/letras/teste523letra2numero2.png
+IA/letras/teste523letra3numero3.png
+IA/letras/teste523letra4numero4.png
+IA/letras/teste523letra5numero5.png
+IA/identificado/teste523.png
+Contornos1 (53, 14, 22, 22)
+Contornos2 (156, 13, 20, 22)
+Contornos3 (108, 13, 28, 19)
+Contornos4 (206, 8, 22, 22)
+Contornos5 (17, 6, 17, 23)
+IA/letras/teste524letra1numero1.png
+IA/letras/teste524letra2numero2.png
+IA/letras/teste524letra3numero3.png
+IA/letras/teste524letra4numero4.png
+IA/letras/teste524letra5numero5.png
+IA/identificado/teste524.png
+Contornos1 (203, 19, 29, 22)
+Contornos2 (157, 17, 26, 23)
+Contornos3 (59, 17, 33, 23)
+Contornos4 (103, 12, 24, 22)
+Contornos5 (14, 10, 30, 23)
+IA/letras/teste525letra1numero1.png
+IA/letras/teste525letra2numero2.png
+IA/letras/teste525letra3numero3.png
+IA/letras/teste525letra4numero4.png
+IA/letras/teste525letra5numero5.png
+IA/identificado/teste525.png
+Contornos1 (152, 23, 31, 26)
+Contornos2 (12, 17, 22, 23)
+Contornos3 (57, 14, 25, 24)
+Contornos4 (202, 13, 27, 22)
+Contornos5 (108, 8, 31, 26)
+IA/letras/teste526letra1numero1.png
+IA/letras/teste526letra2numero2.png
+IA/letras/teste526letra3numero3.png
+IA/letras/teste526letra4numero4.png
+IA/letras/teste526letra5numero5.png
+IA/identificado/teste526.png
+Contornos1 (202, 13, 19, 27)
+Contornos2 (104, 12, 28, 26)
+Contornos3 (51, 12, 31, 19)
+Contornos4 (156, 11, 26, 26)
+Contornos5 (13, 9, 17, 27)
+IA/letras/teste527letra1numero1.png
+IA/letras/teste527letra2numero2.png
+IA/letras/teste527letra3numero3.png
+IA/letras/teste527letra4numero4.png
+IA/letras/teste527letra5numero5.png
+IA/identificado/teste527.png
+Contornos1 (14, 18, 28, 26)
+Contornos2 (107, 15, 35, 31)
+Contornos3 (202, 10, 25, 26)
+Contornos4 (59, 10, 26, 23)
+Contornos5 (160, 5, 22, 26)
+IA/letras/teste528letra1numero1.png
+IA/letras/teste528letra2numero2.png
+IA/letras/teste528letra3numero3.png
+IA/letras/teste528letra4numero4.png
+IA/letras/teste528letra5numero5.png
+IA/identificado/teste528.png
+Contornos1 (153, 20, 35, 24)
+Contornos2 (205, 16, 26, 23)
+Contornos3 (53, 13, 33, 24)
+Contornos4 (16, 11, 25, 25)
+Contornos5 (106, 8, 21, 24)
+IA/letras/teste529letra1numero1.png
+IA/letras/teste529letra2numero2.png
+IA/letras/teste529letra3numero3.png
+IA/letras/teste529letra4numero4.png
+IA/letras/teste529letra5numero5.png
+IA/identificado/teste529.png
+Contornos1 (11, 18, 18, 26)
+Contornos2 (57, 16, 19, 24)
+Contornos3 (104, 14, 22, 23)
+Contornos4 (206, 12, 21, 23)
+Contornos5 (153, 12, 24, 23)
+IA/letras/teste530letra1numero1.png
+IA/letras/teste530letra2numero2.png
+IA/letras/teste530letra3numero3.png
+IA/letras/teste530letra4numero4.png
+IA/letras/teste530letra5numero5.png
+IA/identificado/teste530.png
+Contornos1 (10, 17, 29, 23)
+Contornos2 (201, 16, 25, 24)
+Contornos3 (56, 16, 26, 28)
+Contornos5 (108, 11, 35, 25)
+Contornos6 (160, 9, 23, 24)
+IA/letras/teste531letra1numero1.png
+IA/letras/teste531letra2numero2.png
+IA/letras/teste531letra3numero3.png
+IA/letras/teste531letra4numero4.png
+IA/letras/teste531letra5numero5.png
+IA/identificado/teste531.png
+Contornos1 (204, 22, 20, 24)
+Contornos2 (155, 12, 29, 24)
+Contornos3 (103, 11, 23, 25)
+Contornos4 (56, 8, 18, 22)
+Contornos5 (13, 8, 19, 25)
+IA/letras/teste532letra1numero1.png
+IA/letras/teste532letra2numero2.png
+IA/letras/teste532letra3numero3.png
+IA/letras/teste532letra4numero4.png
+IA/letras/teste532letra5numero5.png
+IA/identificado/teste532.png
+Contornos1 (109, 18, 34, 25)
+Contornos2 (11, 17, 28, 26)
+Contornos3 (204, 13, 29, 26)
+Contornos4 (158, 13, 32, 26)
+Contornos5 (55, 10, 25, 23)
+IA/letras/teste533letra1numero1.png
+IA/letras/teste533letra2numero2.png
+IA/letras/teste533letra3numero3.png
+IA/letras/teste533letra4numero4.png
+IA/letras/teste533letra5numero5.png
+IA/identificado/teste533.png
+Contornos1 (158, 17, 20, 25)
+Contornos2 (204, 12, 24, 22)
+Contornos3 (53, 11, 34, 25)
+Contornos4 (16, 11, 21, 23)
+Contornos5 (105, 10, 24, 24)
+IA/letras/teste534letra1numero1.png
+IA/letras/teste534letra2numero2.png
+IA/letras/teste534letra3numero3.png
+IA/letras/teste534letra4numero4.png
+IA/letras/teste534letra5numero5.png
+IA/identificado/teste534.png
+Contornos1 (52, 22, 24, 21)
+Contornos2 (202, 13, 33, 26)
+Contornos3 (109, 13, 21, 25)
+Contornos4 (160, 12, 32, 28)
+Contornos5 (14, 9, 21, 24)
+IA/letras/teste535letra1numero1.png
+IA/letras/teste535letra2numero2.png
+IA/letras/teste535letra3numero3.png
+IA/letras/teste535letra4numero4.png
+IA/letras/teste535letra5numero5.png
+IA/identificado/teste535.png
+Contornos1 (205, 17, 29, 26)
+Contornos2 (154, 16, 31, 23)
+Contornos3 (54, 16, 33, 24)
+Contornos4 (105, 13, 26, 24)
+Contornos5 (11, 10, 30, 25)
+IA/letras/teste536letra1numero1.png
+IA/letras/teste536letra2numero2.png
+IA/letras/teste536letra3numero3.png
+IA/letras/teste536letra4numero4.png
+IA/letras/teste536letra5numero5.png
+IA/identificado/teste536.png
+Contornos1 (151, 14, 29, 28)
+Contornos2 (58, 14, 40, 31)
+Contornos3 (113, 10, 20, 23)
+Contornos4 (13, 10, 25, 27)
+Contornos5 (202, 9, 24, 25)
+IA/letras/teste537letra1numero1.png
+IA/letras/teste537letra2numero2.png
+IA/letras/teste537letra3numero3.png
+IA/letras/teste537letra4numero4.png
+IA/letras/teste537letra5numero5.png
+IA/identificado/teste537.png
+Contornos1 (154, 13, 24, 24)
+Contornos2 (13, 12, 21, 23)
+Contornos3 (108, 11, 20, 27)
+Contornos4 (203, 10, 23, 24)
+Contornos5 (57, 8, 31, 27)
+IA/letras/teste538letra1numero1.png
+IA/letras/teste538letra2numero2.png
+IA/letras/teste538letra3numero3.png
+IA/letras/teste538letra4numero4.png
+IA/letras/teste538letra5numero5.png
+IA/identificado/teste538.png
+Contornos1 (107, 19, 33, 24)
+Contornos2 (55, 15, 27, 22)
+Contornos3 (208, 14, 31, 27)
+Contornos4 (13, 9, 24, 23)
+Contornos5 (159, 8, 28, 24)
+IA/letras/teste539letra1numero1.png
+IA/letras/teste539letra2numero2.png
+IA/letras/teste539letra3numero3.png
+IA/letras/teste539letra4numero4.png
+IA/letras/teste539letra5numero5.png
+IA/identificado/teste539.png
+Contornos1 (12, 16, 18, 22)
+Contornos2 (105, 13, 33, 26)
+Contornos3 (55, 11, 27, 21)
+Contornos4 (158, 10, 26, 21)
+Contornos5 (207, 8, 17, 21)
+IA/letras/teste540letra1numero1.png
+IA/letras/teste540letra2numero2.png
+IA/letras/teste540letra3numero3.png
+IA/letras/teste540letra4numero4.png
+IA/letras/teste540letra5numero5.png
+IA/identificado/teste540.png
+Contornos1 (58, 17, 23, 22)
+Contornos2 (159, 11, 23, 21)
+Contornos3 (106, 11, 24, 20)
+Contornos4 (208, 10, 20, 24)
+Contornos5 (14, 7, 19, 23)
+IA/letras/teste541letra1numero1.png
+IA/letras/teste541letra2numero2.png
+IA/letras/teste541letra3numero3.png
+IA/letras/teste541letra4numero4.png
+IA/letras/teste541letra5numero5.png
+IA/identificado/teste541.png
+Contornos1 (202, 22, 26, 22)
+Contornos2 (106, 18, 26, 26)
+Contornos3 (13, 13, 28, 30)
+Contornos4 (156, 10, 36, 32)
+Contornos5 (53, 10, 12, 20)
+IA/letras/teste542letra1numero1.png
+IA/letras/teste542letra2numero2.png
+IA/letras/teste542letra3numero3.png
+IA/letras/teste542letra4numero4.png
+IA/letras/teste542letra5numero5.png
+IA/identificado/teste542.png

@@ -1,0 +1,528 @@
+{
+  "0": {
+    "title": "Líderes Ofensivos",
+    "groups": [
+      {
+        "abbrev": "PTS",
+        "desc": "Pts Por Jogo",
+        "header": "Pontos",
+        "leaders": [
+          {
+            "shortName": "J. Embiid",
+            "name": "Joel Embiid",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3059318/joel-embiid",
+            "uid": "s:40~l:46~a:3059318",
+            "guid": "89410119-0011-5ba0-efed-7b0b6c756c23",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3059318.png",
+              "alt": "Joel Embiid"
+            },
+            "team": "PHI",
+            "statValue": "35.3",
+            "rank": 1
+          },
+          {
+            "shortName": "L. Doncic",
+            "name": "Luka Doncic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3945274/luka-doncic",
+            "uid": "s:40~l:46~a:3945274",
+            "guid": "583794eb-0f38-9bbd-3e25-9dd33b7f83b8",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+              "alt": "Luka Doncic"
+            },
+            "team": "DAL",
+            "statValue": "34.6",
+            "rank": 2
+          },
+          {
+            "shortName": "S. Gilgeous-Alexander",
+            "name": "Shai Gilgeous-Alexander",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4278073/shai-gilgeous-alexander",
+            "uid": "s:40~l:46~a:4278073",
+            "guid": "4dcec409-3ff9-2881-2bc3-b4289ce6c36d",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4278073.png",
+              "alt": "Shai Gilgeous-Alexander"
+            },
+            "team": "OKC",
+            "statValue": "31.1",
+            "rank": 3
+          },
+          {
+            "shortName": "G. Antetokounmpo",
+            "name": "Giannis Antetokounmpo",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3032977/giannis-antetokounmpo",
+            "uid": "s:40~l:46~a:3032977",
+            "guid": "00985054-c4b3-4247-e825-ddf062d457c3",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3032977.png",
+              "alt": "Giannis Antetokounmpo"
+            },
+            "team": "MIL",
+            "statValue": "31.1",
+            "rank": 3
+          },
+          {
+            "shortName": "D. Mitchell",
+            "name": "Donovan Mitchell",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3908809/donovan-mitchell",
+            "uid": "s:40~l:46~a:3908809",
+            "guid": "6482ece5-f903-92e2-ffdd-13901fdd3a49",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+              "alt": "Donovan Mitchell"
+            },
+            "team": "CLE",
+            "statValue": "28.5",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador"
+        }
+      },
+      {
+        "abbrev": "AST",
+        "desc": "Assistências por jogo",
+        "header": "Assistências",
+        "leaders": [
+          {
+            "shortName": "T. Haliburton",
+            "name": "Tyrese Haliburton",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4396993/tyrese-haliburton",
+            "uid": "s:40~l:46~a:4396993",
+            "guid": "c4a0ba92-4e50-60af-a617-3345255115a7",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png",
+              "alt": "Tyrese Haliburton"
+            },
+            "team": "IND",
+            "statValue": "11.6",
+            "rank": 1
+          },
+          {
+            "shortName": "T. Young",
+            "name": "Trae Young",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4277905/trae-young",
+            "uid": "s:40~l:46~a:4277905",
+            "guid": "5745cf6d-e0cb-7585-60cd-97f7891bbeef",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4277905.png",
+              "alt": "Trae Young"
+            },
+            "team": "ATL",
+            "statValue": "10.9",
+            "rank": 2
+          },
+          {
+            "shortName": "L. Doncic",
+            "name": "Luka Doncic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3945274/luka-doncic",
+            "uid": "s:40~l:46~a:3945274",
+            "guid": "583794eb-0f38-9bbd-3e25-9dd33b7f83b8",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+              "alt": "Luka Doncic"
+            },
+            "team": "DAL",
+            "statValue": "9.5",
+            "rank": 3
+          },
+          {
+            "shortName": "N. Jokic",
+            "name": "Nikola Jokic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3112335/nikola-jokic",
+            "uid": "s:40~l:46~a:3112335",
+            "guid": "22f57511-06ae-1587-f01b-33965365ce0d",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
+              "alt": "Nikola Jokic"
+            },
+            "team": "DEN",
+            "statValue": "9.0",
+            "rank": 4
+          },
+          {
+            "shortName": "J. Harden",
+            "name": "James Harden",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3992/james-harden",
+            "uid": "s:40~l:46~a:3992",
+            "guid": "35b0f455-b1df-0986-121d-27d2b6c18122",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png",
+              "alt": "James Harden"
+            },
+            "team": "LAC",
+            "statValue": "8.5",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador/_/table/offensive/ordenar/avgAssists/dir/desce"
+        }
+      },
+      {
+        "abbrev": "3PM",
+        "desc": "Média de arremessos de 3 pontos feitos",
+        "header": "Arremessos de 3 Pontos",
+        "leaders": [
+          {
+            "shortName": "S. Curry",
+            "name": "Stephen Curry",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3975/stephen-curry",
+            "uid": "s:40~l:46~a:3975",
+            "guid": "5dda51f1-50c9-66e1-2026-400b73f34fad",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3975.png",
+              "alt": "Stephen Curry"
+            },
+            "team": "GS",
+            "statValue": "4.9",
+            "rank": 1
+          },
+          {
+            "shortName": "L. Doncic",
+            "name": "Luka Doncic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3945274/luka-doncic",
+            "uid": "s:40~l:46~a:3945274",
+            "guid": "583794eb-0f38-9bbd-3e25-9dd33b7f83b8",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+              "alt": "Luka Doncic"
+            },
+            "team": "DAL",
+            "statValue": "4.0",
+            "rank": 2
+          },
+          {
+            "shortName": "C. McCollum",
+            "name": "CJ McCollum",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/2490149/cj-mccollum",
+            "uid": "s:40~l:46~a:2490149",
+            "guid": "650bab3d-b658-cba4-a596-044c1e1fa8c0",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/2490149.png",
+              "alt": "CJ McCollum"
+            },
+            "team": "NO",
+            "statValue": "3.5",
+            "rank": 3
+          },
+          {
+            "shortName": "A. Simons",
+            "name": "Anfernee Simons",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4351851/anfernee-simons",
+            "uid": "s:40~l:46~a:4351851",
+            "guid": "95170b60-db18-eac2-dca0-6cbf4bc24884",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4351851.png",
+              "alt": "Anfernee Simons"
+            },
+            "team": "POR",
+            "statValue": "3.4",
+            "rank": 4
+          },
+          {
+            "shortName": "T. Young",
+            "name": "Trae Young",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4277905/trae-young",
+            "uid": "s:40~l:46~a:4277905",
+            "guid": "5745cf6d-e0cb-7585-60cd-97f7891bbeef",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4277905.png",
+              "alt": "Trae Young"
+            },
+            "team": "ATL",
+            "statValue": "3.4",
+            "rank": 4
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador/_/table/offensive/ordenar/avgThreePointFieldGoalsMade/dir/desce"
+        }
+      }
+    ]
+  },
+  "1": {
+    "title": "Líderes Defensivos",
+    "groups": [
+      {
+        "abbrev": "REB",
+        "desc": "Rebotes por jogo",
+        "header": "Rebotes",
+        "leaders": [
+          {
+            "shortName": "D. Sabonis",
+            "name": "Domantas Sabonis",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3155942/domantas-sabonis",
+            "uid": "s:40~l:46~a:3155942",
+            "guid": "c2eb1a17-7809-2cc6-3fa7-7a5e63654ae4",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+              "alt": "Domantas Sabonis"
+            },
+            "team": "SAC",
+            "statValue": "13.1",
+            "rank": 1
+          },
+          {
+            "shortName": "R. Gobert",
+            "name": "Rudy Gobert",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3032976/rudy-gobert",
+            "uid": "s:40~l:46~a:3032976",
+            "guid": "78795dbf-3e02-934e-f796-d6a71375c9f5",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
+              "alt": "Rudy Gobert"
+            },
+            "team": "MIN",
+            "statValue": "12.5",
+            "rank": 2
+          },
+          {
+            "shortName": "N. Jokic",
+            "name": "Nikola Jokic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3112335/nikola-jokic",
+            "uid": "s:40~l:46~a:3112335",
+            "guid": "22f57511-06ae-1587-f01b-33965365ce0d",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
+              "alt": "Nikola Jokic"
+            },
+            "team": "DEN",
+            "statValue": "12.2",
+            "rank": 3
+          },
+          {
+            "shortName": "A. Davis",
+            "name": "Anthony Davis",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/6583/anthony-davis",
+            "uid": "s:40~l:46~a:6583",
+            "guid": "dcf63163-4dbf-c59d-1920-3ecc2f8bd5fb",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+              "alt": "Anthony Davis"
+            },
+            "team": "LAL",
+            "statValue": "12.2",
+            "rank": 3
+          },
+          {
+            "shortName": "J. Duren",
+            "name": "Jalen Duren",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4433621/jalen-duren",
+            "uid": "s:40~l:46~a:4433621",
+            "guid": "6e30fca4-6751-37b6-b09a-2e4ecbec716e",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png",
+              "alt": "Jalen Duren"
+            },
+            "team": "DET",
+            "statValue": "12.0",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador/_/table/general/ordenar/avgRebounds/dir/desce"
+        }
+      },
+      {
+        "abbrev": "BLK",
+        "desc": "Tocos por jogo",
+        "header": "Tocos",
+        "leaders": [
+          {
+            "shortName": "V. Wembanyama",
+            "name": "Victor Wembanyama",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/5104157/victor-wembanyama",
+            "uid": "s:40~l:46~a:5104157",
+            "guid": "0e8844b2-d923-3926-82d2-f19a29d69490",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
+              "alt": "Victor Wembanyama"
+            },
+            "team": "SA",
+            "statValue": "3.1",
+            "rank": 1
+          },
+          {
+            "shortName": "W. Kessler",
+            "name": "Walker Kessler",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4433136/walker-kessler",
+            "uid": "s:40~l:46~a:4433136",
+            "guid": "a362b0ba-25ef-3ceb-9dd3-039b3d8aa4aa",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
+              "alt": "Walker Kessler"
+            },
+            "team": "UTAH",
+            "statValue": "2.8",
+            "rank": 2
+          },
+          {
+            "shortName": "B. Lopez",
+            "name": "Brook Lopez",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3448/brook-lopez",
+            "uid": "s:40~l:46~a:3448",
+            "guid": "3496fbc1-fa88-c332-7f91-f015006e0c8b",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3448.png",
+              "alt": "Brook Lopez"
+            },
+            "team": "MIL",
+            "statValue": "2.7",
+            "rank": 3
+          },
+          {
+            "shortName": "C. Holmgren",
+            "name": "Chet Holmgren",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4433255/chet-holmgren",
+            "uid": "s:40~l:46~a:4433255",
+            "guid": "d28316e9-20cc-3cb2-b5d7-afdb6418315b",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433255.png",
+              "alt": "Chet Holmgren"
+            },
+            "team": "OKC",
+            "statValue": "2.6",
+            "rank": 4
+          },
+          {
+            "shortName": "A. Davis",
+            "name": "Anthony Davis",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/6583/anthony-davis",
+            "uid": "s:40~l:46~a:6583",
+            "guid": "dcf63163-4dbf-c59d-1920-3ecc2f8bd5fb",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+              "alt": "Anthony Davis"
+            },
+            "team": "LAL",
+            "statValue": "2.4",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador/_/table/defensive/ordenar/avgBlocks/dir/desce"
+        }
+      },
+      {
+        "abbrev": "STL",
+        "desc": "Roubos de bola por jogo",
+        "header": "Roubos",
+        "leaders": [
+          {
+            "shortName": "S. Gilgeous-Alexander",
+            "name": "Shai Gilgeous-Alexander",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4278073/shai-gilgeous-alexander",
+            "uid": "s:40~l:46~a:4278073",
+            "guid": "4dcec409-3ff9-2881-2bc3-b4289ce6c36d",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4278073.png",
+              "alt": "Shai Gilgeous-Alexander"
+            },
+            "team": "OKC",
+            "statValue": "2.2",
+            "rank": 1
+          },
+          {
+            "shortName": "D. Mitchell",
+            "name": "Donovan Mitchell",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3908809/donovan-mitchell",
+            "uid": "s:40~l:46~a:3908809",
+            "guid": "6482ece5-f903-92e2-ffdd-13901fdd3a49",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+              "alt": "Donovan Mitchell"
+            },
+            "team": "CLE",
+            "statValue": "1.9",
+            "rank": 2
+          },
+          {
+            "shortName": "D. Fox",
+            "name": "De'Aaron Fox",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4066259/deaaron-fox",
+            "uid": "s:40~l:46~a:4066259",
+            "guid": "5f18d1cf-1c2e-3601-a04e-1a3fc84d8ef1",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4066259.png",
+              "alt": "De'Aaron Fox"
+            },
+            "team": "SAC",
+            "statValue": "1.8",
+            "rank": 3
+          },
+          {
+            "shortName": "K. Leonard",
+            "name": "Kawhi Leonard",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/6450/kawhi-leonard",
+            "uid": "s:40~l:46~a:6450",
+            "guid": "87ff907c-c68c-a82d-1215-37e05d0c62ef",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/6450.png",
+              "alt": "Kawhi Leonard"
+            },
+            "team": "LAC",
+            "statValue": "1.7",
+            "rank": 4
+          },
+          {
+            "shortName": "D. Melton",
+            "name": "De'Anthony Melton",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4066436/deanthony-melton",
+            "uid": "s:40~l:46~a:4066436",
+            "guid": "4701e165-6b05-a4be-91d4-1f97ca5baafc",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
+              "alt": "De'Anthony Melton"
+            },
+            "team": "PHI",
+            "statValue": "1.6",
+            "rank": 5
+          }
+        ],
+        "completeLeaders": {
+          "text": "Lista Completa",
+          "link": "/nba/estatisticas/jogador/_/table/defensive/ordenar/avgSteals/dir/desce"
+        }
+      }
+    ]
+  }
+}

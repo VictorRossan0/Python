@@ -1,0 +1,72 @@
+1703178771435	geckodriver	INFO	Listening on 127.0.0.1:65257
+1703178774751	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-p ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofilezFuxNb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703178783180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703178783725	Marionette	INFO	Listening on port 65265
+Read port: 65265
+WebDriver BiDi listening on ws://127.0.0.1:65258
+1703178784751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65258/devtools/browser/99f44a42-08a9-449f-9bea-ea1d2ba75894
+JavaScript error: http://10.1.7.29/js/chunk-vendors.70909471.js, line 75: Error: Request failed with status code 401
+1703178813678	addons.xpi	ERROR	System addon update list erro1703178815723	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\fireconsole.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703178836439	Marionette	INFO	Stopped listening on port 65265
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+1703178849169	geckodriver	INFO	Listening on 127.0.0.1:65380
+1703178851607	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-p ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofilezvwNsd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703178852299	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703178852447	Marionette	INFO	Listening on port 65392
+WebDriver BiDi listening on ws://127.0.0.1:65381
+Read port: 65392
+1703178853047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65381/devtools/browser/a575e291-87de-429c-9cbc-406052f2c7f9
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.70909471.js, line 75: Error: Request failed with status code 401
+1703178882874	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703178966653	Marionette	INFO	Stopped listening on port 65392
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-p ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofileIbv3wp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703178896214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703178896369	Marionette	INFO	Listening on port 65493
+WebDriver BiDi listening on ws://127.0.0.1:65486
+Read port: 65493
+1703178896883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65486/devtools/browser/c59faa31-d9c6-4c9e-aedb-1c0840595163
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 743))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.70909471.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703178926245	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703178967851	Marionette	INFO	Stopped listening on port 65493
+Dynamically enable window occlusion 1

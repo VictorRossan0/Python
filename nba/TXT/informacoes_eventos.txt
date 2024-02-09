@@ -1,0 +1,2177 @@
+Eventos para 20240126:
+
+ID do Evento: 401585262
+Competidores: [{'id': '1', 'abbrev': 'ATL', 'displayName': 'Atlanta Hawks', 'shortDisplayName': 'Hawks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png', 'teamColor': 'c8102e', 'altColor': 'fdb927', 'uid': 's:40~l:46~t:1', 'recordSummary': '', 'standingSummary': '', 'location': 'Atlanta', 'links': '/nba/time/_/nome/atl/atlanta-hawks', 'name': 'Atlanta Hawks', 'shortName': 'Hawks', 'isHome': True, 'score': 0}, {'id': '6', 'abbrev': 'DAL', 'displayName': 'Dallas Mavericks', 'shortDisplayName': 'Mavericks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png', 'teamColor': '0064b1', 'altColor': 'bbc4ca', 'uid': 's:40~l:46~t:6', 'recordSummary': '', 'standingSummary': '', 'location': 'Dallas', 'links': '/nba/time/_/nome/dal/dallas-mavericks', 'name': 'Dallas Mavericks', 'shortName': 'Mavericks', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+
+ID do Evento: 401585263
+Competidores: [{'id': '30', 'abbrev': 'CHA', 'displayName': 'Charlotte Hornets', 'shortDisplayName': 'Hornets', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png', 'teamColor': '008ca8', 'altColor': '1d1060', 'uid': 's:40~l:46~t:30', 'recordSummary': '', 'standingSummary': '', 'location': 'Charlotte', 'links': '/nba/time/_/nome/cha/charlotte-hornets', 'name': 'Charlotte Hornets', 'shortName': 'Hornets', 'isHome': True, 'score': 0}, {'id': '10', 'abbrev': 'HOU', 'displayName': 'Houston Rockets', 'shortDisplayName': 'Rockets', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png', 'teamColor': 'ce1141', 'altColor': '000000', 'uid': 's:40~l:46~t:10', 'recordSummary': '', 'standingSummary': '', 'location': 'Houston', 'links': '/nba/time/_/nome/hou/houston-rockets', 'name': 'Houston Rockets', 'shortName': 'Rockets', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+
+ID do Evento: 401585264
+Competidores: [{'id': '11', 'abbrev': 'IND', 'displayName': 'Indiana Pacers', 'shortDisplayName': 'Pacers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png', 'teamColor': '002d62', 'altColor': 'fdbb30', 'uid': 's:40~l:46~t:11', 'recordSummary': '', 'standingSummary': '', 'location': 'Indiana', 'links': '/nba/time/_/nome/ind/indiana-pacers', 'name': 'Indiana Pacers', 'shortName': 'Pacers', 'isHome': True, 'score': 0}, {'id': '21', 'abbrev': 'PHX', 'displayName': 'Phoenix Suns', 'shortDisplayName': 'Suns', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png', 'teamColor': '29127a', 'altColor': 'e56020', 'uid': 's:40~l:46~t:21', 'recordSummary': '', 'standingSummary': '', 'location': 'Phoenix', 'links': '/nba/time/_/nome/phx/phoenix-suns', 'name': 'Phoenix Suns', 'shortName': 'Suns', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+
+ID do Evento: 401585265
+Competidores: [{'id': '28', 'abbrev': 'TOR', 'displayName': 'Toronto Raptors', 'shortDisplayName': 'Raptors', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png', 'teamColor': 'd91244', 'altColor': '000000', 'uid': 's:40~l:46~t:28', 'recordSummary': '', 'standingSummary': '', 'location': 'Toronto', 'links': '/nba/time/_/nome/tor/toronto-raptors', 'name': 'Toronto Raptors', 'shortName': 'Raptors', 'isHome': True, 'score': 0}, {'id': '12', 'abbrev': 'LAC', 'displayName': 'LA Clippers', 'shortDisplayName': 'Clippers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png', 'teamColor': '1d428a', 'altColor': 'c8102e', 'uid': 's:40~l:46~t:12', 'recordSummary': '', 'standingSummary': '', 'location': 'LA', 'links': '/nba/time/_/nome/lac/la-clippers', 'name': 'LA Clippers', 'shortName': 'Clippers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+
+ID do Evento: 401585266
+Competidores: [{'id': '29', 'abbrev': 'MEM', 'displayName': 'Memphis Grizzlies', 'shortDisplayName': 'Grizzlies', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png', 'teamColor': '5d76a9', 'altColor': '12173f', 'uid': 's:40~l:46~t:29', 'recordSummary': '', 'standingSummary': '', 'location': 'Memphis', 'links': '/nba/time/_/nome/mem/memphis-grizzlies', 'name': 'Memphis Grizzlies', 'shortName': 'Grizzlies', 'isHome': True, 'score': 0}, {'id': '19', 'abbrev': 'ORL', 'displayName': 'Orlando Magic', 'shortDisplayName': 'Magic', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png', 'teamColor': '0077c0', 'altColor': 'c4ced4', 'uid': 's:40~l:46~t:19', 'recordSummary': '', 'standingSummary': '', 'location': 'Orlando', 'links': '/nba/time/_/nome/orl/orlando-magic', 'name': 'Orlando Magic', 'shortName': 'Magic', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+
+ID do Evento: 401585267
+Competidores: [{'id': '15', 'abbrev': 'MIL', 'displayName': 'Milwaukee Bucks', 'shortDisplayName': 'Bucks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png', 'teamColor': '00471b', 'altColor': 'eee1c6', 'uid': 's:40~l:46~t:15', 'recordSummary': '', 'standingSummary': '', 'location': 'Milwaukee', 'links': '/nba/time/_/nome/mil/milwaukee-bucks', 'name': 'Milwaukee Bucks', 'shortName': 'Bucks', 'isHome': True, 'score': 0}, {'id': '5', 'abbrev': 'CLE', 'displayName': 'Cleveland Cavaliers', 'shortDisplayName': 'Cavaliers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png', 'teamColor': '860038', 'altColor': 'bc945c', 'uid': 's:40~l:46~t:5', 'recordSummary': '', 'standingSummary': '', 'location': 'Cleveland', 'links': '/nba/time/_/nome/cle/cleveland-cavaliers', 'name': 'Cleveland Cavaliers', 'shortName': 'Cavaliers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+
+ID do Evento: 401585268
+Competidores: [{'id': '3', 'abbrev': 'NO', 'displayName': 'New Orleans Pelicans', 'shortDisplayName': 'Pelicans', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png', 'teamColor': '0a2240', 'altColor': 'b4975a', 'uid': 's:40~l:46~t:3', 'recordSummary': '', 'standingSummary': '', 'location': 'New Orleans', 'links': '/nba/time/_/nome/no/new-orleans-pelicans', 'name': 'New Orleans Pelicans', 'shortName': 'Pelicans', 'isHome': True, 'score': 0}, {'id': '25', 'abbrev': 'OKC', 'displayName': 'Oklahoma City Thunder', 'shortDisplayName': 'Thunder', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png', 'teamColor': '007ac1', 'altColor': 'ef3b24', 'uid': 's:40~l:46~t:25', 'recordSummary': '', 'standingSummary': '', 'location': 'Oklahoma City', 'links': '/nba/time/_/nome/okc/oklahoma-city-thunder', 'name': 'Oklahoma City Thunder', 'shortName': 'Thunder', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+
+ID do Evento: 401585269
+Competidores: [{'id': '24', 'abbrev': 'SA', 'displayName': 'San Antonio Spurs', 'shortDisplayName': 'Spurs', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png', 'teamColor': '000000', 'altColor': 'c4ced4', 'uid': 's:40~l:46~t:24', 'recordSummary': '', 'standingSummary': '', 'location': 'San Antonio', 'links': '/nba/time/_/nome/sa/san-antonio-spurs', 'name': 'San Antonio Spurs', 'shortName': 'Spurs', 'isHome': True, 'score': 0}, {'id': '22', 'abbrev': 'POR', 'displayName': 'Portland Trail Blazers', 'shortDisplayName': 'Trail Blazers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png', 'teamColor': 'e03a3e', 'altColor': '000000', 'uid': 's:40~l:46~t:22', 'recordSummary': '', 'standingSummary': '', 'location': 'Portland', 'links': '/nba/time/_/nome/por/portland-trail-blazers', 'name': 'Portland Trail Blazers', 'shortName': 'Trail Blazers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: [{'id': '1', 'abbrev': 'ATL', 'displayName': 'Atlanta Hawks', 'shortDisplayName': 'Hawks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png', 'teamColor': 'c8102e', 'altColor': 'fdb927', 'uid': 's:40~l:46~t:1', 'recordSummary': '', 'standingSummary': '', 'location': 'Atlanta', 'links': '/nba/time/_/nome/atl/atlanta-hawks', 'name': 'Atlanta Hawks', 'shortName': 'Hawks', 'isHome': True, 'score': 0}, {'id': '6', 'abbrev': 'DAL', 'displayName': 'Dallas Mavericks', 'shortDisplayName': 'Mavericks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png', 'teamColor': '0064b1', 'altColor': 'bbc4ca', 'uid': 's:40~l:46~t:6', 'recordSummary': '', 'standingSummary': '', 'location': 'Dallas', 'links': '/nba/time/_/nome/dal/dallas-mavericks', 'name': 'Dallas Mavericks', 'shortName': 'Mavericks', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: [{'id': '30', 'abbrev': 'CHA', 'displayName': 'Charlotte Hornets', 'shortDisplayName': 'Hornets', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png', 'teamColor': '008ca8', 'altColor': '1d1060', 'uid': 's:40~l:46~t:30', 'recordSummary': '', 'standingSummary': '', 'location': 'Charlotte', 'links': '/nba/time/_/nome/cha/charlotte-hornets', 'name': 'Charlotte Hornets', 'shortName': 'Hornets', 'isHome': True, 'score': 0}, {'id': '10', 'abbrev': 'HOU', 'displayName': 'Houston Rockets', 'shortDisplayName': 'Rockets', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png', 'teamColor': 'ce1141', 'altColor': '000000', 'uid': 's:40~l:46~t:10', 'recordSummary': '', 'standingSummary': '', 'location': 'Houston', 'links': '/nba/time/_/nome/hou/houston-rockets', 'name': 'Houston Rockets', 'shortName': 'Rockets', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: [{'id': '11', 'abbrev': 'IND', 'displayName': 'Indiana Pacers', 'shortDisplayName': 'Pacers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png', 'teamColor': '002d62', 'altColor': 'fdbb30', 'uid': 's:40~l:46~t:11', 'recordSummary': '', 'standingSummary': '', 'location': 'Indiana', 'links': '/nba/time/_/nome/ind/indiana-pacers', 'name': 'Indiana Pacers', 'shortName': 'Pacers', 'isHome': True, 'score': 0}, {'id': '21', 'abbrev': 'PHX', 'displayName': 'Phoenix Suns', 'shortDisplayName': 'Suns', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png', 'teamColor': '29127a', 'altColor': 'e56020', 'uid': 's:40~l:46~t:21', 'recordSummary': '', 'standingSummary': '', 'location': 'Phoenix', 'links': '/nba/time/_/nome/phx/phoenix-suns', 'name': 'Phoenix Suns', 'shortName': 'Suns', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: [{'id': '28', 'abbrev': 'TOR', 'displayName': 'Toronto Raptors', 'shortDisplayName': 'Raptors', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png', 'teamColor': 'd91244', 'altColor': '000000', 'uid': 's:40~l:46~t:28', 'recordSummary': '', 'standingSummary': '', 'location': 'Toronto', 'links': '/nba/time/_/nome/tor/toronto-raptors', 'name': 'Toronto Raptors', 'shortName': 'Raptors', 'isHome': True, 'score': 0}, {'id': '12', 'abbrev': 'LAC', 'displayName': 'LA Clippers', 'shortDisplayName': 'Clippers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png', 'teamColor': '1d428a', 'altColor': 'c8102e', 'uid': 's:40~l:46~t:12', 'recordSummary': '', 'standingSummary': '', 'location': 'LA', 'links': '/nba/time/_/nome/lac/la-clippers', 'name': 'LA Clippers', 'shortName': 'Clippers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: [{'id': '29', 'abbrev': 'MEM', 'displayName': 'Memphis Grizzlies', 'shortDisplayName': 'Grizzlies', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png', 'teamColor': '5d76a9', 'altColor': '12173f', 'uid': 's:40~l:46~t:29', 'recordSummary': '', 'standingSummary': '', 'location': 'Memphis', 'links': '/nba/time/_/nome/mem/memphis-grizzlies', 'name': 'Memphis Grizzlies', 'shortName': 'Grizzlies', 'isHome': True, 'score': 0}, {'id': '19', 'abbrev': 'ORL', 'displayName': 'Orlando Magic', 'shortDisplayName': 'Magic', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png', 'teamColor': '0077c0', 'altColor': 'c4ced4', 'uid': 's:40~l:46~t:19', 'recordSummary': '', 'standingSummary': '', 'location': 'Orlando', 'links': '/nba/time/_/nome/orl/orlando-magic', 'name': 'Orlando Magic', 'shortName': 'Magic', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: [{'id': '15', 'abbrev': 'MIL', 'displayName': 'Milwaukee Bucks', 'shortDisplayName': 'Bucks', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png', 'teamColor': '00471b', 'altColor': 'eee1c6', 'uid': 's:40~l:46~t:15', 'recordSummary': '', 'standingSummary': '', 'location': 'Milwaukee', 'links': '/nba/time/_/nome/mil/milwaukee-bucks', 'name': 'Milwaukee Bucks', 'shortName': 'Bucks', 'isHome': True, 'score': 0}, {'id': '5', 'abbrev': 'CLE', 'displayName': 'Cleveland Cavaliers', 'shortDisplayName': 'Cavaliers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png', 'teamColor': '860038', 'altColor': 'bc945c', 'uid': 's:40~l:46~t:5', 'recordSummary': '', 'standingSummary': '', 'location': 'Cleveland', 'links': '/nba/time/_/nome/cle/cleveland-cavaliers', 'name': 'Cleveland Cavaliers', 'shortName': 'Cavaliers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: [{'id': '3', 'abbrev': 'NO', 'displayName': 'New Orleans Pelicans', 'shortDisplayName': 'Pelicans', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png', 'teamColor': '0a2240', 'altColor': 'b4975a', 'uid': 's:40~l:46~t:3', 'recordSummary': '', 'standingSummary': '', 'location': 'New Orleans', 'links': '/nba/time/_/nome/no/new-orleans-pelicans', 'name': 'New Orleans Pelicans', 'shortName': 'Pelicans', 'isHome': True, 'score': 0}, {'id': '25', 'abbrev': 'OKC', 'displayName': 'Oklahoma City Thunder', 'shortDisplayName': 'Thunder', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png', 'teamColor': '007ac1', 'altColor': 'ef3b24', 'uid': 's:40~l:46~t:25', 'recordSummary': '', 'standingSummary': '', 'location': 'Oklahoma City', 'links': '/nba/time/_/nome/okc/oklahoma-city-thunder', 'name': 'Oklahoma City Thunder', 'shortName': 'Thunder', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: [{'id': '24', 'abbrev': 'SA', 'displayName': 'San Antonio Spurs', 'shortDisplayName': 'Spurs', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png', 'teamColor': '000000', 'altColor': 'c4ced4', 'uid': 's:40~l:46~t:24', 'recordSummary': '', 'standingSummary': '', 'location': 'San Antonio', 'links': '/nba/time/_/nome/sa/san-antonio-spurs', 'name': 'San Antonio Spurs', 'shortName': 'Spurs', 'isHome': True, 'score': 0}, {'id': '22', 'abbrev': 'POR', 'displayName': 'Portland Trail Blazers', 'shortDisplayName': 'Trail Blazers', 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png', 'teamColor': 'e03a3e', 'altColor': '000000', 'uid': 's:40~l:46~t:22', 'recordSummary': '', 'standingSummary': '', 'location': 'Portland', 'links': '/nba/time/_/nome/por/portland-trail-blazers', 'name': 'Portland Trail Blazers', 'shortName': 'Trail Blazers', 'isHome': False, 'score': 0}]
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+ID do Evento: 401585262
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+ID do Evento: 401585263
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+ID do Evento: 401585264
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+ID do Evento: 401585265
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+ID do Evento: 401585266
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+ID do Evento: 401585267
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+ID do Evento: 401585268
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+ID do Evento: 401585269
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Eventos para 20240126:
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Eventos para 20240126:
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Eventos para 20240126:
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Eventos para 20240126:
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Eventos para 20240126:
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Eventos para 20240126:
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Eventos para 20240126:
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Eventos para 20240126:
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Atlanta Hawks vs Dallas Mavericks
+Data do Evento: 26-01-2024
+Local do Evento: Atlanta
+
+Competidores: Charlotte Hornets vs Houston Rockets
+Data do Evento: 26-01-2024
+Local do Evento: Charlotte
+
+Competidores: Indiana Pacers vs Phoenix Suns
+Data do Evento: 26-01-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs LA Clippers
+Data do Evento: 26-01-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Orlando Magic
+Data do Evento: 26-01-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Cleveland Cavaliers
+Data do Evento: 26-01-2024
+Local do Evento: Milwaukee
+
+Competidores: New Orleans Pelicans vs Oklahoma City Thunder
+Data do Evento: 26-01-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Portland Trail Blazers
+Data do Evento: 26-01-2024
+Local do Evento: San Antonio
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs New York Knicks
+Data do Evento: 29-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs LA Clippers
+Data do Evento: 29-01-2024
+Local do Evento: Cleveland
+
+Competidores: Boston Celtics vs New Orleans Pelicans
+Data do Evento: 29-01-2024
+Local do Evento: Boston
+
+Competidores: Brooklyn Nets vs Utah Jazz
+Data do Evento: 29-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Phoenix Suns
+Data do Evento: 29-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs Los Angeles Lakers
+Data do Evento: 29-01-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Sacramento Kings
+Data do Evento: 29-01-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Minnesota Timberwolves
+Data do Evento: 29-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs Washington Wizards
+Data do Evento: 29-01-2024
+Local do Evento: San Antonio
+
+Competidores: Dallas Mavericks vs Orlando Magic
+Data do Evento: 29-01-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Milwaukee Bucks
+Data do Evento: 29-01-2024
+Local do Evento: Denver
+
+Competidores: Portland Trail Blazers vs Philadelphia 76ers
+Data do Evento: 29-01-2024
+Local do Evento: Portland
+
+Competidores: Atlanta Hawks vs Los Angeles Lakers
+Data do Evento: 30-01-2024
+Local do Evento: Atlanta
+
+Competidores: Boston Celtics vs Indiana Pacers
+Data do Evento: 30-01-2024
+Local do Evento: Boston
+
+Competidores: New York Knicks vs Utah Jazz
+Data do Evento: 30-01-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Toronto Raptors
+Data do Evento: 30-01-2024
+Local do Evento: Chicago
+
+Competidores: Golden State Warriors vs Philadelphia 76ers
+Data do Evento: 30-01-2024
+Local do Evento: San Francisco
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Charlotte Hornets vs Chicago Bulls
+Data do Evento: 31-01-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Detroit Pistons
+Data do Evento: 31-01-2024
+Local do Evento: Cleveland
+
+Competidores: Washington Wizards vs LA Clippers
+Data do Evento: 31-01-2024
+Local do Evento: Washington
+
+Competidores: Miami Heat vs Sacramento Kings
+Data do Evento: 31-01-2024
+Local do Evento: Miami
+
+Competidores: Houston Rockets vs New Orleans Pelicans
+Data do Evento: 31-01-2024
+Local do Evento: Houston
+
+Competidores: Minnesota Timberwolves vs Dallas Mavericks
+Data do Evento: 31-01-2024
+Local do Evento: Minneapolis
+
+Competidores: San Antonio Spurs vs Orlando Magic
+Data do Evento: 31-01-2024
+Local do Evento: San Antonio
+
+Competidores: Oklahoma City Thunder vs Denver Nuggets
+Data do Evento: 31-01-2024
+Local do Evento: Oklahoma City
+
+Competidores: Brooklyn Nets vs Phoenix Suns
+Data do Evento: 31-01-2024
+Local do Evento: Brooklyn
+
+Competidores: Portland Trail Blazers vs Milwaukee Bucks
+Data do Evento: 31-01-2024
+Local do Evento: Portland
+
+Competidores: Boston Celtics vs Los Angeles Lakers
+Data do Evento: 01-02-2024
+Local do Evento: Boston
+
+Competidores: New York Knicks vs Indiana Pacers
+Data do Evento: 01-02-2024
+Local do Evento: Nova York
+
+Competidores: Memphis Grizzlies vs Cleveland Cavaliers
+Data do Evento: 01-02-2024
+Local do Evento: Memphis
+
+Competidores: Utah Jazz vs Philadelphia 76ers
+Data do Evento: 01-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Detroit Pistons vs LA Clippers
+Data do Evento: 02-02-2024
+Local do Evento: Detroit
+
+Competidores: Washington Wizards vs Miami Heat
+Data do Evento: 02-02-2024
+Local do Evento: Washington
+
+Competidores: Atlanta Hawks vs Phoenix Suns
+Data do Evento: 02-02-2024
+Local do Evento: Atlanta
+
+Competidores: Indiana Pacers vs Sacramento Kings
+Data do Evento: 02-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Houston Rockets vs Toronto Raptors
+Data do Evento: 02-02-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs Golden State Warriors
+Data do Evento: 02-02-2024
+Local do Evento: Memphis
+
+Competidores: Minnesota Timberwolves vs Orlando Magic
+Data do Evento: 02-02-2024
+Local do Evento: Minneapolis
+
+Competidores: Oklahoma City Thunder vs Charlotte Hornets
+Data do Evento: 02-02-2024
+Local do Evento: Oklahoma City
+
+Competidores: San Antonio Spurs vs New Orleans Pelicans
+Data do Evento: 02-02-2024
+Local do Evento: San Antonio
+
+Competidores: Denver Nuggets vs Portland Trail Blazers
+Data do Evento: 02-02-2024
+Local do Evento: Denver
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Indiana Pacers vs Houston Rockets
+Data do Evento: 06-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Brooklyn Nets vs Dallas Mavericks
+Data do Evento: 06-02-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Orlando Magic
+Data do Evento: 06-02-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Memphis Grizzlies
+Data do Evento: 06-02-2024
+Local do Evento: Nova York
+
+Competidores: Chicago Bulls vs Minnesota Timberwolves
+Data do Evento: 06-02-2024
+Local do Evento: Chicago
+
+Competidores: Utah Jazz vs Oklahoma City Thunder
+Data do Evento: 06-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Phoenix Suns vs Milwaukee Bucks
+Data do Evento: 06-02-2024
+Local do Evento: Phoenix
+
+Competidores: Charlotte Hornets vs Toronto Raptors
+Data do Evento: 07-02-2024
+Local do Evento: Charlotte
+
+Competidores: Washington Wizards vs Cleveland Cavaliers
+Data do Evento: 07-02-2024
+Local do Evento: Washington
+
+Competidores: Philadelphia 76ers vs Golden State Warriors
+Data do Evento: 07-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Boston Celtics vs Atlanta Hawks
+Data do Evento: 07-02-2024
+Local do Evento: Boston
+
+Competidores: Miami Heat vs San Antonio Spurs
+Data do Evento: 07-02-2024
+Local do Evento: Miami
+
+Competidores: LA Clippers vs New Orleans Pelicans
+Data do Evento: 07-02-2024
+Local do Evento: Los Angeles
+
+Competidores: Sacramento Kings vs Detroit Pistons
+Data do Evento: 07-02-2024
+Local do Evento: Sacramento
+
+Competidores: Charlotte Hornets vs Toronto Raptors
+Data do Evento: 07-02-2024
+Local do Evento: Charlotte
+
+Competidores: Washington Wizards vs Cleveland Cavaliers
+Data do Evento: 07-02-2024
+Local do Evento: Washington
+
+Competidores: Philadelphia 76ers vs Golden State Warriors
+Data do Evento: 07-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Boston Celtics vs Atlanta Hawks
+Data do Evento: 07-02-2024
+Local do Evento: Boston
+
+Competidores: Miami Heat vs San Antonio Spurs
+Data do Evento: 07-02-2024
+Local do Evento: Miami
+
+Competidores: LA Clippers vs New Orleans Pelicans
+Data do Evento: 07-02-2024
+Local do Evento: Los Angeles
+
+Competidores: Sacramento Kings vs Detroit Pistons
+Data do Evento: 07-02-2024
+Local do Evento: Sacramento
+
+Competidores: Indiana Pacers vs Golden State Warriors
+Data do Evento: 08-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Orlando Magic vs San Antonio Spurs
+Data do Evento: 08-02-2024
+Local do Evento: Orlando
+
+Competidores: Brooklyn Nets vs Cleveland Cavaliers
+Data do Evento: 08-02-2024
+Local do Evento: Brooklyn
+
+Competidores: New York Knicks vs Dallas Mavericks
+Data do Evento: 08-02-2024
+Local do Evento: Nova York
+
+Competidores: Memphis Grizzlies vs Chicago Bulls
+Data do Evento: 08-02-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Minnesota Timberwolves
+Data do Evento: 08-02-2024
+Local do Evento: Milwaukee
+
+Competidores: Phoenix Suns vs Utah Jazz
+Data do Evento: 08-02-2024
+Local do Evento: Phoenix
+
+Competidores: Los Angeles Lakers vs Denver Nuggets
+Data do Evento: 08-02-2024
+Local do Evento: Los Angeles
+
+Competidores: Portland Trail Blazers vs Detroit Pistons
+Data do Evento: 08-02-2024
+Local do Evento: Portland
+
+Competidores: Philadelphia 76ers vs Atlanta Hawks
+Data do Evento: 09-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Boston Celtics vs Washington Wizards
+Data do Evento: 09-02-2024
+Local do Evento: Boston
+
+Competidores: Toronto Raptors vs Houston Rockets
+Data do Evento: 09-02-2024
+Local do Evento: Toronto
+
+Competidores: Milwaukee Bucks vs Charlotte Hornets
+Data do Evento: 09-02-2024
+Local do Evento: Milwaukee
+
+Competidores: Sacramento Kings vs Denver Nuggets
+Data do Evento: 09-02-2024
+Local do Evento: Sacramento
+
+Competidores: Los Angeles Lakers vs New Orleans Pelicans
+Data do Evento: 09-02-2024
+Local do Evento: Los Angeles
+

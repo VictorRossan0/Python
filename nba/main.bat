@@ -1,0 +1,1 @@
+python main.py > TXT/main.txt 2>&1
