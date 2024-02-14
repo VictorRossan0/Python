@@ -12,7 +12,9 @@ import pandas as pd
 def extrair_info_estatistica(url, estatisticas, quantidade=5):
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.set_headless(True)
+    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+
     driver = webdriver.Firefox(options=firefox_options)
 
     driver.get(url)

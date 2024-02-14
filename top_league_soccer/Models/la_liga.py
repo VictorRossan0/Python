@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 def find_table_by_xpath(driver, xpath):
     try:
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, xpath)))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.XPATH, xpath)))
         return driver.find_element(By.XPATH, xpath)
     except TimeoutException:
         print("A tabela não pôde ser encontrada.")
@@ -78,7 +78,9 @@ def create_excel_from_data(data, filename):
 def la_liga():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.set_headless(True)
+    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+
     driver = webdriver.Firefox(options=firefox_options)
 
     url = 'https://redscores.com/pt-br/league/spain/la-liga/564'

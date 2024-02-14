@@ -4,32 +4,32 @@ Time do Jogador: SAC
 Rank: 1
 Estatísticas do Jogador 1:
 Estatística: doubleDouble
-Quantidade: 47
+Quantidade: 49
 Informações do Atleta 2:
 Nome do Jogador: Nikola Jokic
 Time do Jogador: DEN
 Rank: 2
 Estatísticas do Jogador 2:
 Estatística: doubleDouble
-Quantidade: 43
+Quantidade: 44
 Informações do Atleta 3:
-Nome do Jogador: Anthony Davis
-Time do Jogador: LAL
-Rank: 3
-Estatísticas do Jogador 3:
-Estatística: doubleDouble
-Quantidade: 40
-Informações do Atleta 4:
 Nome do Jogador: Giannis Antetokounmpo
 Time do Jogador: MIL
 Rank: 3
+Estatísticas do Jogador 3:
+Estatística: doubleDouble
+Quantidade: 42
+Informações do Atleta 4:
+Nome do Jogador: Anthony Davis
+Time do Jogador: LAL
+Rank: 4
 Estatísticas do Jogador 4:
 Estatística: doubleDouble
-Quantidade: 40
+Quantidade: 41
 Informações do Atleta 5:
 Nome do Jogador: Rudy Gobert
 Time do Jogador: MIN
 Rank: 5
 Estatísticas do Jogador 5:
 Estatística: doubleDouble
-Quantidade: 35
+Quantidade: 37

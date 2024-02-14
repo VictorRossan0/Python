@@ -327,17 +327,21 @@
 															<img src="https://cdn.redscores.com/images/team/13258_s.png" alt="Athletic Club" width="16" class="logo">
 															<a href="/pt-br/team/athletic-club/13258">Athletic Club</a>
 														</td>
-															<td class="text-center">23</td>
+															<td class="text-center">24</td>
 															<td class="text-center">13</td>
-															<td class="text-center">6</td>
+															<td class="text-center">7</td>
 															<td class="text-center">4</td>
 															<td class="text-center">42:21 </td>
-															<td class="text-center"><strong>45</strong></td>
+															<td class="text-center"><strong>46</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -367,10 +371,6 @@
 																	
 																	
 
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
 															</div>
 														</td>
 															
@@ -378,12 +378,12 @@
 															<td class="text-center">
 																<span class="bg-turquoise colored-value"><b>2.13</b></span>
 															</td>
-															<td class="text-center">35%</td>
-															<td class="text-center">2.0</td>
-															<td class="text-center">5.6</td>
-															<td class="text-center">78%</td>
-															<td class="text-center">47%</td>
-															<td class="text-center">2.74</td>
+															<td class="text-center">33%</td>
+															<td class="text-center">2.1</td>
+															<td class="text-center">5.8</td>
+															<td class="text-center">75%</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">2.63</td>
 													</tr>
 
 
@@ -1347,12 +1347,12 @@
 															<img src="https://cdn.redscores.com/images/team/618_s.png" alt="Almería" width="16" class="logo">
 															<a href="/pt-br/team/almeria/618">Almería</a>
 														</td>
-															<td class="text-center">23</td>
+															<td class="text-center">24</td>
 															<td class="text-center">0</td>
-															<td class="text-center">6</td>
+															<td class="text-center">7</td>
 															<td class="text-center">17</td>
 															<td class="text-center">22:51 </td>
-															<td class="text-center"><strong>6</strong></td>
+															<td class="text-center"><strong>7</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -1360,6 +1360,10 @@
 
 
 																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
@@ -1386,24 +1390,20 @@
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-red colored-value"><b>0.25</b></span>
+																<span class="bg-red-light colored-value"><b>0.38</b></span>
 															</td>
-															<td class="text-center">65%</td>
+															<td class="text-center">63%</td>
 															<td class="text-center">2.5</td>
 															<td class="text-center">5.1</td>
-															<td class="text-center">78%</td>
-															<td class="text-center">69%</td>
-															<td class="text-center">3.17</td>
+															<td class="text-center">75%</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">3.04</td>
 													</tr>
 
 								</tbody>

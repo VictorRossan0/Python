@@ -1,11 +1,12 @@
 from openpyxl import load_workbook
 from openpyxl.workbook import Workbook
 from openpyxl.utils import get_column_letter
-from Models.ligue1 import ligue1
 from Models.bundesliga import bundesliga
-from Models.serieA import serieA
-from Models.premier_league import premier_league
+# from Models.estatisticas_Top5Leagues import criar_excel
 from Models.la_liga import la_liga
+from Models.ligue1 import ligue1
+from Models.premier_league import premier_league
+from Models.serieA import serieA
 
 def criar_novo_excel():
     wb_novo = Workbook()
@@ -13,49 +14,58 @@ def criar_novo_excel():
 
     # Chama as funções para extrair informações
     bundesliga()
+    # criar_excel([])
     la_liga()
     ligue1()
     premier_league()
     serieA()
-
+    
     # Abre os arquivos Excel existentes
-    wb_calendario = load_workbook('Excel/dados_bundesliga.xlsx')
-    wb_lideres = load_workbook('Excel/dados_laliga.xlsx')
-    wb_teams = load_workbook('Excel/dados_ligue1.xlsx')
-    wb_dd = load_workbook('Excel/dados_premier.xlsx')
-    wb_td = load_workbook('Excel/dados_serieA.xlsx')
+    wb_bundesliga = load_workbook('Excel/dados_bundesliga.xlsx')
+    wb_laliga = load_workbook('Excel/dados_laliga.xlsx')
+    wb_ligue1 = load_workbook('Excel/dados_ligue1.xlsx')
+    wb_premier = load_workbook('Excel/dados_premier.xlsx')
+    wb_serieA = load_workbook('Excel/dados_serieA.xlsx')
+    # wb_estatistica = load_workbook('Excel/estatisticas_Top5Leagues.xlsx')
 
     # Copia as abas para o novo arquivo Excel
-    for sheet in wb_calendario.sheetnames:
-        ws = wb_calendario[sheet]
+    for sheet in wb_bundesliga.sheetnames:
+        ws = wb_bundesliga[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
 
-    for sheet in wb_lideres.sheetnames:
-        ws = wb_lideres[sheet]
+    # for sheet in wb_estatistica.sheetnames:
+    #     ws = wb_estatistica[sheet]
+    #     ws_novo = wb_novo.create_sheet(title=sheet)
+    #     for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
+    #         values = [cell.value for cell in row]
+    #         ws_novo.append(values)
+    
+    for sheet in wb_laliga.sheetnames:
+        ws = wb_laliga[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
     
-    for sheet in wb_teams.sheetnames:
-        ws = wb_teams[sheet]
+    for sheet in wb_ligue1.sheetnames:
+        ws = wb_ligue1[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
 
-    for sheet in wb_dd.sheetnames:
-        ws = wb_dd[sheet]
+    for sheet in wb_premier.sheetnames:
+        ws = wb_premier[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
     
-    for sheet in wb_td.sheetnames:
-        ws = wb_td[sheet]
+    for sheet in wb_serieA.sheetnames:
+        ws = wb_serieA[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]

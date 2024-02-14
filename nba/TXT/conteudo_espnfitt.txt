@@ -34,7 +34,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "34.5",
+            "statValue": "34.3",
             "rank": 2
           },
           {
@@ -68,17 +68,17 @@
             "rank": 4
           },
           {
-            "shortName": "K. Durant",
-            "name": "Kevin Durant",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/3202/kevin-durant",
-            "uid": "s:40~l:46~a:3202",
-            "guid": "dc324fde-eee8-98e2-09ac-d31d8ad9909e",
+            "shortName": "D. Mitchell",
+            "name": "Donovan Mitchell",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3908809/donovan-mitchell",
+            "uid": "s:40~l:46~a:3908809",
+            "guid": "6482ece5-f903-92e2-ffdd-13901fdd3a49",
             "type": "player",
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3202.png",
-              "alt": "Kevin Durant"
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+              "alt": "Donovan Mitchell"
             },
-            "team": "PHX",
+            "team": "CLE",
             "statValue": "28.3",
             "rank": 5
           }
@@ -120,7 +120,7 @@
               "alt": "Trae Young"
             },
             "team": "ATL",
-            "statValue": "10.8",
+            "statValue": "10.9",
             "rank": 2
           },
           {
@@ -135,7 +135,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "9.4",
+            "statValue": "9.6",
             "rank": 3
           },
           {
@@ -165,7 +165,7 @@
               "alt": "James Harden"
             },
             "team": "LAC",
-            "statValue": "8.5",
+            "statValue": "8.4",
             "rank": 5
           }
         ],
@@ -206,7 +206,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "4.0",
+            "statValue": "3.9",
             "rank": 2
           },
           {
@@ -301,21 +301,6 @@
             "rank": 2
           },
           {
-            "shortName": "J. Duren",
-            "name": "Jalen Duren",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/4433621/jalen-duren",
-            "uid": "s:40~l:46~a:4433621",
-            "guid": "6e30fca4-6751-37b6-b09a-2e4ecbec716e",
-            "type": "player",
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png",
-              "alt": "Jalen Duren"
-            },
-            "team": "DET",
-            "statValue": "12.2",
-            "rank": 3
-          },
-          {
             "shortName": "N. Jokic",
             "name": "Nikola Jokic",
             "href": "http://www.espn.com.br/nba/jogador/_/id/3112335/nikola-jokic",
@@ -343,7 +328,22 @@
             },
             "team": "LAL",
             "statValue": "12.1",
-            "rank": 5
+            "rank": 4
+          },
+          {
+            "shortName": "J. Duren",
+            "name": "Jalen Duren",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4433621/jalen-duren",
+            "uid": "s:40~l:46~a:4433621",
+            "guid": "6e30fca4-6751-37b6-b09a-2e4ecbec716e",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png",
+              "alt": "Jalen Duren"
+            },
+            "team": "DET",
+            "statValue": "12.1",
+            "rank": 4
           }
         ],
         "completeLeaders": {
@@ -368,7 +368,7 @@
               "alt": "Victor Wembanyama"
             },
             "team": "SA",
-            "statValue": "3.0",
+            "statValue": "3.2",
             "rank": 1
           },
           {
@@ -428,7 +428,7 @@
               "alt": "Anthony Davis"
             },
             "team": "LAL",
-            "statValue": "2.4",
+            "statValue": "2.5",
             "rank": 5
           }
         ],
@@ -484,8 +484,8 @@
               "alt": "De'Aaron Fox"
             },
             "team": "SAC",
-            "statValue": "1.8",
-            "rank": 3
+            "statValue": "1.9",
+            "rank": 2
           },
           {
             "shortName": "K. Leonard",
@@ -503,17 +503,17 @@
             "rank": 4
           },
           {
-            "shortName": "P. George",
-            "name": "Paul George",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/4251/paul-george",
-            "uid": "s:40~l:46~a:4251",
-            "guid": "d7e5e918-d53f-018e-9d15-f9005b2390ad",
+            "shortName": "D. Melton",
+            "name": "De'Anthony Melton",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4066436/deanthony-melton",
+            "uid": "s:40~l:46~a:4066436",
+            "guid": "4701e165-6b05-a4be-91d4-1f97ca5baafc",
             "type": "player",
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
-              "alt": "Paul George"
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
+              "alt": "De'Anthony Melton"
             },
-            "team": "LAC",
+            "team": "PHI",
             "statValue": "1.6",
             "rank": 5
           }

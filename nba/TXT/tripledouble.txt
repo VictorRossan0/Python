@@ -4,7 +4,7 @@ Time do Jogador: SAC
 Rank: 1
 Estatísticas do Jogador 1:
 Estatística: tripleDouble
-Quantidade: 17
+Quantidade: 18
 Informações do Atleta 2:
 Nome do Jogador: Nikola Jokic
 Time do Jogador: DEN
@@ -18,7 +18,7 @@ Time do Jogador: DAL
 Rank: 3
 Estatísticas do Jogador 3:
 Estatística: tripleDouble
-Quantidade: 9
+Quantidade: 10
 Informações do Atleta 4:
 Nome do Jogador: Giannis Antetokounmpo
 Time do Jogador: MIL

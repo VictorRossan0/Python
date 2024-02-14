@@ -14160,3 +14160,125 @@ sendSyncPing/<@https://cdn-gl.imrworldwide.com/novms/html/ls.html:277:51
 
 Dynamically enable window occlusion 1
 !!! error running onStopped callback: TypeError: callback is not a function
+1707944293890	geckodriver	INFO	Listening on 127.0.0.1:55181
+1707944295936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofileCRS63F"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707944296131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707944296173	Marionette	INFO	Listening on port 55190
+Read port: 55190
+1707944296285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.registerdisney.go.com/v4/bundle/web/ESPN-ONESITE.WEB/pt-BR?cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcorev4.css&logLevel=INFO, line 13: unreachable code after return statement
+1707944303417	Marionette	INFO	Stopped listening on port 55190
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js, line 993: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:993:26
+
+JavaScript warning: https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138, line 2: Script terminated by timeout at:
+_private.resetTimer@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:397
+_private.doChecks@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:276
+_private.resetTimer/<@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:359
+
+Dynamically enable window occlusion 1
+1707944304152	geckodriver	INFO	Listening on 127.0.0.1:55277
+1707944306196	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofileaOWBbb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707944306398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707944306444	Marionette	INFO	Listening on port 55285
+Read port: 55285
+1707944306563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.registerdisney.go.com/v4/bundle/web/ESPN-ONESITE.WEB/pt-BR?cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcorev4.css&logLevel=INFO, line 13: unreachable code after return statement
+1707944312600	Marionette	INFO	Stopped listening on port 55285
+JavaScript warning: https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138, line 2: Script terminated by timeout at:
+_private.resetTimer@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:397
+_private.doChecks@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:276
+_private.resetTimer/<@https://dcf.espn.com/TWDC-DTCI/prod/code/d0e28177671986f25526f9285d706df0.js?conditionId0=4872138:2:359
+
+Dynamically enable window occlusion 1
+1707944313389	geckodriver	INFO	Listening on 127.0.0.1:55360
+1707944315438	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofileyn3aE4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707944315640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707944315686	Marionette	INFO	Listening on port 55368
+Read port: 55368
+1707944315827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.registerdisney.go.com/v4/bundle/web/ESPN-ONESITE.WEB/pt-BR?cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcorev4.css&logLevel=INFO, line 13: unreachable code after return statement
+1707944322072	Marionette	INFO	Stopped listening on port 55368
+JavaScript warning: https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js, line 11: Script terminated by timeout at:
+d.testAll@https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js:11:313
+
+Dynamically enable window occlusion 1
+1707944322886	geckodriver	INFO	Listening on 127.0.0.1:55445
+1707944324946	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofileUigB8t"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707944325147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707944325195	Marionette	INFO	Listening on port 55453
+Read port: 55453
+1707944325315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.registerdisney.go.com/v4/bundle/web/ESPN-ONESITE.WEB/pt-BR?cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcorev4.css&logLevel=INFO, line 13: unreachable code after return statement
+1707944331162	Marionette	INFO	Stopped listening on port 55453
+JavaScript warning: https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js, line 11: Script terminated by timeout at:
+d.testAll@https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js:11:313
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js, line 572: Script terminated by timeout at:
+rf@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:572:371
+@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:993:60
+
+Dynamically enable window occlusion 1
+1707944331874	geckodriver	INFO	Listening on 127.0.0.1:55540
+1707944333912	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Hitss\\AppData\\Local\\Temp\\rust_mozprofiledWtjtH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707944334185	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707944334268	Marionette	INFO	Listening on port 55548
+Read port: 55548
+1707944334431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.registerdisney.go.com/v4/bundle/web/ESPN-ONESITE.WEB/pt-BR?cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcorev4.css&logLevel=INFO, line 13: unreachable code after return statement
+1707944341979	Marionette	INFO	Stopped listening on port 55548
+JavaScript warning: https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js, line 2: Script terminated by timeout at:
+[1]</</h/S.cookieRead@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:3407
+[1]</</h/S.cookieWrite@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:4030
+[1]</</h/S._writeVisitor@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:13131
+[1]</</h/S._setField@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:13355
+i@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:22730
+[1]</</h/S.init@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:23527
+[1]</</h.getInstance@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:24335
+@https://secure.espncdn.com/combiner/c?js=analytics/adobe/VisitorAPI_312.js,analytics/adobe/AppMeasurement_282.js:2:46562
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js, line 200: Script terminated by timeout at:
+b</l</t.F.onmessage@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:200:249
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js, line 383: Script terminated by timeout at:
+H<@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:383:23
+Qw@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:564:346
+mw@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:664:355
+C@https://www.gstatic.com/recaptcha/releases/x5WWoE57Fv0d6ATKsLDIAKnt/recaptcha__pt.js:88:483
+
+JavaScript warning: https://cdn-gl.imrworldwide.com/novms/html/ls.html, line 30: Script terminated by timeout at:
+get@https://cdn-gl.imrworldwide.com/novms/html/ls.html:30:36
+sendSyncPing@https://cdn-gl.imrworldwide.com/novms/html/ls.html:266:30
+sendSyncPing/<@https://cdn-gl.imrworldwide.com/novms/html/ls.html:277:51
+
+Dynamically enable window occlusion 1

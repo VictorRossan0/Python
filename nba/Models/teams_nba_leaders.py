@@ -10,7 +10,9 @@ import pandas as pd
 def extrair_info_teams():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.set_headless(True)
+    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+
     driver = webdriver.Firefox(options=firefox_options)
 
     url = 'https://www.espn.com.br/nba/estatisticas/_/vista/time'

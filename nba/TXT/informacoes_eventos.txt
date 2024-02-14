@@ -2215,3 +2215,55 @@ Competidores: LA Clippers vs Minnesota Timberwolves
 Data do Evento: 12-02-2024
 Local do Evento: Los Angeles
 
+Competidores: Charlotte Hornets vs Atlanta Hawks
+Data do Evento: 14-02-2024
+Local do Evento: Charlotte
+
+Competidores: Orlando Magic vs New York Knicks
+Data do Evento: 14-02-2024
+Local do Evento: Orlando
+
+Competidores: Philadelphia 76ers vs Miami Heat
+Data do Evento: 14-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Boston Celtics vs Brooklyn Nets
+Data do Evento: 14-02-2024
+Local do Evento: Boston
+
+Competidores: Cleveland Cavaliers vs Chicago Bulls
+Data do Evento: 14-02-2024
+Local do Evento: Cleveland
+
+Competidores: Toronto Raptors vs Indiana Pacers
+Data do Evento: 14-02-2024
+Local do Evento: Toronto
+
+Competidores: Memphis Grizzlies vs Houston Rockets
+Data do Evento: 14-02-2024
+Local do Evento: Memphis
+
+Competidores: New Orleans Pelicans vs Washington Wizards
+Data do Evento: 14-02-2024
+Local do Evento: New Orleans
+
+Competidores: Dallas Mavericks vs San Antonio Spurs
+Data do Evento: 14-02-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Sacramento Kings
+Data do Evento: 14-02-2024
+Local do Evento: Denver
+
+Competidores: Phoenix Suns vs Detroit Pistons
+Data do Evento: 14-02-2024
+Local do Evento: Phoenix
+
+Competidores: Utah Jazz vs Los Angeles Lakers
+Data do Evento: 14-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Golden State Warriors vs LA Clippers
+Data do Evento: 14-02-2024
+Local do Evento: San Francisco
+
