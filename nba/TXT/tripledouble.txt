@@ -1,14 +1,14 @@
 Informações do Atleta 1:
-Nome do Jogador: Nikola Jokic
-Time do Jogador: DEN
-Rank: 1
-Estatísticas do Jogador 1:
-Estatística: tripleDouble
-Quantidade: 15
-Informações do Atleta 2:
 Nome do Jogador: Domantas Sabonis
 Time do Jogador: SAC
 Rank: 1
+Estatísticas do Jogador 1:
+Estatística: tripleDouble
+Quantidade: 17
+Informações do Atleta 2:
+Nome do Jogador: Nikola Jokic
+Time do Jogador: DEN
+Rank: 2
 Estatísticas do Jogador 2:
 Estatística: tripleDouble
 Quantidade: 15

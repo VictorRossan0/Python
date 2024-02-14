@@ -2175,3 +2175,43 @@ Competidores: Los Angeles Lakers vs New Orleans Pelicans
 Data do Evento: 09-02-2024
 Local do Evento: Los Angeles
 
+Competidores: Charlotte Hornets vs Indiana Pacers
+Data do Evento: 12-02-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Philadelphia 76ers
+Data do Evento: 12-02-2024
+Local do Evento: Cleveland
+
+Competidores: Atlanta Hawks vs Chicago Bulls
+Data do Evento: 12-02-2024
+Local do Evento: Atlanta
+
+Competidores: Toronto Raptors vs San Antonio Spurs
+Data do Evento: 12-02-2024
+Local do Evento: Toronto
+
+Competidores: Houston Rockets vs New York Knicks
+Data do Evento: 12-02-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs New Orleans Pelicans
+Data do Evento: 12-02-2024
+Local do Evento: Memphis
+
+Competidores: Milwaukee Bucks vs Denver Nuggets
+Data do Evento: 12-02-2024
+Local do Evento: Milwaukee
+
+Competidores: Dallas Mavericks vs Washington Wizards
+Data do Evento: 12-02-2024
+Local do Evento: Dallas
+
+Competidores: Utah Jazz vs Golden State Warriors
+Data do Evento: 12-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: LA Clippers vs Minnesota Timberwolves
+Data do Evento: 12-02-2024
+Local do Evento: Los Angeles
+
