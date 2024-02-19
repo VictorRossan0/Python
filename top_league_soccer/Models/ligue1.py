@@ -78,8 +78,8 @@ def create_excel_from_data(data, filename):
 def ligue1():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.set_headless(True)
-    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+    firefox_options.headless = True
+    firefox_options.binary_location = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
 
     driver = webdriver.Firefox(options=firefox_options)
 
@@ -105,6 +105,3 @@ def ligue1():
 
     # Quando terminar, não se esqueça de fechar o driver
     driver.quit()
-
-# Chamar a função
-ligue1()

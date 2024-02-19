@@ -4,27 +4,17 @@ from openpyxl.utils import get_column_letter
 from Models.calendario_nba import extrair_info_calendario
 from Models.leaders_nba import extrair_info_lideres
 from Models.teams_nba_leaders import extrair_info_teams
-from Models.doubled_tripled_nba import extrair_info_estatistica
-from Models.doubled_tripled_nba import criar_excel_com_abas
+from Models.doubled_tripled_nba import main as doubled_tripled_main
+
+# Extrai as informações uma vez
+extrair_info_calendario()
+extrair_info_lideres()
+extrair_info_teams()
+doubled_tripled_main()
 
 def criar_novo_excel():
     wb_novo = Workbook()
     wb_novo.remove(wb_novo.active)  # Remove a folha em branco padrão
-
-    # Chama as funções para extrair informações
-    extrair_info_calendario()
-    extrair_info_lideres()
-    extrair_info_teams()
-
-    # Chamar a função extrair_info_estatistica para o URL de doubleDouble (limitado aos 5 primeiros jogadores)
-    extrair_info_estatistica('https://www.espn.com.br/nba/estatisticas/jogador/_/table/general/ordenar/doubleDouble/dir/desce', 'doubleDouble', quantidade=5)
-
-    # Chamar a função extrair_info_estatistica para o URL de tripleDouble (limitado aos 5 primeiros jogadores)
-    extrair_info_estatistica('https://www.espn.com.br/nba/estatisticas/jogador/_/table/general/ordenar/tripleDouble/dir/desce', 'tripleDouble', quantidade=5)
-
-    # Chama a função para criar o arquivo Excel
-    criar_excel_com_abas("TXT/doubledouble.txt", 'doubleDouble')
-    criar_excel_com_abas("TXT/tripledouble.txt", 'tripleDouble')
 
     # Abre os arquivos Excel existentes
     wb_calendario = load_workbook('Excel/informacoes_eventos.xlsx')

@@ -1,4 +1,3 @@
-import json
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -7,11 +6,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import re
 import pandas as pd
+import json
+
 def extrair_info_lideres():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.set_headless(True)
-    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+    firefox_options.headless = True
 
     driver = webdriver.Firefox(options=firefox_options)
 
@@ -84,10 +84,9 @@ def extrair_info_lideres():
                         team = leader['team']
                         stat_value = leader['statValue']
 
-                        df_geral = df_geral.append(
-                            {'Tipo': header, 'Rank': rank, 'Nome de Jogador': player_name, 'Time': team,
-                             'Valor': stat_value},
-                            ignore_index=True)
+                        df_geral = pd.concat([df_geral, pd.DataFrame(
+                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team],
+                             'Valor': [stat_value]})])
 
                 for group in leaders_defensivos:
                     header = group['header']
@@ -99,10 +98,9 @@ def extrair_info_lideres():
                         team = leader['team']
                         stat_value = leader['statValue']
 
-                        df_geral = df_geral.append(
-                            {'Tipo': header, 'Rank': rank, 'Nome de Jogador': player_name, 'Time': team,
-                             'Valor': stat_value},
-                            ignore_index=True)
+                        df_geral = pd.concat([df_geral, pd.DataFrame(
+                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team],
+                             'Valor': [stat_value]})])
 
                 # Salvar DataFrame em arquivo Excel
                 caminho_excel = 'Excel/leaders_nba.xlsx'
@@ -119,7 +117,7 @@ def extrair_info_lideres():
                     tabela_sem_tipo.to_excel(writer, sheet_name=tipo, index=False)
 
                 # Fecha o escritor Excel
-                writer.save()
+                writer.close()
 
                 print(f"\nLíderes salvos em '{caminho_excel}'")
 

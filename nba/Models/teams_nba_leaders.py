@@ -7,11 +7,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import re
 import pandas as pd
+
 def extrair_info_teams():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.set_headless(True)
-    firefox_options.binary = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
+    firefox_options.headless = True
 
     driver = webdriver.Firefox(options=firefox_options)
 
@@ -54,27 +54,20 @@ def extrair_info_teams():
             caminho_arquivo = 'TXT/conteudo_teams.txt'
 
             # Convertendo a estrutura combinada para uma string formatada
-
-            json_formatado = json.dumps(espnfitt_data['page']['content']['statistics']['leaders'], indent=2,
-                                        ensure_ascii=False)
+            json_formatado = json.dumps(espnfitt_data, indent=2, ensure_ascii=False)
 
             # Escrevendo o conteúdo no arquivo
             with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
                 arquivo.write(json_formatado)
 
-                print(f"\nConteúdo do '__espnfitt__' também salvo em '{caminho_arquivo}'")
+            print(f"\nConteúdo do '__espnfitt__' também salvo em '{caminho_arquivo}'")
 
             try:
+                # Criar listas para armazenar os dados temporariamente
+                data = []
 
-                leaders_ofensivos = espnfitt_data['page']['content']['statistics']['leaders']['0']['groups']
-                leaders_defensivos = espnfitt_data['page']['content']['statistics']['leaders']['1']['groups']
-
-                # Criar DataFrame do Pandas para todos os líderes
-                df_geral = pd.DataFrame(
-                    columns=['Tipo', 'Rank', 'Nome do Time', 'Valor'])
-
-                # Preencher DataFrame com informações
-                for group in leaders_ofensivos:
+                # Preencher listas com informações de líderes ofensivos
+                for group in espnfitt_data['page']['content']['statistics']['leaders']['0']['groups']:
                     header = group['header']
                     leaders = group['leaders']
 
@@ -83,10 +76,10 @@ def extrair_info_teams():
                         team = leader['name']
                         stat_value = leader['statValue']
 
-                        df_geral = df_geral.append(
-                            {'Tipo': header, 'Rank': rank, 'Nome do Time': team, 'Valor': stat_value}, ignore_index=True)
+                        data.append({'Tipo': header, 'Rank': rank, 'Nome do Time': team, 'Valor': stat_value})
 
-                for group in leaders_defensivos:
+                # Preencher listas com informações de líderes defensivos
+                for group in espnfitt_data['page']['content']['statistics']['leaders']['1']['groups']:
                     header = group['header']
                     leaders = group['leaders']
 
@@ -95,25 +88,20 @@ def extrair_info_teams():
                         team = leader['name']
                         stat_value = leader['statValue']
 
-                        df_geral = df_geral.append(
-                            {'Tipo': header, 'Rank': rank, 'Nome do Time': team, 'Valor': stat_value}, ignore_index=True)
+                        data.append({'Tipo': header, 'Rank': rank, 'Nome do Time': team, 'Valor': stat_value})
+
+                # Criar DataFrame do Pandas com os dados coletados
+                df_geral = pd.DataFrame(data)
 
                 # Salvar DataFrame em arquivo Excel
                 caminho_excel = 'Excel/team_leaders_nba.xlsx'
 
-                # Remover a coluna 'Tipo' do DataFrame principal
-                df_geral_sem_tipo = df_geral.drop(columns=['Tipo'])
-
                 # Cria um escritor Excel
-                writer = pd.ExcelWriter(caminho_excel, engine='xlsxwriter')
-
-                # Filtra e salva cada tabela sem a coluna 'Tipo'
-                for tipo, tabela in df_geral.groupby('Tipo'):
-                    tabela_sem_tipo = tabela.drop(columns=['Tipo'])
-                    tabela_sem_tipo.to_excel(writer, sheet_name=tipo, index=False)
-
-                # Fecha o escritor Excel
-                writer.save()
+                with pd.ExcelWriter(caminho_excel, engine='xlsxwriter') as writer:
+                    # Filtra e salva cada tabela sem a coluna 'Tipo'
+                    for tipo, tabela in df_geral.groupby('Tipo'):
+                        tabela_sem_tipo = tabela.drop(columns=['Tipo'])
+                        tabela_sem_tipo.to_excel(writer, sheet_name=tipo, index=False)
 
                 print(f"\nLíderes salvos em '{caminho_excel}'")
 

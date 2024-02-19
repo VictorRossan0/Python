@@ -2,7 +2,6 @@ from openpyxl import load_workbook
 from openpyxl.workbook import Workbook
 from openpyxl.utils import get_column_letter
 from Models.bundesliga import bundesliga
-# from Models.estatisticas_Top5Leagues import criar_excel
 from Models.la_liga import la_liga
 from Models.ligue1 import ligue1
 from Models.premier_league import premier_league
@@ -26,7 +25,6 @@ def criar_novo_excel():
     wb_ligue1 = load_workbook('Excel/dados_ligue1.xlsx')
     wb_premier = load_workbook('Excel/dados_premier.xlsx')
     wb_serieA = load_workbook('Excel/dados_serieA.xlsx')
-    # wb_estatistica = load_workbook('Excel/estatisticas_Top5Leagues.xlsx')
 
     # Copia as abas para o novo arquivo Excel
     for sheet in wb_bundesliga.sheetnames:
@@ -35,13 +33,6 @@ def criar_novo_excel():
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
-
-    # for sheet in wb_estatistica.sheetnames:
-    #     ws = wb_estatistica[sheet]
-    #     ws_novo = wb_novo.create_sheet(title=sheet)
-    #     for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
-    #         values = [cell.value for cell in row]
-    #         ws_novo.append(values)
     
     for sheet in wb_laliga.sheetnames:
         ws = wb_laliga[sheet]

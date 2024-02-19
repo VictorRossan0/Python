@@ -34,7 +34,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "34.3",
+            "statValue": "34.2",
             "rank": 2
           },
           {
@@ -64,7 +64,7 @@
               "alt": "Giannis Antetokounmpo"
             },
             "team": "MIL",
-            "statValue": "30.7",
+            "statValue": "30.8",
             "rank": 4
           },
           {
@@ -79,7 +79,7 @@
               "alt": "Donovan Mitchell"
             },
             "team": "CLE",
-            "statValue": "28.3",
+            "statValue": "28.4",
             "rank": 5
           }
         ],
@@ -135,7 +135,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "9.6",
+            "statValue": "9.5",
             "rank": 3
           },
           {
@@ -150,7 +150,7 @@
               "alt": "Nikola Jokic"
             },
             "team": "DEN",
-            "statValue": "9.0",
+            "statValue": "8.9",
             "rank": 4
           },
           {
@@ -251,8 +251,8 @@
               "alt": "Trae Young"
             },
             "team": "ATL",
-            "statValue": "3.4",
-            "rank": 3
+            "statValue": "3.3",
+            "rank": 5
           }
         ],
         "completeLeaders": {
@@ -301,21 +301,6 @@
             "rank": 2
           },
           {
-            "shortName": "N. Jokic",
-            "name": "Nikola Jokic",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/3112335/nikola-jokic",
-            "uid": "s:40~l:46~a:3112335",
-            "guid": "22f57511-06ae-1587-f01b-33965365ce0d",
-            "type": "player",
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
-              "alt": "Nikola Jokic"
-            },
-            "team": "DEN",
-            "statValue": "12.2",
-            "rank": 3
-          },
-          {
             "shortName": "A. Davis",
             "name": "Anthony Davis",
             "href": "http://www.espn.com.br/nba/jogador/_/id/6583/anthony-davis",
@@ -327,7 +312,22 @@
               "alt": "Anthony Davis"
             },
             "team": "LAL",
-            "statValue": "12.1",
+            "statValue": "12.2",
+            "rank": 3
+          },
+          {
+            "shortName": "N. Jokic",
+            "name": "Nikola Jokic",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3112335/nikola-jokic",
+            "uid": "s:40~l:46~a:3112335",
+            "guid": "22f57511-06ae-1587-f01b-33965365ce0d",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
+              "alt": "Nikola Jokic"
+            },
+            "team": "DEN",
+            "statValue": "12.0",
             "rank": 4
           },
           {
@@ -342,7 +342,7 @@
               "alt": "Jalen Duren"
             },
             "team": "DET",
-            "statValue": "12.1",
+            "statValue": "12.0",
             "rank": 4
           }
         ],
@@ -503,17 +503,17 @@
             "rank": 4
           },
           {
-            "shortName": "D. Melton",
-            "name": "De'Anthony Melton",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/4066436/deanthony-melton",
-            "uid": "s:40~l:46~a:4066436",
-            "guid": "4701e165-6b05-a4be-91d4-1f97ca5baafc",
+            "shortName": "P. George",
+            "name": "Paul George",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4251/paul-george",
+            "uid": "s:40~l:46~a:4251",
+            "guid": "d7e5e918-d53f-018e-9d15-f9005b2390ad",
             "type": "player",
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
-              "alt": "De'Anthony Melton"
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
+              "alt": "Paul George"
             },
-            "team": "PHI",
+            "team": "LAC",
             "statValue": "1.6",
             "rank": 5
           }
