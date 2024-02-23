@@ -2651,3 +2651,91 @@ Competidores: Portland Trail Blazers vs Minnesota Timberwolves
 Data do Evento: 15-02-2024
 Local do Evento: Portland
 
+Competidores: Cleveland Cavaliers vs Orlando Magic
+Data do Evento: 22-02-2024
+Local do Evento: Cleveland
+
+Competidores: Indiana Pacers vs Detroit Pistons
+Data do Evento: 22-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Philadelphia 76ers vs New York Knicks
+Data do Evento: 22-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Toronto Raptors vs Brooklyn Nets
+Data do Evento: 22-02-2024
+Local do Evento: Toronto
+
+Competidores: Dallas Mavericks vs Phoenix Suns
+Data do Evento: 22-02-2024
+Local do Evento: Dallas
+
+Competidores: Chicago Bulls vs Boston Celtics
+Data do Evento: 22-02-2024
+Local do Evento: Chicago
+
+Competidores: New Orleans Pelicans vs Houston Rockets
+Data do Evento: 22-02-2024
+Local do Evento: New Orleans
+
+Competidores: Oklahoma City Thunder vs LA Clippers
+Data do Evento: 22-02-2024
+Local do Evento: Oklahoma City
+
+Competidores: Denver Nuggets vs Washington Wizards
+Data do Evento: 22-02-2024
+Local do Evento: Denver
+
+Competidores: Utah Jazz vs Charlotte Hornets
+Data do Evento: 22-02-2024
+Local do Evento: Salt Lake City
+
+Competidores: Golden State Warriors vs Los Angeles Lakers
+Data do Evento: 22-02-2024
+Local do Evento: San Francisco
+
+Competidores: Sacramento Kings vs San Antonio Spurs
+Data do Evento: 22-02-2024
+Local do Evento: Sacramento
+
+Competidores: Atlanta Hawks vs Toronto Raptors
+Data do Evento: 23-02-2024
+Local do Evento: Atlanta
+
+Competidores: Philadelphia 76ers vs Cleveland Cavaliers
+Data do Evento: 23-02-2024
+Local do Evento: Filadélfia
+
+Competidores: Houston Rockets vs Phoenix Suns
+Data do Evento: 23-02-2024
+Local do Evento: Houston
+
+Competidores: Memphis Grizzlies vs LA Clippers
+Data do Evento: 23-02-2024
+Local do Evento: Memphis
+
+Competidores: Oklahoma City Thunder vs Washington Wizards
+Data do Evento: 23-02-2024
+Local do Evento: Oklahoma City
+
+Competidores: New Orleans Pelicans vs Miami Heat
+Data do Evento: 23-02-2024
+Local do Evento: New Orleans
+
+Competidores: Minnesota Timberwolves vs Milwaukee Bucks
+Data do Evento: 23-02-2024
+Local do Evento: Minneapolis
+
+Competidores: Golden State Warriors vs Charlotte Hornets
+Data do Evento: 23-02-2024
+Local do Evento: San Francisco
+
+Competidores: Portland Trail Blazers vs Denver Nuggets
+Data do Evento: 23-02-2024
+Local do Evento: Portland
+
+Competidores: Los Angeles Lakers vs San Antonio Spurs
+Data do Evento: 23-02-2024
+Local do Evento: Los Angeles
+

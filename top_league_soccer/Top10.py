@@ -1,14 +1,9 @@
 from openpyxl import load_workbook
 from openpyxl.workbook import Workbook
 from openpyxl.utils import get_column_letter
-from Models.bundesliga import bundesliga
 from Models.eredivisie import eredivisie
-from Models.la_liga import la_liga
-from Models.ligue1 import ligue1
-from Models.premier_league import premier_league
 from Models.premier_russia import premier_russia
 from Models.primeira_liga import primeira_liga
-from Models.serieA import serieA
 from Models.super_lig import super_lig
 from Models.tipico_bundesliga import tipico_bundesliga
 
@@ -18,14 +13,9 @@ def criar_novo_excel():
     wb_novo.remove(wb_novo.active)  # Remove a folha em branco padrão
 
     # Chama as funções para extrair informações
-    bundesliga()
     eredivisie()
-    la_liga()
-    ligue1()
-    premier_league()
     premier_russia()
     primeira_liga()
-    serieA()
     super_lig()
     tipico_bundesliga()
     

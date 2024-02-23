@@ -4,14 +4,14 @@ Time do Jogador: SAC
 Rank: 1
 Estatísticas do Jogador 1:
 Estatística: tripleDouble
-Quantidade: 18
+Quantidade: 19
 Informações do Atleta 2:
 Nome do Jogador: Nikola Jokic
 Time do Jogador: DEN
 Rank: 2
 Estatísticas do Jogador 2:
 Estatística: tripleDouble
-Quantidade: 15
+Quantidade: 16
 Informações do Atleta 3:
 Nome do Jogador: Luka Doncic
 Time do Jogador: DAL

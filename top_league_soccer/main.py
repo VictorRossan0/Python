@@ -13,7 +13,6 @@ def criar_novo_excel():
 
     # Chama as funções para extrair informações
     bundesliga()
-    # criar_excel([])
     la_liga()
     ligue1()
     premier_league()

@@ -34,7 +34,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "34.2",
+            "statValue": "34.3",
             "rank": 2
           },
           {
@@ -135,7 +135,7 @@
               "alt": "Luka Doncic"
             },
             "team": "DAL",
-            "statValue": "9.5",
+            "statValue": "9.6",
             "rank": 3
           },
           {
@@ -150,21 +150,21 @@
               "alt": "Nikola Jokic"
             },
             "team": "DEN",
-            "statValue": "8.9",
+            "statValue": "9.1",
             "rank": 4
           },
           {
-            "shortName": "J. Harden",
-            "name": "James Harden",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/3992/james-harden",
-            "uid": "s:40~l:46~a:3992",
-            "guid": "35b0f455-b1df-0986-121d-27d2b6c18122",
+            "shortName": "D. Sabonis",
+            "name": "Domantas Sabonis",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/3155942/domantas-sabonis",
+            "uid": "s:40~l:46~a:3155942",
+            "guid": "c2eb1a17-7809-2cc6-3fa7-7a5e63654ae4",
             "type": "player",
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png",
-              "alt": "James Harden"
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+              "alt": "Domantas Sabonis"
             },
-            "team": "LAC",
+            "team": "SAC",
             "statValue": "8.4",
             "rank": 5
           }
@@ -191,7 +191,7 @@
               "alt": "Stephen Curry"
             },
             "team": "GS",
-            "statValue": "5.0",
+            "statValue": "5.1",
             "rank": 1
           },
           {
@@ -327,7 +327,7 @@
               "alt": "Nikola Jokic"
             },
             "team": "DEN",
-            "statValue": "12.0",
+            "statValue": "12.1",
             "rank": 4
           },
           {
@@ -343,7 +343,7 @@
             },
             "team": "DET",
             "statValue": "12.0",
-            "rank": 4
+            "rank": 5
           }
         ],
         "completeLeaders": {
@@ -372,21 +372,6 @@
             "rank": 1
           },
           {
-            "shortName": "W. Kessler",
-            "name": "Walker Kessler",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/4433136/walker-kessler",
-            "uid": "s:40~l:46~a:4433136",
-            "guid": "a362b0ba-25ef-3ceb-9dd3-039b3d8aa4aa",
-            "type": "player",
-            "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
-              "alt": "Walker Kessler"
-            },
-            "team": "UTAH",
-            "statValue": "2.8",
-            "rank": 2
-          },
-          {
             "shortName": "B. Lopez",
             "name": "Brook Lopez",
             "href": "http://www.espn.com.br/nba/jogador/_/id/3448/brook-lopez",
@@ -399,7 +384,22 @@
             },
             "team": "MIL",
             "statValue": "2.7",
-            "rank": 3
+            "rank": 2
+          },
+          {
+            "shortName": "W. Kessler",
+            "name": "Walker Kessler",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4433136/walker-kessler",
+            "uid": "s:40~l:46~a:4433136",
+            "guid": "a362b0ba-25ef-3ceb-9dd3-039b3d8aa4aa",
+            "type": "player",
+            "headshot": {
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
+              "alt": "Walker Kessler"
+            },
+            "team": "UTAH",
+            "statValue": "2.7",
+            "rank": 2
           },
           {
             "shortName": "C. Holmgren",
@@ -413,8 +413,8 @@
               "alt": "Chet Holmgren"
             },
             "team": "OKC",
-            "statValue": "2.6",
-            "rank": 4
+            "statValue": "2.7",
+            "rank": 2
           },
           {
             "shortName": "A. Davis",
@@ -454,7 +454,7 @@
               "alt": "Shai Gilgeous-Alexander"
             },
             "team": "OKC",
-            "statValue": "2.2",
+            "statValue": "2.1",
             "rank": 1
           },
           {
@@ -503,17 +503,17 @@
             "rank": 4
           },
           {
-            "shortName": "P. George",
-            "name": "Paul George",
-            "href": "http://www.espn.com.br/nba/jogador/_/id/4251/paul-george",
-            "uid": "s:40~l:46~a:4251",
-            "guid": "d7e5e918-d53f-018e-9d15-f9005b2390ad",
+            "shortName": "D. Melton",
+            "name": "De'Anthony Melton",
+            "href": "http://www.espn.com.br/nba/jogador/_/id/4066436/deanthony-melton",
+            "uid": "s:40~l:46~a:4066436",
+            "guid": "4701e165-6b05-a4be-91d4-1f97ca5baafc",
             "type": "player",
             "headshot": {
-              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
-              "alt": "Paul George"
+              "href": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
+              "alt": "De'Anthony Melton"
             },
-            "team": "LAC",
+            "team": "PHI",
             "statValue": "1.6",
             "rank": 5
           }
