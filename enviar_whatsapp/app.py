@@ -11,7 +11,7 @@ logging.basicConfig(filename='erros.log', level=logging.ERROR, format='%(asctime
 
 webbrowser.open('https://web.whatsapp.com/')
 print("WhatsApp Aberto")
-sleep(20)
+sleep(10)
 print("ROBS sendo executado!!!")
 try:
     # Obter a data atual
@@ -28,37 +28,46 @@ try:
         data = linha[2].value
         seu_nome = linha[3].value
         seu_cargo = linha[4].value
-        numero_cir = linha[5].value
-
-        if nome and telefone and data and seu_nome and seu_cargo and numero_cir:
-            mensagem = (
-                f"Bom dia,\n\n"
-                f"Meu nome é {seu_nome}, e eu sou responsável pelo agendamento na Embratel. "
-                f"Estou entrando em contato para tratar de questões referentes à ativação/alteração do CIR: {numero_cir}, "
-                f"mas não consegui falar com você.\n\n"
-                f"Enviei um e-mail com mais informações e ficaria grato(a) se você pudesse verificar e me retornar assim que for possível.\n\n"
-                f"Para a sua comodidade, segue abaixo algumas opções de resposta rápida:\n\n"
-                f"    - Se já respondeu ao e-mail, por favor, digite 1.\n"
-                f"    - Se prefere que eu entre em contato novamente por este número, digite 2.\n"
-                f"    - Caso queira que eu ligue para outro número, por favor, deixe-o abaixo, incluindo o DDD.\n\n"
-                f"Agradeço pela sua atenção e estou à disposição para auxiliar na conclusão deste processo de agendamento.\n\n"
-                f"Atenciosamente,\n"
-                f"{seu_nome}\n"
-                f"{seu_cargo}\n"
-                f"Embratel"
-            )
+        designacao = linha[5].value
+        terminal = linha[6].value
+        
+        if nome and telefone and data and seu_nome and seu_cargo and designacao:
+            if datetime.now().hour >= 18:
+                print("Horário limite atingido. Encerrando o envio de mensagens.")
+                break
+            
+            if terminal == 0:
+                mensagem = (
+                    f"Olá, eu sou o {seu_nome}\n\n"
+                    f"Faço parte da equipe de agendamento da Claro. Nos próximos dias, um dos nossos analistas entrará em contato por e-mail ou telefone para agendar Ativação/Alteração da designação {designacao}.\n\n"
+                    f"Se você já recebeu essa mensagem, por favor, desconsidere.\n\n"
+                    f"Atenciosamente,\n"
+                    f"{seu_nome}\n"
+                    f"{seu_cargo}\n"
+                    f"Embratel"
+                )
+            else:
+                mensagem = (
+                    f"Olá, eu sou o {seu_nome}\n\n"
+                    f"Faço parte da equipe de agendamento da Claro. Nos próximos dias, um dos nossos analistas entrará em contato por e-mail ou telefone para agendar Ativação/Alteração do terminal {terminal}.\n\n"
+                    f"Se você já recebeu essa mensagem, por favor, desconsidere.\n\n"
+                    f"Atenciosamente,\n"
+                    f"{seu_nome}\n"
+                    f"{seu_cargo}\n"
+                    f"Embratel"
+                )
             link = f"https://web.whatsapp.com/send?phone={telefone}&text={quote(mensagem)}"
             webbrowser.open(link)
-            sleep(10)
-            seta = pyautogui.locateCenterOnScreen('Images/seta_whatsapp.png')
+            sleep(20)  # Tempo para abrir o WhatsApp e enviar a mensagem
+            seta = pyautogui.locateCenterOnScreen('Images/seta_whatsapp_business.png')
             if seta:
-                sleep(10)
+                sleep(20)  # Tempo para encaminhar a mensagem
                 pyautogui.click(seta[0], seta[1])
                 print("Mensagem Encaminhada com sucesso!!!")
-                sleep(10)
+                sleep(20)  # Tempo para fechar a conversa
                 pyautogui.hotkey('ctrl', 'w')
                 print("Contato Finalizado com sucesso!!!")
-                sleep(10)
+                sleep(12)  # Tempo entre as mensagens
             else:
                 logging.error(f'Não foi possível encontrar a seta de enviar para {nome}')
         else:

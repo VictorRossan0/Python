@@ -55,18 +55,26 @@
 															<img src="https://cdn.redscores.com/images/team/591_s.png" alt="Paris Saint Germain" width="16" class="logo">
 															<a href="/pt-br/team/paris-saint-germain/591">PSG</a>
 														</td>
-															<td class="text-center">22</td>
+															<td class="text-center">24</td>
 															<td class="text-center">16</td>
-															<td class="text-center">5</td>
+															<td class="text-center">7</td>
 															<td class="text-center">1</td>
-															<td class="text-center">53:18 </td>
-															<td class="text-center"><strong>53</strong></td>
+															<td class="text-center">54:19 </td>
+															<td class="text-center"><strong>55</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
 
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
@@ -85,14 +93,6 @@
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
 																	
 
 																	<div class="matches-results__item bg-lime"></div>
@@ -104,14 +104,14 @@
 															
 
 															<td class="text-center">
-																<span class="bg-turquoise colored-value"><b>2.50</b></span>
+																<span class="bg-turquoise colored-value"><b>2.25</b></span>
 															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">1.3</td>
+															<td class="text-center">58%</td>
+															<td class="text-center">1.4</td>
 															<td class="text-center">5.4</td>
-															<td class="text-center">91%</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">3.23</td>
+															<td class="text-center">88%</td>
+															<td class="text-center">63%</td>
+															<td class="text-center">3.04</td>
 													</tr>
 
 
@@ -123,12 +123,12 @@
 															<img src="https://cdn.redscores.com/images/team/266_s.png" alt="Brest" width="16" class="logo">
 															<a href="/pt-br/team/brest/266">Brest</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">11</td>
+															<td class="text-center">24</td>
+															<td class="text-center">13</td>
 															<td class="text-center">7</td>
 															<td class="text-center">4</td>
-															<td class="text-center">31:18 </td>
-															<td class="text-center"><strong>40</strong></td>
+															<td class="text-center">35:18 </td>
+															<td class="text-center"><strong>46</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -139,24 +139,24 @@
 																	
 																	
 
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
 																	
 
 																	<div class="matches-results__item bg-lime"></div>
@@ -174,12 +174,12 @@
 															<td class="text-center">
 																<span class="bg-turquoise colored-value"><b>2.25</b></span>
 															</td>
-															<td class="text-center">41%</td>
-															<td class="text-center">2.5</td>
-															<td class="text-center">4.6</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">36%</td>
-															<td class="text-center">2.23</td>
+															<td class="text-center">38%</td>
+															<td class="text-center">2.4</td>
+															<td class="text-center">4.4</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">38%</td>
+															<td class="text-center">2.21</td>
 													</tr>
 
 
@@ -188,28 +188,20 @@
 															<span class="bg-turquoise colored-value" title="UEFA Champions League">3.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/450_s.png" alt="Nice" width="16" class="logo">
-															<a href="/pt-br/team/nice/450">Nice</a>
+															<img src="https://cdn.redscores.com/images/team/6789_s.png" alt="Monaco" width="16" class="logo">
+															<a href="/pt-br/team/monaco/6789">Monaco</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">11</td>
+															<td class="text-center">24</td>
+															<td class="text-center">12</td>
 															<td class="text-center">6</td>
-															<td class="text-center">5</td>
-															<td class="text-center">22:15 </td>
-															<td class="text-center"><strong>39</strong></td>
+															<td class="text-center">6</td>
+															<td class="text-center">44:34 </td>
+															<td class="text-center"><strong>42</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
@@ -228,6 +220,14 @@
 																	
 
 																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
@@ -240,14 +240,14 @@
 															
 
 															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.25</b></span>
+																<span class="bg-orange colored-value"><b>1.50</b></span>
 															</td>
-															<td class="text-center">27%</td>
-															<td class="text-center">1.8</td>
+															<td class="text-center">63%</td>
+															<td class="text-center">2.4</td>
 															<td class="text-center">5.5</td>
-															<td class="text-center">45%</td>
-															<td class="text-center">18%</td>
-															<td class="text-center">1.68</td>
+															<td class="text-center">83%</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">3.25</td>
 													</tr>
 
 
@@ -259,12 +259,12 @@
 															<img src="https://cdn.redscores.com/images/team/690_s.png" alt="LOSC Lille" width="16" class="logo">
 															<a href="/pt-br/team/losc-lille/690">LOSC Lille</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">10</td>
+															<td class="text-center">24</td>
+															<td class="text-center">11</td>
 															<td class="text-center">8</td>
-															<td class="text-center">4</td>
-															<td class="text-center">32:17 </td>
-															<td class="text-center"><strong>38</strong></td>
+															<td class="text-center">5</td>
+															<td class="text-center">34:20 </td>
+															<td class="text-center"><strong>41</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -284,6 +284,14 @@
 																	
 
 																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
 
@@ -295,27 +303,19 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.50</b></span>
+																<span class="bg-lime colored-value"><b>1.63</b></span>
 															</td>
-															<td class="text-center">41%</td>
-															<td class="text-center">1.9</td>
+															<td class="text-center">42%</td>
+															<td class="text-center">1.8</td>
 															<td class="text-center">5.6</td>
-															<td class="text-center">77%</td>
-															<td class="text-center">36%</td>
-															<td class="text-center">2.23</td>
+															<td class="text-center">76%</td>
+															<td class="text-center">37%</td>
+															<td class="text-center">2.25</td>
 													</tr>
 
 
@@ -324,15 +324,15 @@
 															<span class="bg-orange colored-value" title="UEFA Europa League">5.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/6789_s.png" alt="Monaco" width="16" class="logo">
-															<a href="/pt-br/team/monaco/6789">Monaco</a>
+															<img src="https://cdn.redscores.com/images/team/450_s.png" alt="Nice" width="16" class="logo">
+															<a href="/pt-br/team/nice/450">Nice</a>
 														</td>
-															<td class="text-center">22</td>
+															<td class="text-center">24</td>
 															<td class="text-center">11</td>
-															<td class="text-center">5</td>
+															<td class="text-center">7</td>
 															<td class="text-center">6</td>
-															<td class="text-center">41:32 </td>
-															<td class="text-center"><strong>38</strong></td>
+															<td class="text-center">23:17 </td>
+															<td class="text-center"><strong>40</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -343,14 +343,6 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
@@ -358,6 +350,14 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -376,14 +376,14 @@
 															
 
 															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.38</b></span>
+																<span class="bg-red-light colored-value"><b>1.00</b></span>
 															</td>
-															<td class="text-center">64%</td>
-															<td class="text-center">2.6</td>
+															<td class="text-center">29%</td>
+															<td class="text-center">1.8</td>
 															<td class="text-center">5.6</td>
-															<td class="text-center">86%</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">3.32</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">21%</td>
+															<td class="text-center">1.67</td>
 													</tr>
 
 
@@ -395,18 +395,26 @@
 															<img src="https://cdn.redscores.com/images/team/271_s.png" alt="Lens" width="16" class="logo">
 															<a href="/pt-br/team/lens/271">Lens</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">10</td>
+															<td class="text-center">24</td>
+															<td class="text-center">11</td>
 															<td class="text-center">6</td>
-															<td class="text-center">6</td>
-															<td class="text-center">28:21 </td>
-															<td class="text-center"><strong>36</strong></td>
+															<td class="text-center">7</td>
+															<td class="text-center">33:24 </td>
+															<td class="text-center"><strong>39</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
@@ -430,28 +438,20 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
 
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-lime colored-value"><b>1.75</b></span>
+																<span class="bg-lime colored-value"><b>1.63</b></span>
 															</td>
-															<td class="text-center">36%</td>
-															<td class="text-center">2.2</td>
-															<td class="text-center">5.1</td>
-															<td class="text-center">69%</td>
-															<td class="text-center">37%</td>
-															<td class="text-center">2.23</td>
+															<td class="text-center">38%</td>
+															<td class="text-center">2.4</td>
+															<td class="text-center">5.2</td>
+															<td class="text-center">72%</td>
+															<td class="text-center">42%</td>
+															<td class="text-center">2.38</td>
 													</tr>
 
 
@@ -460,157 +460,29 @@
 															<span class="bg-gray-light colored-value" title="">7.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/598_s.png" alt="Rennes" width="16" class="logo">
-															<a href="/pt-br/team/rennes/598">Rennes</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">9</td>
-															<td class="text-center">7</td>
-															<td class="text-center">6</td>
-															<td class="text-center">34:26 </td>
-															<td class="text-center"><strong>34</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-turquoise colored-value"><b>2.38</b></span>
-															</td>
-															<td class="text-center">64%</td>
-															<td class="text-center">1.8</td>
-															<td class="text-center">4.6</td>
-															<td class="text-center">76%</td>
-															<td class="text-center">53%</td>
-															<td class="text-center">2.73</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">8.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/1028_s.png" alt="Reims" width="16" class="logo">
-															<a href="/pt-br/team/reims/1028">Reims</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">9</td>
-															<td class="text-center">4</td>
-															<td class="text-center">9</td>
-															<td class="text-center">28:30 </td>
-															<td class="text-center"><strong>31</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>1.00</b></span>
-															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">1.6</td>
-															<td class="text-center">5.5</td>
-															<td class="text-center">82%</td>
-															<td class="text-center">55%</td>
-															<td class="text-center">2.64</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">9.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
 															<img src="https://cdn.redscores.com/images/team/44_s.png" alt="Olympique Marseille" width="16" class="logo">
 															<a href="/pt-br/team/olympique-marseille/44">Marseille</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">7</td>
+															<td class="text-center">24</td>
+															<td class="text-center">9</td>
 															<td class="text-center">9</td>
 															<td class="text-center">6</td>
-															<td class="text-center">29:24 </td>
-															<td class="text-center"><strong>30</strong></td>
+															<td class="text-center">38:26 </td>
+															<td class="text-center"><strong>36</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
@@ -633,14 +505,6 @@
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
 																	
 
 															</div>
@@ -650,29 +514,29 @@
 															<td class="text-center">
 																<span class="bg-orange colored-value"><b>1.25</b></span>
 															</td>
-															<td class="text-center">50%</td>
+															<td class="text-center">54%</td>
 															<td class="text-center">1.7</td>
 															<td class="text-center">5.8</td>
-															<td class="text-center">73%</td>
-															<td class="text-center">41%</td>
-															<td class="text-center">2.41</td>
+															<td class="text-center">75%</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">2.67</td>
 													</tr>
 
 
 													<tr>
 														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">10.</span>
+															<span class="bg-gray-light colored-value" title="">8.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/686_s.png" alt="Strasbourg" width="16" class="logo">
-															<a href="/pt-br/team/strasbourg/686">Strasbourg</a>
+															<img src="https://cdn.redscores.com/images/team/598_s.png" alt="Rennes" width="16" class="logo">
+															<a href="/pt-br/team/rennes/598">Rennes</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">6</td>
-															<td class="text-center">7</td>
+															<td class="text-center">24</td>
 															<td class="text-center">9</td>
-															<td class="text-center">23:32 </td>
-															<td class="text-center"><strong>25</strong></td>
+															<td class="text-center">8</td>
+															<td class="text-center">7</td>
+															<td class="text-center">36:29 </td>
+															<td class="text-center"><strong>35</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -684,23 +548,91 @@
 																	<div class="matches-results__item bg-red-light"></div>
 
 																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-turquoise colored-value"><b>2.38</b></span>
+															</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">4.5</td>
+															<td class="text-center">78%</td>
+															<td class="text-center">52%</td>
+															<td class="text-center">2.71</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">9.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/1028_s.png" alt="Reims" width="16" class="logo">
+															<a href="/pt-br/team/reims/1028">Reims</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">10</td>
+															<td class="text-center">4</td>
+															<td class="text-center">10</td>
+															<td class="text-center">30:32 </td>
+															<td class="text-center"><strong>34</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
 																	
 
 																	<div class="matches-results__item bg-lime"></div>
@@ -718,29 +650,29 @@
 															<td class="text-center">
 																<span class="bg-orange colored-value"><b>1.38</b></span>
 															</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">1.7</td>
-															<td class="text-center">3.5</td>
-															<td class="text-center">86%</td>
-															<td class="text-center">55%</td>
-															<td class="text-center">2.50</td>
+															<td class="text-center">58%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">5.4</td>
+															<td class="text-center">79%</td>
+															<td class="text-center">54%</td>
+															<td class="text-center">2.58</td>
 													</tr>
 
 
 													<tr>
 														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">11.</span>
+															<span class="bg-gray-light colored-value" title="">10.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/79_s.png" alt="Olympique Lyonnais" width="16" class="logo">
-															<a href="/pt-br/team/olympique-lyonnais/79">Lyon</a>
+															<img src="https://cdn.redscores.com/images/team/289_s.png" alt="Toulouse" width="16" class="logo">
+															<a href="/pt-br/team/toulouse/289">Toulouse</a>
 														</td>
-															<td class="text-center">22</td>
+															<td class="text-center">24</td>
 															<td class="text-center">7</td>
-															<td class="text-center">4</td>
-															<td class="text-center">11</td>
-															<td class="text-center">23:34 </td>
-															<td class="text-center"><strong>25</strong></td>
+															<td class="text-center">8</td>
+															<td class="text-center">9</td>
+															<td class="text-center">27:32 </td>
+															<td class="text-center"><strong>29</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -763,6 +695,58 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-lime colored-value"><b>1.88</b></span>
+															</td>
+															<td class="text-center">63%</td>
+															<td class="text-center">2.5</td>
+															<td class="text-center">4.3</td>
+															<td class="text-center">83%</td>
+															<td class="text-center">54%</td>
+															<td class="text-center">2.46</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">11.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/79_s.png" alt="Olympique Lyonnais" width="16" class="logo">
+															<a href="/pt-br/team/olympique-lyonnais/79">Lyon</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">8</td>
+															<td class="text-center">4</td>
+															<td class="text-center">12</td>
+															<td class="text-center">25:38 </td>
+															<td class="text-center"><strong>28</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
@@ -779,19 +763,35 @@
 																	
 																	
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-turquoise colored-value"><b>2.25</b></span>
+																<span class="bg-lime colored-value"><b>1.88</b></span>
 															</td>
-															<td class="text-center">45%</td>
+															<td class="text-center">46%</td>
 															<td class="text-center">1.7</td>
-															<td class="text-center">4.7</td>
-															<td class="text-center">63%</td>
-															<td class="text-center">50%</td>
-															<td class="text-center">2.59</td>
+															<td class="text-center">4.5</td>
+															<td class="text-center">66%</td>
+															<td class="text-center">54%</td>
+															<td class="text-center">2.63</td>
 													</tr>
 
 
@@ -800,14 +800,218 @@
 															<span class="bg-gray-light colored-value" title="">12.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/686_s.png" alt="Strasbourg" width="16" class="logo">
+															<a href="/pt-br/team/strasbourg/686">Strasbourg</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">6</td>
+															<td class="text-center">8</td>
+															<td class="text-center">10</td>
+															<td class="text-center">25:37 </td>
+															<td class="text-center"><strong>26</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-red-light colored-value"><b>0.75</b></span>
+															</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">3.4</td>
+															<td class="text-center">88%</td>
+															<td class="text-center">58%</td>
+															<td class="text-center">2.58</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">13.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/9257_s.png" alt="Lorient" width="16" class="logo">
+															<a href="/pt-br/team/lorient/9257">Lorient</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">6</td>
+															<td class="text-center">7</td>
+															<td class="text-center">11</td>
+															<td class="text-center">33:45 </td>
+															<td class="text-center"><strong>25</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-lime colored-value"><b>1.63</b></span>
+															</td>
+															<td class="text-center">58%</td>
+															<td class="text-center">1.9</td>
+															<td class="text-center">3.4</td>
+															<td class="text-center">79%</td>
+															<td class="text-center">67%</td>
+															<td class="text-center">3.25</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">14.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/59_s.png" alt="Nantes" width="16" class="logo">
+															<a href="/pt-br/team/nantes/59">Nantes</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">7</td>
+															<td class="text-center">4</td>
+															<td class="text-center">13</td>
+															<td class="text-center">23:36 </td>
+															<td class="text-center"><strong>25</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-red-light colored-value"><b>0.88</b></span>
+															</td>
+															<td class="text-center">42%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">5.1</td>
+															<td class="text-center">66%</td>
+															<td class="text-center">43%</td>
+															<td class="text-center">2.46</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">15.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
 															<img src="https://cdn.redscores.com/images/team/1055_s.png" alt="Le Havre" width="16" class="logo">
 															<a href="/pt-br/team/le-havre/1055">Le Havre</a>
 														</td>
-															<td class="text-center">22</td>
+															<td class="text-center">24</td>
 															<td class="text-center">5</td>
 															<td class="text-center">9</td>
-															<td class="text-center">8</td>
-															<td class="text-center">23:28 </td>
+															<td class="text-center">10</td>
+															<td class="text-center">24:31 </td>
 															<td class="text-center"><strong>24</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -824,20 +1028,20 @@
 																	<div class="matches-results__item bg-red-light"></div>
 
 																	
-																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -852,218 +1056,14 @@
 															
 
 															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>1.00</b></span>
+																<span class="bg-red-light colored-value"><b>0.63</b></span>
 															</td>
-															<td class="text-center">45%</td>
+															<td class="text-center">46%</td>
 															<td class="text-center">1.8</td>
 															<td class="text-center">3.7</td>
-															<td class="text-center">68%</td>
+															<td class="text-center">67%</td>
 															<td class="text-center">54%</td>
-															<td class="text-center">2.32</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">13.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/289_s.png" alt="Toulouse" width="16" class="logo">
-															<a href="/pt-br/team/toulouse/289">Toulouse</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">5</td>
-															<td class="text-center">8</td>
-															<td class="text-center">9</td>
-															<td class="text-center">22:30 </td>
-															<td class="text-center"><strong>23</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.25</b></span>
-															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">2.5</td>
-															<td class="text-center">4.1</td>
-															<td class="text-center">83%</td>
-															<td class="text-center">50%</td>
-															<td class="text-center">2.36</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">14.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/581_s.png" alt="Montpellier" width="16" class="logo">
-															<a href="/pt-br/team/montpellier/581">Montpellier</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">5</td>
-															<td class="text-center">8</td>
-															<td class="text-center">9</td>
-															<td class="text-center">24:27 </td>
-															<td class="text-center"><strong>23</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.13</b></span>
-															</td>
-															<td class="text-center">41%</td>
-															<td class="text-center">2.1</td>
-															<td class="text-center">4.0</td>
-															<td class="text-center">73%</td>
-															<td class="text-center">50%</td>
-															<td class="text-center">2.32</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">15.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/9257_s.png" alt="Lorient" width="16" class="logo">
-															<a href="/pt-br/team/lorient/9257">Lorient</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">5</td>
-															<td class="text-center">7</td>
-															<td class="text-center">10</td>
-															<td class="text-center">31:43 </td>
-															<td class="text-center"><strong>22</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.25</b></span>
-															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">2.0</td>
-															<td class="text-center">3.4</td>
-															<td class="text-center">82%</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">3.36</td>
+															<td class="text-center">2.29</td>
 													</tr>
 
 
@@ -1072,20 +1072,24 @@
 															<span class="bg-gray-light colored-value" title="">16.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/59_s.png" alt="Nantes" width="16" class="logo">
-															<a href="/pt-br/team/nantes/59">Nantes</a>
+															<img src="https://cdn.redscores.com/images/team/581_s.png" alt="Montpellier" width="16" class="logo">
+															<a href="/pt-br/team/montpellier/581">Montpellier</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">6</td>
-															<td class="text-center">4</td>
-															<td class="text-center">12</td>
-															<td class="text-center">22:34 </td>
-															<td class="text-center"><strong>22</strong></td>
+															<td class="text-center">24</td>
+															<td class="text-center">5</td>
+															<td class="text-center">9</td>
+															<td class="text-center">10</td>
+															<td class="text-center">27:33 </td>
+															<td class="text-center"><strong>24</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
 
 																	
 																	
@@ -1094,6 +1098,70 @@
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-red-light colored-value"><b>0.75</b></span>
+															</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">2.1</td>
+															<td class="text-center">4.2</td>
+															<td class="text-center">76%</td>
+															<td class="text-center">54%</td>
+															<td class="text-center">2.50</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-red-light colored-value" title="Relegation">17.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/3513_s.png" alt="Metz" width="16" class="logo">
+															<a href="/pt-br/team/metz/3513">Metz</a>
+														</td>
+															<td class="text-center">24</td>
+															<td class="text-center">5</td>
+															<td class="text-center">5</td>
+															<td class="text-center">14</td>
+															<td class="text-center">21:37 </td>
+															<td class="text-center"><strong>20</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	
@@ -1126,28 +1194,28 @@
 															<td class="text-center">
 																<span class="bg-red-light colored-value"><b>0.50</b></span>
 															</td>
-															<td class="text-center">45%</td>
-															<td class="text-center">1.8</td>
-															<td class="text-center">4.7</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">47%</td>
-															<td class="text-center">2.55</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">1.5</td>
+															<td class="text-center">3.9</td>
+															<td class="text-center">61%</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">2.42</td>
 													</tr>
 
 
 													<tr>
 														<td class="text-center  sticky-left left01">
-															<span class="bg-red-light colored-value" title="Relegation">17.</span>
+															<span class="bg-red-light colored-value" title="Relegation">18.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/3513_s.png" alt="Metz" width="16" class="logo">
-															<a href="/pt-br/team/metz/3513">Metz</a>
+															<img src="https://cdn.redscores.com/images/team/6898_s.png" alt="Clermont" width="16" class="logo">
+															<a href="/pt-br/team/clermont/6898">Clermont</a>
 														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">4</td>
-															<td class="text-center">5</td>
+															<td class="text-center">24</td>
+															<td class="text-center">3</td>
+															<td class="text-center">8</td>
 															<td class="text-center">13</td>
-															<td class="text-center">18:35 </td>
+															<td class="text-center">17:41 </td>
 															<td class="text-center"><strong>17</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -1162,66 +1230,6 @@
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red colored-value"><b>0.13</b></span>
-															</td>
-															<td class="text-center">45%</td>
-															<td class="text-center">1.5</td>
-															<td class="text-center">3.9</td>
-															<td class="text-center">58%</td>
-															<td class="text-center">45%</td>
-															<td class="text-center">2.41</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-red-light colored-value" title="Relegation">18.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/6898_s.png" alt="Clermont" width="16" class="logo">
-															<a href="/pt-br/team/clermont/6898">Clermont</a>
-														</td>
-															<td class="text-center">22</td>
-															<td class="text-center">3</td>
-															<td class="text-center">7</td>
-															<td class="text-center">12</td>
-															<td class="text-center">16:36 </td>
-															<td class="text-center"><strong>16</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
 
 																	
 																	
@@ -1247,14 +1255,6 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
 															</div>
 														</td>
 															
@@ -1263,11 +1263,11 @@
 																<span class="bg-red-light colored-value"><b>0.75</b></span>
 															</td>
 															<td class="text-center">50%</td>
-															<td class="text-center">1.6</td>
+															<td class="text-center">1.7</td>
 															<td class="text-center">4.3</td>
-															<td class="text-center">68%</td>
+															<td class="text-center">67%</td>
 															<td class="text-center">50%</td>
-															<td class="text-center">2.36</td>
+															<td class="text-center">2.42</td>
 													</tr>
 
 								</tbody>

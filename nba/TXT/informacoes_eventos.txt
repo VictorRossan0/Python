@@ -2739,3 +2739,263 @@ Competidores: Los Angeles Lakers vs San Antonio Spurs
 Data do Evento: 23-02-2024
 Local do Evento: Los Angeles
 
+Competidores: Indiana Pacers vs Toronto Raptors
+Data do Evento: 26-02-2024
+Local do Evento: Indianápolis
+
+Competidores: New York Knicks vs Detroit Pistons
+Data do Evento: 26-02-2024
+Local do Evento: Nova York
+
+Competidores: Memphis Grizzlies vs Brooklyn Nets
+Data do Evento: 26-02-2024
+Local do Evento: Memphis
+
+Competidores: Sacramento Kings vs Miami Heat
+Data do Evento: 26-02-2024
+Local do Evento: Sacramento
+
+Competidores: Cleveland Cavaliers vs Dallas Mavericks
+Data do Evento: 27-02-2024
+Local do Evento: Cleveland
+
+Competidores: Orlando Magic vs Brooklyn Nets
+Data do Evento: 27-02-2024
+Local do Evento: Orlando
+
+Competidores: Washington Wizards vs Golden State Warriors
+Data do Evento: 27-02-2024
+Local do Evento: Washington
+
+Competidores: Atlanta Hawks vs Utah Jazz
+Data do Evento: 27-02-2024
+Local do Evento: Atlanta
+
+Competidores: Boston Celtics vs Philadelphia 76ers
+Data do Evento: 27-02-2024
+Local do Evento: Boston
+
+Competidores: New York Knicks vs New Orleans Pelicans
+Data do Evento: 27-02-2024
+Local do Evento: Nova York
+
+Competidores: Minnesota Timberwolves vs San Antonio Spurs
+Data do Evento: 27-02-2024
+Local do Evento: Minneapolis
+
+Competidores: Chicago Bulls vs Detroit Pistons
+Data do Evento: 27-02-2024
+Local do Evento: Chicago
+
+Competidores: Milwaukee Bucks vs Charlotte Hornets
+Data do Evento: 27-02-2024
+Local do Evento: Milwaukee
+
+Competidores: Oklahoma City Thunder vs Houston Rockets
+Data do Evento: 27-02-2024
+Local do Evento: Oklahoma City
+
+Competidores: Portland Trail Blazers vs Miami Heat
+Data do Evento: 27-02-2024
+Local do Evento: Portland
+
+Competidores: Indiana Pacers vs New Orleans Pelicans
+Data do Evento: 28-02-2024
+Local do Evento: Indianápolis
+
+Competidores: Toronto Raptors vs Dallas Mavericks
+Data do Evento: 28-02-2024
+Local do Evento: Toronto
+
+Competidores: Minnesota Timberwolves vs Memphis Grizzlies
+Data do Evento: 28-02-2024
+Local do Evento: Minneapolis
+
+Competidores: Chicago Bulls vs Cleveland Cavaliers
+Data do Evento: 28-02-2024
+Local do Evento: Chicago
+
+Competidores: Denver Nuggets vs Sacramento Kings
+Data do Evento: 28-02-2024
+Local do Evento: Denver
+
+Competidores: LA Clippers vs Los Angeles Lakers
+Data do Evento: 28-02-2024
+Local do Evento: Los Angeles
+
+Competidores: Charlotte Hornets vs Milwaukee Bucks
+Data do Evento: 29-02-2024
+Local do Evento: Charlotte
+
+Competidores: Orlando Magic vs Utah Jazz
+Data do Evento: 29-02-2024
+Local do Evento: Orlando
+
+Competidores: Brooklyn Nets vs Atlanta Hawks
+Data do Evento: 29-02-2024
+Local do Evento: Brooklyn
+
+Competidores: New York Knicks vs Golden State Warriors
+Data do Evento: 29-02-2024
+Local do Evento: Nova York
+
+Competidores: San Antonio Spurs vs Oklahoma City Thunder
+Data do Evento: 29-02-2024
+Local do Evento: San Antonio
+
+Competidores: Phoenix Suns vs Houston Rockets
+Data do Evento: 29-02-2024
+Local do Evento: Phoenix
+
+Competidores: Denver Nuggets vs Miami Heat
+Data do Evento: 29-02-2024
+Local do Evento: Denver
+
+Competidores: Los Angeles Lakers vs Washington Wizards
+Data do Evento: 29-02-2024
+Local do Evento: Los Angeles
+
+Competidores: Brooklyn Nets vs Memphis Grizzlies
+Data do Evento: 04-03-2024
+Local do Evento: Brooklyn
+
+Competidores: Milwaukee Bucks vs LA Clippers
+Data do Evento: 04-03-2024
+Local do Evento: Milwaukee
+
+Competidores: Minnesota Timberwolves vs Portland Trail Blazers
+Data do Evento: 04-03-2024
+Local do Evento: Minneapolis
+
+Competidores: Utah Jazz vs Washington Wizards
+Data do Evento: 04-03-2024
+Local do Evento: Salt Lake City
+
+Competidores: Sacramento Kings vs Chicago Bulls
+Data do Evento: 04-03-2024
+Local do Evento: Sacramento
+
+Competidores: Los Angeles Lakers vs Oklahoma City Thunder
+Data do Evento: 04-03-2024
+Local do Evento: Los Angeles
+
+Competidores: Charlotte Hornets vs Orlando Magic
+Data do Evento: 05-03-2024
+Local do Evento: Charlotte
+
+Competidores: Cleveland Cavaliers vs Boston Celtics
+Data do Evento: 05-03-2024
+Local do Evento: Cleveland
+
+Competidores: Brooklyn Nets vs Philadelphia 76ers
+Data do Evento: 05-03-2024
+Local do Evento: Brooklyn
+
+Competidores: Miami Heat vs Detroit Pistons
+Data do Evento: 05-03-2024
+Local do Evento: Miami
+
+Competidores: New York Knicks vs Atlanta Hawks
+Data do Evento: 05-03-2024
+Local do Evento: Nova York
+
+Competidores: Toronto Raptors vs New Orleans Pelicans
+Data do Evento: 05-03-2024
+Local do Evento: Toronto
+
+Competidores: Houston Rockets vs San Antonio Spurs
+Data do Evento: 05-03-2024
+Local do Evento: Houston
+
+Competidores: Dallas Mavericks vs Indiana Pacers
+Data do Evento: 05-03-2024
+Local do Evento: Dallas
+
+Competidores: Denver Nuggets vs Phoenix Suns
+Data do Evento: 05-03-2024
+Local do Evento: Denver
+
+Competidores: Washington Wizards vs Orlando Magic
+Data do Evento: 06-03-2024
+Local do Evento: Washington
+
+Competidores: Atlanta Hawks vs Cleveland Cavaliers
+Data do Evento: 06-03-2024
+Local do Evento: Atlanta
+
+Competidores: Philadelphia 76ers vs Memphis Grizzlies
+Data do Evento: 06-03-2024
+Local do Evento: Filadélfia
+
+Competidores: Houston Rockets vs LA Clippers
+Data do Evento: 06-03-2024
+Local do Evento: Houston
+
+Competidores: Utah Jazz vs Chicago Bulls
+Data do Evento: 06-03-2024
+Local do Evento: Salt Lake City
+
+Competidores: Golden State Warriors vs Milwaukee Bucks
+Data do Evento: 06-03-2024
+Local do Evento: San Francisco
+
+Competidores: Portland Trail Blazers vs Oklahoma City Thunder
+Data do Evento: 06-03-2024
+Local do Evento: Portland
+
+Competidores: Los Angeles Lakers vs Sacramento Kings
+Data do Evento: 06-03-2024
+Local do Evento: Los Angeles
+
+Competidores: Detroit Pistons vs Brooklyn Nets
+Data do Evento: 07-03-2024
+Local do Evento: Detroit
+
+Competidores: Indiana Pacers vs Minnesota Timberwolves
+Data do Evento: 07-03-2024
+Local do Evento: Indianápolis
+
+Competidores: Dallas Mavericks vs Miami Heat
+Data do Evento: 07-03-2024
+Local do Evento: Dallas
+
+Competidores: Phoenix Suns vs Toronto Raptors
+Data do Evento: 07-03-2024
+Local do Evento: Phoenix
+
+Competidores: Denver Nuggets vs Boston Celtics
+Data do Evento: 07-03-2024
+Local do Evento: Denver
+
+Competidores: Golden State Warriors vs Chicago Bulls
+Data do Evento: 07-03-2024
+Local do Evento: San Francisco
+
+Competidores: Sacramento Kings vs San Antonio Spurs
+Data do Evento: 07-03-2024
+Local do Evento: Sacramento
+
+Competidores: Charlotte Hornets vs Phoenix Suns
+Data do Evento: 15-03-2024
+Local do Evento: Charlotte
+
+Competidores: Detroit Pistons vs Miami Heat
+Data do Evento: 15-03-2024
+Local do Evento: Detroit
+
+Competidores: Toronto Raptors vs Orlando Magic
+Data do Evento: 15-03-2024
+Local do Evento: Toronto
+
+Competidores: New Orleans Pelicans vs LA Clippers
+Data do Evento: 15-03-2024
+Local do Evento: New Orleans
+
+Competidores: San Antonio Spurs vs Denver Nuggets
+Data do Evento: 15-03-2024
+Local do Evento: Austin
+
+Competidores: Utah Jazz vs Atlanta Hawks
+Data do Evento: 15-03-2024
+Local do Evento: Salt Lake City
+

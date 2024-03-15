@@ -4,32 +4,32 @@ Time do Jogador: SAC
 Rank: 1
 Estatísticas do Jogador 1:
 Estatística: tripleDouble
-Quantidade: 19
+Quantidade: 23
 Informações do Atleta 2:
 Nome do Jogador: Nikola Jokic
 Time do Jogador: DEN
 Rank: 2
 Estatísticas do Jogador 2:
 Estatística: tripleDouble
-Quantidade: 16
+Quantidade: 21
 Informações do Atleta 3:
 Nome do Jogador: Luka Doncic
 Time do Jogador: DAL
 Rank: 3
 Estatísticas do Jogador 3:
 Estatística: tripleDouble
-Quantidade: 10
+Quantidade: 17
 Informações do Atleta 4:
 Nome do Jogador: Giannis Antetokounmpo
 Time do Jogador: MIL
 Rank: 4
 Estatísticas do Jogador 4:
 Estatística: tripleDouble
-Quantidade: 7
+Quantidade: 8
 Informações do Atleta 5:
-Nome do Jogador: LeBron James
-Time do Jogador: LAL
+Nome do Jogador: Josh Hart
+Time do Jogador: NY
 Rank: 5
 Estatísticas do Jogador 5:
 Estatística: tripleDouble
-Quantidade: 3
+Quantidade: 4
