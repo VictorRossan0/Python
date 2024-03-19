@@ -265,3 +265,5 @@ Epoch 10/10
 66/69 [===========================>..] - ETA: 0s - loss: 0.0249 - accuracy: 0.9930
 69/69 [==============================] - ETA: 0s - loss: 0.0275 - accuracy: 0.9921
 69/69 [==============================] - 2s 25ms/step - loss: 0.0275 - accuracy: 0.9921 - val_loss: 0.0492 - val_accuracy: 0.9899
+Erro ao treinar modelo 
+Erro ao treinar modelo 

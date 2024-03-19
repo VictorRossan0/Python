@@ -5267,3 +5267,5 @@ Previsão: [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.
   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
 Índice com maior probabilidade: 19
 Rótulo predito: J
+Erro ao mover letras 
+Erro ao mover letras 

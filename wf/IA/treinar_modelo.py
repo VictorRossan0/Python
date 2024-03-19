@@ -2,12 +2,13 @@ import cv2
 import os
 import numpy as np
 import pickle
+import keras
 from imutils import paths
 from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 from keras.models import Sequential
-from keras.layers.convolutional import Conv2D, MaxPooling2D
-from keras.layers.core import Flatten, Dense
+from keras.layers import Conv2D, MaxPooling2D
+from keras.layers import Flatten, Dense
 from helpers import resize_to_fit
 
 dados = []

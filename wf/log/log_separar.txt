@@ -1656,3 +1656,5 @@ IA/letras/teste542letra3numero3.png
 IA/letras/teste542letra4numero4.png
 IA/letras/teste542letra5numero5.png
 IA/identificado/teste542.png
+Erro ao separar letras 
+Erro ao separar letras 

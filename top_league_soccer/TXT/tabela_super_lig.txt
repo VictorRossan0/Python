@@ -55,12 +55,12 @@
 															<img src="https://cdn.redscores.com/images/team/34_s.png" alt="Galatasaray" width="16" class="logo">
 															<a href="/pt-br/team/galatasaray/34">Galatasaray</a>
 														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">24</td>
+															<td class="text-center">29</td>
+															<td class="text-center">25</td>
 															<td class="text-center">3</td>
 															<td class="text-center">1</td>
-															<td class="text-center">58:15 </td>
-															<td class="text-center"><strong>75</strong></td>
+															<td class="text-center">64:17 </td>
+															<td class="text-center"><strong>78</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -106,12 +106,12 @@
 															<td class="text-center">
 																<span class="bg-turquoise colored-value"><b>3.00</b></span>
 															</td>
-															<td class="text-center">46%</td>
+															<td class="text-center">48%</td>
 															<td class="text-center">1.9</td>
-															<td class="text-center">7.4</td>
+															<td class="text-center">7.2</td>
 															<td class="text-center">79%</td>
-															<td class="text-center">57%</td>
-															<td class="text-center">2.61</td>
+															<td class="text-center">58%</td>
+															<td class="text-center">2.79</td>
 													</tr>
 
 
@@ -123,12 +123,12 @@
 															<img src="https://cdn.redscores.com/images/team/88_s.png" alt="Fenerbahçe" width="16" class="logo">
 															<a href="/pt-br/team/fenerbahce/88">Fenerbahçe</a>
 														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">23</td>
+															<td class="text-center">29</td>
+															<td class="text-center">24</td>
 															<td class="text-center">4</td>
 															<td class="text-center">1</td>
-															<td class="text-center">72:22 </td>
-															<td class="text-center"><strong>73</strong></td>
+															<td class="text-center">76:23 </td>
+															<td class="text-center"><strong>76</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -147,24 +147,24 @@
 																	
 																	
 
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
 																	
 
 															</div>
@@ -172,14 +172,14 @@
 															
 
 															<td class="text-center">
-																<span class="bg-turquoise colored-value"><b>2.50</b></span>
+																<span class="bg-turquoise colored-value"><b>2.75</b></span>
 															</td>
-															<td class="text-center">54%</td>
-															<td class="text-center">2.5</td>
+															<td class="text-center">55%</td>
+															<td class="text-center">2.6</td>
 															<td class="text-center">6.3</td>
 															<td class="text-center">79%</td>
 															<td class="text-center">61%</td>
-															<td class="text-center">3.36</td>
+															<td class="text-center">3.41</td>
 													</tr>
 
 
@@ -191,12 +191,12 @@
 															<img src="https://cdn.redscores.com/images/team/688_s.png" alt="Trabzonspor" width="16" class="logo">
 															<a href="/pt-br/team/trabzonspor/688">Trabzonspor</a>
 														</td>
-															<td class="text-center">26</td>
-															<td class="text-center">13</td>
+															<td class="text-center">28</td>
+															<td class="text-center">14</td>
 															<td class="text-center">4</td>
-															<td class="text-center">9</td>
-															<td class="text-center">40:33 </td>
-															<td class="text-center"><strong>43</strong></td>
+															<td class="text-center">10</td>
+															<td class="text-center">46:37 </td>
+															<td class="text-center"><strong>46</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -207,6 +207,10 @@
 																	
 																	
 
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
@@ -215,9 +219,9 @@
 																	
 																	
 
+																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	
@@ -230,24 +234,20 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
 
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.25</b></span>
+																<span class="bg-orange colored-value"><b>1.50</b></span>
 															</td>
+															<td class="text-center">54%</td>
+															<td class="text-center">1.5</td>
+															<td class="text-center">4.9</td>
+															<td class="text-center">71%</td>
 															<td class="text-center">50%</td>
-															<td class="text-center">1.7</td>
-															<td class="text-center">4.6</td>
-															<td class="text-center">69%</td>
-															<td class="text-center">46%</td>
-															<td class="text-center">2.81</td>
+															<td class="text-center">2.96</td>
 													</tr>
 
 
@@ -259,11 +259,11 @@
 															<img src="https://cdn.redscores.com/images/team/554_s.png" alt="Beşiktaş" width="16" class="logo">
 															<a href="/pt-br/team/besiktas/554">Beşiktaş</a>
 														</td>
-															<td class="text-center">28</td>
+															<td class="text-center">29</td>
 															<td class="text-center">14</td>
 															<td class="text-center">4</td>
-															<td class="text-center">10</td>
-															<td class="text-center">39:32 </td>
+															<td class="text-center">11</td>
+															<td class="text-center">39:34 </td>
 															<td class="text-center"><strong>46</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -275,6 +275,10 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
@@ -298,10 +302,6 @@
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 															</div>
 														</td>
@@ -310,12 +310,12 @@
 															<td class="text-center">
 																<span class="bg-orange colored-value"><b>1.38</b></span>
 															</td>
-															<td class="text-center">39%</td>
+															<td class="text-center">38%</td>
 															<td class="text-center">2.3</td>
-															<td class="text-center">5.7</td>
+															<td class="text-center">5.6</td>
 															<td class="text-center">79%</td>
-															<td class="text-center">46%</td>
-															<td class="text-center">2.54</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.52</td>
 													</tr>
 
 
@@ -327,18 +327,22 @@
 															<img src="https://cdn.redscores.com/images/team/1071_s.png" alt="Kasımpaşa" width="16" class="logo">
 															<a href="/pt-br/team/kasimpasa/1071">Kasımpaşa</a>
 														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">11</td>
+															<td class="text-center">29</td>
+															<td class="text-center">12</td>
 															<td class="text-center">7</td>
 															<td class="text-center">10</td>
-															<td class="text-center">48:50 </td>
-															<td class="text-center"><strong>40</strong></td>
+															<td class="text-center">50:51 </td>
+															<td class="text-center"><strong>43</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
@@ -366,10 +370,6 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
 
 															</div>
 														</td>
@@ -378,12 +378,12 @@
 															<td class="text-center">
 																<span class="bg-lime colored-value"><b>1.75</b></span>
 															</td>
-															<td class="text-center">71%</td>
-															<td class="text-center">1.9</td>
-															<td class="text-center">5.0</td>
+															<td class="text-center">72%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">5.1</td>
 															<td class="text-center">86%</td>
-															<td class="text-center">71%</td>
-															<td class="text-center">3.50</td>
+															<td class="text-center">72%</td>
+															<td class="text-center">3.48</td>
 													</tr>
 
 
@@ -395,12 +395,12 @@
 															<img src="https://cdn.redscores.com/images/team/3702_s.png" alt="İstanbul Başakşehir" width="16" class="logo">
 															<a href="/pt-br/team/istanbul-basaksehir/3702">Başakşehir</a>
 														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">11</td>
+															<td class="text-center">29</td>
+															<td class="text-center">12</td>
 															<td class="text-center">6</td>
 															<td class="text-center">11</td>
-															<td class="text-center">36:33 </td>
-															<td class="text-center"><strong>39</strong></td>
+															<td class="text-center">37:33 </td>
+															<td class="text-center"><strong>42</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -415,6 +415,10 @@
 																	
 																	
 
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
@@ -434,24 +438,20 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
 
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-lime colored-value"><b>1.63</b></span>
+																<span class="bg-lime colored-value"><b>1.88</b></span>
 															</td>
-															<td class="text-center">36%</td>
+															<td class="text-center">34%</td>
 															<td class="text-center">2.1</td>
-															<td class="text-center">4.0</td>
-															<td class="text-center">68%</td>
-															<td class="text-center">36%</td>
-															<td class="text-center">2.46</td>
+															<td class="text-center">4.2</td>
+															<td class="text-center">66%</td>
+															<td class="text-center">34%</td>
+															<td class="text-center">2.41</td>
 													</tr>
 
 
@@ -463,17 +463,21 @@
 															<img src="https://cdn.redscores.com/images/team/1041_s.png" alt="Rizespor" width="16" class="logo">
 															<a href="/pt-br/team/rizespor/1041">Rizespor</a>
 														</td>
-															<td class="text-center">28</td>
+															<td class="text-center">29</td>
 															<td class="text-center">11</td>
 															<td class="text-center">6</td>
-															<td class="text-center">11</td>
-															<td class="text-center">31:40 </td>
+															<td class="text-center">12</td>
+															<td class="text-center">33:46 </td>
 															<td class="text-center"><strong>39</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
 
 
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -503,10 +507,6 @@
 																	
 																	
 
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
 															</div>
 														</td>
 															
@@ -514,12 +514,12 @@
 															<td class="text-center">
 																<span class="bg-red-light colored-value"><b>0.88</b></span>
 															</td>
-															<td class="text-center">39%</td>
-															<td class="text-center">2.4</td>
-															<td class="text-center">4.8</td>
+															<td class="text-center">41%</td>
+															<td class="text-center">2.3</td>
+															<td class="text-center">4.7</td>
 															<td class="text-center">66%</td>
-															<td class="text-center">51%</td>
-															<td class="text-center">2.54</td>
+															<td class="text-center">52%</td>
+															<td class="text-center">2.72</td>
 													</tr>
 
 
@@ -528,14 +528,14 @@
 															<span class="bg-gray-light colored-value" title="">8.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/365_s.png" alt="Sivasspor" width="16" class="logo">
-															<a href="/pt-br/team/sivasspor/365">Sivasspor</a>
+															<img src="https://cdn.redscores.com/images/team/81_s.png" alt="Antalyaspor" width="16" class="logo">
+															<a href="/pt-br/team/antalyaspor/81">Antalyaspor</a>
 														</td>
-															<td class="text-center">28</td>
+															<td class="text-center">29</td>
 															<td class="text-center">9</td>
 															<td class="text-center">11</td>
-															<td class="text-center">8</td>
-															<td class="text-center">34:37 </td>
+															<td class="text-center">9</td>
+															<td class="text-center">33:32 </td>
 															<td class="text-center"><strong>38</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -544,24 +544,8 @@
 
 
 																	
-																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -575,19 +559,35 @@
 																	<div class="matches-results__item bg-orange"></div>
 																	
 
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-lime colored-value"><b>1.63</b></span>
+																<span class="bg-red-light colored-value"><b>1.00</b></span>
 															</td>
-															<td class="text-center">61%</td>
+															<td class="text-center">52%</td>
 															<td class="text-center">2.0</td>
-															<td class="text-center">3.6</td>
-															<td class="text-center">71%</td>
-															<td class="text-center">42%</td>
-															<td class="text-center">2.54</td>
+															<td class="text-center">5.7</td>
+															<td class="text-center">69%</td>
+															<td class="text-center">35%</td>
+															<td class="text-center">2.24</td>
 													</tr>
 
 
@@ -596,82 +596,14 @@
 															<span class="bg-gray-light colored-value" title="">9.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/81_s.png" alt="Antalyaspor" width="16" class="logo">
-															<a href="/pt-br/team/antalyaspor/81">Antalyaspor</a>
+															<img src="https://cdn.redscores.com/images/team/365_s.png" alt="Sivasspor" width="16" class="logo">
+															<a href="/pt-br/team/sivasspor/365">Sivasspor</a>
 														</td>
-															<td class="text-center">27</td>
-															<td class="text-center">8</td>
+															<td class="text-center">29</td>
+															<td class="text-center">9</td>
 															<td class="text-center">11</td>
-															<td class="text-center">8</td>
-															<td class="text-center">32:31 </td>
-															<td class="text-center"><strong>35</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>0.88</b></span>
-															</td>
-															<td class="text-center">56%</td>
-															<td class="text-center">2.1</td>
-															<td class="text-center">5.6</td>
-															<td class="text-center">74%</td>
-															<td class="text-center">37%</td>
-															<td class="text-center">2.33</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">10.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/643_s.png" alt="Kayserispor" width="16" class="logo">
-															<a href="/pt-br/team/kayserispor/643">Kayserispor</a>
-														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">10</td>
-															<td class="text-center">8</td>
-															<td class="text-center">10</td>
-															<td class="text-center">35:41 </td>
+															<td class="text-center">9</td>
+															<td class="text-center">35:39 </td>
 															<td class="text-center"><strong>38</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -683,73 +615,17 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
 
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.13</b></span>
-															</td>
-															<td class="text-center">57%</td>
-															<td class="text-center">2.1</td>
-															<td class="text-center">4.5</td>
-															<td class="text-center">79%</td>
-															<td class="text-center">46%</td>
-															<td class="text-center">2.71</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">11.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/2811_s.png" alt="Samsunspor" width="16" class="logo">
-															<a href="/pt-br/team/samsunspor/2811">Samsunspor</a>
-														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">9</td>
-															<td class="text-center">6</td>
-															<td class="text-center">13</td>
-															<td class="text-center">33:37 </td>
-															<td class="text-center"><strong>33</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
@@ -766,18 +642,6 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
 
 															</div>
 														</td>
@@ -786,165 +650,29 @@
 															<td class="text-center">
 																<span class="bg-orange colored-value"><b>1.50</b></span>
 															</td>
-															<td class="text-center">54%</td>
-															<td class="text-center">2.1</td>
-															<td class="text-center">4.7</td>
-															<td class="text-center">82%</td>
-															<td class="text-center">39%</td>
-															<td class="text-center">2.50</td>
+															<td class="text-center">62%</td>
+															<td class="text-center">2.0</td>
+															<td class="text-center">3.7</td>
+															<td class="text-center">72%</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.55</td>
 													</tr>
 
 
 													<tr>
 														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">12.</span>
+															<span class="bg-gray-light colored-value" title="">10.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
 															<img src="https://cdn.redscores.com/images/team/1039_s.png" alt="Adana Demirspor" width="16" class="logo">
 															<a href="/pt-br/team/adana-demirspor/1039">Adana Demirspor</a>
 														</td>
-															<td class="text-center">27</td>
-															<td class="text-center">7</td>
-															<td class="text-center">11</td>
-															<td class="text-center">9</td>
-															<td class="text-center">39:36 </td>
-															<td class="text-center"><strong>32</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>0.38</b></span>
-															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">2.2</td>
-															<td class="text-center">5.0</td>
-															<td class="text-center">74%</td>
-															<td class="text-center">56%</td>
-															<td class="text-center">2.78</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">13.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/2632_s.png" alt="Konyaspor" width="16" class="logo">
-															<a href="/pt-br/team/konyaspor/2632">Konyaspor</a>
-														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">7</td>
-															<td class="text-center">10</td>
-															<td class="text-center">11</td>
-															<td class="text-center">28:39 </td>
-															<td class="text-center"><strong>31</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.50</b></span>
-															</td>
-															<td class="text-center">50%</td>
-															<td class="text-center">2.0</td>
-															<td class="text-center">4.1</td>
-															<td class="text-center">82%</td>
-															<td class="text-center">32%</td>
-															<td class="text-center">2.39</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">14.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/3470_s.png" alt="Ankaragücü" width="16" class="logo">
-															<a href="/pt-br/team/ankaragucu/3470">Ankaragücü</a>
-														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">6</td>
+															<td class="text-center">29</td>
+															<td class="text-center">8</td>
 															<td class="text-center">12</td>
-															<td class="text-center">10</td>
-															<td class="text-center">33:36 </td>
-															<td class="text-center"><strong>30</strong></td>
+															<td class="text-center">9</td>
+															<td class="text-center">42:38 </td>
+															<td class="text-center"><strong>36</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
 																<div class="matches-results__item bg-gray"></div>
@@ -955,13 +683,9 @@
 																	<div class="matches-results__item bg-orange"></div>
 																	
 
+																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	
@@ -975,9 +699,13 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
-																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
@@ -990,12 +718,284 @@
 															<td class="text-center">
 																<span class="bg-red-light colored-value"><b>0.75</b></span>
 															</td>
-															<td class="text-center">61%</td>
-															<td class="text-center">1.6</td>
-															<td class="text-center">3.5</td>
-															<td class="text-center">79%</td>
-															<td class="text-center">40%</td>
-															<td class="text-center">2.46</td>
+															<td class="text-center">59%</td>
+															<td class="text-center">2.3</td>
+															<td class="text-center">5.1</td>
+															<td class="text-center">72%</td>
+															<td class="text-center">55%</td>
+															<td class="text-center">2.76</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">11.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/2811_s.png" alt="Samsunspor" width="16" class="logo">
+															<a href="/pt-br/team/samsunspor/2811">Samsunspor</a>
+														</td>
+															<td class="text-center">29</td>
+															<td class="text-center">10</td>
+															<td class="text-center">6</td>
+															<td class="text-center">13</td>
+															<td class="text-center">35:38 </td>
+															<td class="text-center"><strong>36</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-lime colored-value"><b>1.75</b></span>
+															</td>
+															<td class="text-center">55%</td>
+															<td class="text-center">2.1</td>
+															<td class="text-center">4.6</td>
+															<td class="text-center">83%</td>
+															<td class="text-center">41%</td>
+															<td class="text-center">2.52</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">12.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/347_s.png" alt="Alanyaspor" width="16" class="logo">
+															<a href="/pt-br/team/alanyaspor/347">Alanyaspor</a>
+														</td>
+															<td class="text-center">29</td>
+															<td class="text-center">8</td>
+															<td class="text-center">12</td>
+															<td class="text-center">9</td>
+															<td class="text-center">37:42 </td>
+															<td class="text-center"><strong>36</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-orange colored-value"><b>1.38</b></span>
+															</td>
+															<td class="text-center">62%</td>
+															<td class="text-center">2.6</td>
+															<td class="text-center">4.8</td>
+															<td class="text-center">76%</td>
+															<td class="text-center">55%</td>
+															<td class="text-center">2.72</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">13.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/643_s.png" alt="Kayserispor" width="16" class="logo">
+															<a href="/pt-br/team/kayserispor/643">Kayserispor</a>
+														</td>
+															<td class="text-center">29</td>
+															<td class="text-center">10</td>
+															<td class="text-center">9</td>
+															<td class="text-center">10</td>
+															<td class="text-center">36:42 </td>
+															<td class="text-center"><strong>39</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-orange colored-value"><b>1.25</b></span>
+															</td>
+															<td class="text-center">59%</td>
+															<td class="text-center">2.1</td>
+															<td class="text-center">4.5</td>
+															<td class="text-center">80%</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.69</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">14.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/2632_s.png" alt="Konyaspor" width="16" class="logo">
+															<a href="/pt-br/team/konyaspor/2632">Konyaspor</a>
+														</td>
+															<td class="text-center">29</td>
+															<td class="text-center">7</td>
+															<td class="text-center">11</td>
+															<td class="text-center">11</td>
+															<td class="text-center">30:41 </td>
+															<td class="text-center"><strong>32</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-orange colored-value"><b>1.50</b></span>
+															</td>
+															<td class="text-center">52%</td>
+															<td class="text-center">1.8</td>
+															<td class="text-center">4.1</td>
+															<td class="text-center">83%</td>
+															<td class="text-center">34%</td>
+															<td class="text-center">2.45</td>
 													</tr>
 
 
@@ -1004,14 +1004,150 @@
 															<span class="bg-gray-light colored-value" title="">15.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/347_s.png" alt="Alanyaspor" width="16" class="logo">
-															<a href="/pt-br/team/alanyaspor/347">Alanyaspor</a>
+															<img src="https://cdn.redscores.com/images/team/4192_s.png" alt="Gaziantep F.K." width="16" class="logo">
+															<a href="/pt-br/team/gaziantep-fk/4192">Gaziantep</a>
 														</td>
-															<td class="text-center">27</td>
+															<td class="text-center">29</td>
+															<td class="text-center">8</td>
+															<td class="text-center">7</td>
+															<td class="text-center">14</td>
+															<td class="text-center">33:41 </td>
+															<td class="text-center"><strong>31</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-orange colored-value"><b>1.13</b></span>
+															</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.4</td>
+															<td class="text-center">3.9</td>
+															<td class="text-center">83%</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.55</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-gray-light colored-value" title="">16.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/3470_s.png" alt="Ankaragücü" width="16" class="logo">
+															<a href="/pt-br/team/ankaragucu/3470">Ankaragücü</a>
+														</td>
+															<td class="text-center">29</td>
 															<td class="text-center">6</td>
 															<td class="text-center">12</td>
-															<td class="text-center">9</td>
-															<td class="text-center">32:40 </td>
+															<td class="text-center">11</td>
+															<td class="text-center">34:38 </td>
+															<td class="text-center"><strong>30</strong></td>
+														<td class="text-center">
+															<div class="matches-results">
+																<div class="matches-results__item bg-gray"></div>
+
+
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+															</div>
+														</td>
+															
+
+															<td class="text-center">
+																<span class="bg-red-light colored-value"><b>0.63</b></span>
+															</td>
+															<td class="text-center">62%</td>
+															<td class="text-center">1.6</td>
+															<td class="text-center">3.5</td>
+															<td class="text-center">80%</td>
+															<td class="text-center">42%</td>
+															<td class="text-center">2.48</td>
+													</tr>
+
+
+													<tr>
+														<td class="text-center  sticky-left left01">
+															<span class="bg-orange-light colored-value" title="Relegation">17.</span>
+														</td>
+														<td class="text-nowrap sticky-left left02">
+															<img src="https://cdn.redscores.com/images/team/13833_s.png" alt="Hatayspor" width="16" class="logo">
+															<a href="/pt-br/team/hatayspor/13833">Hatayspor</a>
+														</td>
+															<td class="text-center">29</td>
+															<td class="text-center">6</td>
+															<td class="text-center">12</td>
+															<td class="text-center">11</td>
+															<td class="text-center">33:40 </td>
 															<td class="text-center"><strong>30</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -1024,12 +1160,8 @@
 																	
 
 																	
-																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
+																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	
@@ -1037,66 +1169,6 @@
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>1.00</b></span>
-															</td>
-															<td class="text-center">59%</td>
-															<td class="text-center">2.6</td>
-															<td class="text-center">5.0</td>
-															<td class="text-center">74%</td>
-															<td class="text-center">52%</td>
-															<td class="text-center">2.67</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-gray-light colored-value" title="">16.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/3990_s.png" alt="Fatih Karagümrük" width="16" class="logo">
-															<a href="/pt-br/team/fatih-karagumruk/3990">Karagümrük</a>
-														</td>
-															<td class="text-center">27</td>
-															<td class="text-center">7</td>
-															<td class="text-center">8</td>
-															<td class="text-center">12</td>
-															<td class="text-center">32:31 </td>
-															<td class="text-center"><strong>29</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
 																	
 
 																	
@@ -1107,17 +1179,13 @@
 																	
 																	
 
+																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 																	
 																	<div class="matches-results__item bg-orange"></div>
 																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
 
 															</div>
 														</td>
@@ -1126,28 +1194,28 @@
 															<td class="text-center">
 																<span class="bg-orange colored-value"><b>1.13</b></span>
 															</td>
-															<td class="text-center">44%</td>
-															<td class="text-center">2.4</td>
-															<td class="text-center">4.9</td>
-															<td class="text-center">78%</td>
-															<td class="text-center">41%</td>
-															<td class="text-center">2.33</td>
+															<td class="text-center">55%</td>
+															<td class="text-center">2.8</td>
+															<td class="text-center">4.6</td>
+															<td class="text-center">73%</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.52</td>
 													</tr>
 
 
 													<tr>
 														<td class="text-center  sticky-left left01">
-															<span class="bg-orange-light colored-value" title="Relegation">17.</span>
+															<span class="bg-orange-light colored-value" title="Relegation">18.</span>
 														</td>
 														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/13833_s.png" alt="Hatayspor" width="16" class="logo">
-															<a href="/pt-br/team/hatayspor/13833">Hatayspor</a>
+															<img src="https://cdn.redscores.com/images/team/3990_s.png" alt="Fatih Karagümrük" width="16" class="logo">
+															<a href="/pt-br/team/fatih-karagumruk/3990">Karagümrük</a>
 														</td>
-															<td class="text-center">28</td>
-															<td class="text-center">6</td>
-															<td class="text-center">11</td>
-															<td class="text-center">11</td>
-															<td class="text-center">32:39 </td>
+															<td class="text-center">29</td>
+															<td class="text-center">7</td>
+															<td class="text-center">8</td>
+															<td class="text-center">14</td>
+															<td class="text-center">33:37 </td>
 															<td class="text-center"><strong>29</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -1168,19 +1236,19 @@
 																	
 
 																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	<div class="matches-results__item bg-lime"></div>
+																	
+																	
+
+																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
 																	<div class="matches-results__item bg-lime"></div>
 																	
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
 																	
 
 																	
@@ -1194,80 +1262,12 @@
 															<td class="text-center">
 																<span class="bg-red-light colored-value"><b>1.00</b></span>
 															</td>
-															<td class="text-center">54%</td>
-															<td class="text-center">2.8</td>
-															<td class="text-center">4.6</td>
-															<td class="text-center">71%</td>
-															<td class="text-center">46%</td>
-															<td class="text-center">2.54</td>
-													</tr>
-
-
-													<tr>
-														<td class="text-center  sticky-left left01">
-															<span class="bg-orange-light colored-value" title="Relegation">18.</span>
-														</td>
-														<td class="text-nowrap sticky-left left02">
-															<img src="https://cdn.redscores.com/images/team/4192_s.png" alt="Gaziantep F.K." width="16" class="logo">
-															<a href="/pt-br/team/gaziantep-fk/4192">Gaziantep</a>
-														</td>
-															<td class="text-center">27</td>
-															<td class="text-center">7</td>
-															<td class="text-center">7</td>
-															<td class="text-center">13</td>
-															<td class="text-center">31:40 </td>
-															<td class="text-center"><strong>28</strong></td>
-														<td class="text-center">
-															<div class="matches-results">
-																<div class="matches-results__item bg-gray"></div>
-
-
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
-																	
-																	<div class="matches-results__item bg-red-light"></div>
-
-															</div>
-														</td>
-															
-
-															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>0.88</b></span>
-															</td>
-															<td class="text-center">48%</td>
-															<td class="text-center">2.4</td>
-															<td class="text-center">4.0</td>
-															<td class="text-center">85%</td>
-															<td class="text-center">49%</td>
-															<td class="text-center">2.63</td>
+															<td class="text-center">45%</td>
+															<td class="text-center">2.5</td>
+															<td class="text-center">4.9</td>
+															<td class="text-center">76%</td>
+															<td class="text-center">41%</td>
+															<td class="text-center">2.41</td>
 													</tr>
 
 
@@ -1279,11 +1279,11 @@
 															<img src="https://cdn.redscores.com/images/team/13832_s.png" alt="Pendikspor" width="16" class="logo">
 															<a href="/pt-br/team/pendikspor/13832">Pendikspor</a>
 														</td>
-															<td class="text-center">28</td>
+															<td class="text-center">29</td>
 															<td class="text-center">6</td>
 															<td class="text-center">8</td>
-															<td class="text-center">14</td>
-															<td class="text-center">32:57 </td>
+															<td class="text-center">15</td>
+															<td class="text-center">33:61 </td>
 															<td class="text-center"><strong>26</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -1307,6 +1307,10 @@
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
 																	<div class="matches-results__item bg-lime"></div>
 																	
 																	
@@ -1319,23 +1323,19 @@
 																	
 																	
 
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
-
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-orange colored-value"><b>1.25</b></span>
+																<span class="bg-red-light colored-value"><b>0.88</b></span>
 															</td>
-															<td class="text-center">64%</td>
-															<td class="text-center">2.0</td>
-															<td class="text-center">4.6</td>
+															<td class="text-center">66%</td>
+															<td class="text-center">2.2</td>
+															<td class="text-center">4.5</td>
 															<td class="text-center">93%</td>
-															<td class="text-center">50%</td>
-															<td class="text-center">3.18</td>
+															<td class="text-center">51%</td>
+															<td class="text-center">3.24</td>
 													</tr>
 
 
@@ -1347,11 +1347,11 @@
 															<img src="https://cdn.redscores.com/images/team/3009_s.png" alt="İstanbulspor" width="16" class="logo">
 															<a href="/pt-br/team/istanbulspor/3009">İstanbulspor</a>
 														</td>
-															<td class="text-center">27</td>
+															<td class="text-center">28</td>
 															<td class="text-center">3</td>
 															<td class="text-center">7</td>
-															<td class="text-center">17</td>
-															<td class="text-center">21:49 </td>
+															<td class="text-center">18</td>
+															<td class="text-center">22:51 </td>
 															<td class="text-center"><strong>16</strong></td>
 														<td class="text-center">
 															<div class="matches-results">
@@ -1360,10 +1360,6 @@
 
 
 																	
-																	<div class="matches-results__item bg-orange"></div>
-																	
-
-																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
@@ -1376,6 +1372,14 @@
 																	<div class="matches-results__item bg-red-light"></div>
 
 																	
+																	<div class="matches-results__item bg-orange"></div>
+																	
+
+																	
+																	
+																	<div class="matches-results__item bg-red-light"></div>
+
+																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
 
@@ -1386,24 +1390,20 @@
 																	
 																	
 																	<div class="matches-results__item bg-red-light"></div>
-
-																	<div class="matches-results__item bg-lime"></div>
-																	
-																	
 
 															</div>
 														</td>
 															
 
 															<td class="text-center">
-																<span class="bg-red-light colored-value"><b>0.75</b></span>
+																<span class="bg-red-light colored-value"><b>0.38</b></span>
 															</td>
-															<td class="text-center">56%</td>
+															<td class="text-center">57%</td>
 															<td class="text-center">2.4</td>
 															<td class="text-center">4.1</td>
-															<td class="text-center">78%</td>
-															<td class="text-center">45%</td>
-															<td class="text-center">2.59</td>
+															<td class="text-center">79%</td>
+															<td class="text-center">46%</td>
+															<td class="text-center">2.61</td>
 													</tr>
 
 								</tbody>
