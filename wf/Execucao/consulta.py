@@ -5,36 +5,57 @@ from selenium.webdriver.support.ui import Select
 from Execucao.login import By
 
 def fazer_consulta(driver):
-    # Exemplo de consulta utilizando XPath
-    elemento_consulta = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, '//*[@id="NavigationMenu"]/ul/li[5]/a'))
-    )
+    def espera_gif_carregamento():
+        WebDriverWait(driver, 10).until_not(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="loaderBackGround2"]'))
+        )
+        print("Gif de carregamento concluído")
+
+    def espera_elemento_selecionavel(xpath):
+        elemento = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, xpath))
+        )
+        return elemento
+
+    print("Iniciando consulta")
+
+    elemento_consulta = espera_elemento_selecionavel('//*[@id="NavigationMenu"]/ul/li[5]/a')
     elemento_consulta.click()
     print("Click em 'Consulta'")
 
-    # Aguardar até que o formulário 'Form1' esteja presente na página
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, '//*[@id="Form1"]'))
     )
     print("Página de consulta carregada com sucesso")
 
-    # Realizar a próxima ação, como clicar na regional
-    elemento_regional = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, '//*[@id="MainContent_ddlRegional"]'))
-    )
+    elemento_regional = espera_elemento_selecionavel('//*[@id="MainContent_ddlRegional"]')
     elemento_regional.click()
     print("Click em 'Regional'")
-    
-    # Esperar até que o elemento select esteja presente e interagível
-    elemento_select = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.ID, 'MainContent_ddlRegional'))
-    )
 
-    # Criar um objeto Select a partir do elemento select
-    select_regional = Select(elemento_select)
+    espera_gif_carregamento()
 
-    # Selecionar a opção desejada por valor (substitua 'valor_da_opcao' pelo valor real)
+    select_regional = Select(elemento_regional)
     select_regional.select_by_value('2')  # Este exemplo seleciona 'RSC'
     print("Selecionando a Regional")
-    # Aguardar um tempo para visualização (opcional)
-    time.sleep(5)
+
+    espera_gif_carregamento()
+
+    elemento_pesquisar = espera_elemento_selecionavel('//*[@id="MainContent_ddlCampoPesquisa_0"]')
+    elemento_pesquisar.click()
+    print("Click em 'Pesquisar Por'")
+
+    select_pesquisar = Select(elemento_pesquisar)
+    select_pesquisar.select_by_value('576_String_Cod. CIR 1')  # Este exemplo seleciona 'RSC'
+    print("Selecionando a Cod. CIR 1")
+
+    espera_gif_carregamento()
+
+    elemento_input = espera_elemento_selecionavel('//*[@id="MainContent_txtValor_0"]')
+    elemento_input.click()
+    print("Click em 'Input'")
+    # Enviar informações para o campo de entrada
+    elemento_input.send_keys("123456")
+    
+    time.sleep(30)  # Espera 30 segundos para a próxima ação
+
+    print("Consulta concluída")
