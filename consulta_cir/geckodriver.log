@@ -1,0 +1,212 @@
+1702993763582	geckodriver	INFO	Listening on 127.0.0.1:53475
+1702993766591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofilevXdI0U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702993768693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1702993768945	Marionette	INFO	Listening on port 53483
+WebDriver BiDi listening on ws://127.0.0.1:53476
+Read port: 53483
+1702993769366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53476/devtools/browser/c555297a-bee0-40b0-b52a-aa9cf6dbdffd
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1702993798800	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702994802582	Marionette	INFO	Stopped listening on port 53483
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2a4b8f11800","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+1702995502877	geckodriver	INFO	Listening on 127.0.0.1:62620
+1702995505913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofiley0pM6z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702995508160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1702995508358	Marionette	INFO	Listening on port 62630
+Read port: 62630
+WebDriver BiDi listening on ws://127.0.0.1:62621
+1702995508934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62621/devtools/browser/02115c13-31c9-4cbc-8da8-2afae75bcced
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1702995539390	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702996462373	Marionette	INFO	Stopped listening on port 62630
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=209949da600","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 370))
+1702997045009	geckodriver	INFO	Listening on 127.0.0.1:50687
+1702997048033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofile1FWckl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702997050610	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1702997050859	Marionette	INFO	Listening on port 50696
+Read port: 50696
+WebDriver BiDi listening on ws://127.0.0.1:50688
+1702997051931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50688/devtools/browser/49f4ec06-22bd-4f14-bcbd-55dd80513f9a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1702997081457	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702997974480	Marionette	INFO	Stopped listening on port 50696
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=17772caa500","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+1703001657761	geckodriver	INFO	Listening on 127.0.0.1:54989
+1703001660881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofileuabCTq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703001667603	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703001668190	Marionette	INFO	Listening on port 54998
+Read port: 54998
+WebDriver BiDi listening on ws://127.0.0.1:54990
+1703001670381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54990/devtools/browser/17167241-673e-407e-b3f0-aaccdaa26348
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+1703001694962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703001697985	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703001718779	Marionette	INFO	Stopped listening on port 54998
+Dynamically enable window occlusion 1
+1703002198190	geckodriver	INFO	Listening on 127.0.0.1:55102
+1703002201180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofilevuLGjw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703002203368	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703002203575	Marionette	INFO	Listening on port 55111
+Read port: 55111
+WebDriver BiDi listening on ws://127.0.0.1:55103
+1703002203932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55103/devtools/browser/b232b08f-b060-4708-bf9e-c7756ab21c90
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703002233886	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703003748112	Marionette	INFO	Stopped listening on port 55111
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1e377681d00","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1703005934327	geckodriver	INFO	Listening on 127.0.0.1:65416
+1703005937353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofile9nxs2g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703005937968	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703005938177	Marionette	INFO	Listening on port 65425
+WebDriver BiDi listening on ws://127.0.0.1:65417
+Read port: 65425
+1703005938480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65417/devtools/browser/05d0d5a7-5b02-4c04-88c6-96ab453f947f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703005968140	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703007859748	Marionette	INFO	Stopped listening on port 65425
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c9e6739100","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1703008530711	geckodriver	INFO	Listening on 127.0.0.1:55804
+1703008533719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofileCtXjxn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703008536342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703008536944	Marionette	INFO	Listening on port 55812
+WebDriver BiDi listening on ws://127.0.0.1:55805
+Read port: 55812
+1703008537389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55805/devtools/browser/298de46a-8f6f-43ff-afd5-01fee07a8ef6
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703008550651	Marionette	INFO	Stopped listening on port 55812
+JavaScript warning: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 171: Script terminated by timeout at:
+O@http://10.1.7.29/js/chunk-vendors.834dd0c1.js:171:2702
+I@http://10.1.7.29/js/chunk-vendors.834dd0c1.js:171:3346
+6c42/destroyed/<@http://10.1.7.29/js/chunk-vendors.834dd0c1.js:171:11743
+
+Dynamically enable window occlusion 1
+1703008596727	geckodriver	INFO	Listening on 127.0.0.1:55868
+1703008599756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofilebMQ0Wr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703008600362	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703008600554	Marionette	INFO	Listening on port 55879
+WebDriver BiDi listening on ws://127.0.0.1:55869
+Read port: 55879
+1703008601040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55869/devtools/browser/35265ab9-0568-4f9b-9ebf-0ae433906488
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703008631044	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703010019771	geckodriver	INFO	Listening on 127.0.0.1:51297
+1703010022809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofileg4NW6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703010027037	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703010027599	Marionette	INFO	Listening on port 51307
+WebDriver BiDi listening on ws://127.0.0.1:51298
+Read port: 51307
+Read port: 51307
+1703010029880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51298/devtools/browser/d9ff4a45-f0c1-4def-980e-1ea94c4af441
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703010057808	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703010283368	Marionette	INFO	Stopped listening on port 51307
+Dynamically enable window occlusion 1
+1703012278935	geckodriver	INFO	Listening on 127.0.0.1:58949
+1703012281959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--log-level=3" "--remote-debugging-port" " ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\z085299\\AppData\\Local\\Temp\\rust_mozprofileZqq02k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703012283214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-log-level"
+1703012283411	Marionette	INFO	Listening on port 58957
+WebDriver BiDi listening on ws://127.0.0.1:58950
+Read port: 58957
+1703012283962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58950/devtools/browser/b3f0fbd9-fb35-4176-a34b-09f750cff5c5
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 685))
+JavaScript error: http://10.1.7.29/js/chunk-vendors.834dd0c1.js, line 75: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://10.1.7.29."
+1703012313688	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703014036906	Marionette	INFO	Stopped listening on port 58957
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=18d1b9bf400","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3930,"stack":""}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 370))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down

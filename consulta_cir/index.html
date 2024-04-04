@@ -1,0 +1,576 @@
+<html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/logo.png"><title>SGP</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css"><link href="/css/chunk-2a2086d8.6f8389be.css" rel="prefetch"><link href="/css/chunk-3bc8e040.3ba23734.css" rel="prefetch"><link href="/css/chunk-5758f24c.e7978da0.css" rel="prefetch"><link href="/css/chunk-641aa57c.e9029005.css" rel="prefetch"><link href="/css/chunk-71f44d66.ff9047df.css" rel="prefetch"><link href="/js/chunk-05c07a4a.f966ee11.js" rel="prefetch"><link href="/js/chunk-2a2086d8.76e4fce3.js" rel="prefetch"><link href="/js/chunk-2d2370f5.03777079.js" rel="prefetch"><link href="/js/chunk-37a586cf.4ce9ac49.js" rel="prefetch"><link href="/js/chunk-3b5c439f.506972ed.js" rel="prefetch"><link href="/js/chunk-3bc8e040.72db4499.js" rel="prefetch"><link href="/js/chunk-5758f24c.47290537.js" rel="prefetch"><link href="/js/chunk-641aa57c.9187061e.js" rel="prefetch"><link href="/js/chunk-71f44d66.f830e63f.js" rel="prefetch"><link href="/js/chunk-74749957.0ac73678.js" rel="prefetch"><link href="/css/app.da03886b.css" rel="preload" as="style"><link href="/css/chunk-vendors.a7330b4e.css" rel="preload" as="style"><link href="/js/app.2c52631c.js" rel="preload" as="script"><link href="/js/chunk-vendors.362f756a.js" rel="preload" as="script"><link href="/css/chunk-vendors.a7330b4e.css" rel="stylesheet"><link href="/css/app.da03886b.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/css/chunk-641aa57c.e9029005.css"><script charset="utf-8" src="/js/chunk-641aa57c.9187061e.js"></script><style type="text/css" id="vuetify-theme-stylesheet">.v-application a { color: #e3262e; }
+    .v-application .primary {
+      background-color: #e3262e !important;
+      border-color: #e3262e !important;
+    }
+    .v-application .primary--text {
+      color: #e3262e !important;
+      caret-color: #e3262e !important;
+    }
+    .v-application .primary.lighten-5 {
+      background-color: #ffc0ab !important;
+      border-color: #ffc0ab !important;
+    }
+    .v-application .primary--text.text--lighten-5 {
+      color: #ffc0ab !important;
+      caret-color: #ffc0ab !important;
+    }
+    .v-application .primary.lighten-4 {
+      background-color: #ffa390 !important;
+      border-color: #ffa390 !important;
+    }
+    .v-application .primary--text.text--lighten-4 {
+      color: #ffa390 !important;
+      caret-color: #ffa390 !important;
+    }
+    .v-application .primary.lighten-3 {
+      background-color: #ff8676 !important;
+      border-color: #ff8676 !important;
+    }
+    .v-application .primary--text.text--lighten-3 {
+      color: #ff8676 !important;
+      caret-color: #ff8676 !important;
+    }
+    .v-application .primary.lighten-2 {
+      background-color: #ff685d !important;
+      border-color: #ff685d !important;
+    }
+    .v-application .primary--text.text--lighten-2 {
+      color: #ff685d !important;
+      caret-color: #ff685d !important;
+    }
+    .v-application .primary.lighten-1 {
+      background-color: #ff4a45 !important;
+      border-color: #ff4a45 !important;
+    }
+    .v-application .primary--text.text--lighten-1 {
+      color: #ff4a45 !important;
+      caret-color: #ff4a45 !important;
+    }
+    .v-application .primary.darken-1 {
+      background-color: #c20018 !important;
+      border-color: #c20018 !important;
+    }
+    .v-application .primary--text.text--darken-1 {
+      color: #c20018 !important;
+      caret-color: #c20018 !important;
+    }
+    .v-application .primary.darken-2 {
+      background-color: #a20000 !important;
+      border-color: #a20000 !important;
+    }
+    .v-application .primary--text.text--darken-2 {
+      color: #a20000 !important;
+      caret-color: #a20000 !important;
+    }
+    .v-application .primary.darken-3 {
+      background-color: #830000 !important;
+      border-color: #830000 !important;
+    }
+    .v-application .primary--text.text--darken-3 {
+      color: #830000 !important;
+      caret-color: #830000 !important;
+    }
+    .v-application .primary.darken-4 {
+      background-color: #660000 !important;
+      border-color: #660000 !important;
+    }
+    .v-application .primary--text.text--darken-4 {
+      color: #660000 !important;
+      caret-color: #660000 !important;
+    }
+    .v-application .secondary {
+      background-color: #424242 !important;
+      border-color: #424242 !important;
+    }
+    .v-application .secondary--text {
+      color: #424242 !important;
+      caret-color: #424242 !important;
+    }
+    .v-application .secondary.lighten-5 {
+      background-color: #c1c1c1 !important;
+      border-color: #c1c1c1 !important;
+    }
+    .v-application .secondary--text.text--lighten-5 {
+      color: #c1c1c1 !important;
+      caret-color: #c1c1c1 !important;
+    }
+    .v-application .secondary.lighten-4 {
+      background-color: #a6a6a6 !important;
+      border-color: #a6a6a6 !important;
+    }
+    .v-application .secondary--text.text--lighten-4 {
+      color: #a6a6a6 !important;
+      caret-color: #a6a6a6 !important;
+    }
+    .v-application .secondary.lighten-3 {
+      background-color: #8b8b8b !important;
+      border-color: #8b8b8b !important;
+    }
+    .v-application .secondary--text.text--lighten-3 {
+      color: #8b8b8b !important;
+      caret-color: #8b8b8b !important;
+    }
+    .v-application .secondary.lighten-2 {
+      background-color: #727272 !important;
+      border-color: #727272 !important;
+    }
+    .v-application .secondary--text.text--lighten-2 {
+      color: #727272 !important;
+      caret-color: #727272 !important;
+    }
+    .v-application .secondary.lighten-1 {
+      background-color: #595959 !important;
+      border-color: #595959 !important;
+    }
+    .v-application .secondary--text.text--lighten-1 {
+      color: #595959 !important;
+      caret-color: #595959 !important;
+    }
+    .v-application .secondary.darken-1 {
+      background-color: #2c2c2c !important;
+      border-color: #2c2c2c !important;
+    }
+    .v-application .secondary--text.text--darken-1 {
+      color: #2c2c2c !important;
+      caret-color: #2c2c2c !important;
+    }
+    .v-application .secondary.darken-2 {
+      background-color: #171717 !important;
+      border-color: #171717 !important;
+    }
+    .v-application .secondary--text.text--darken-2 {
+      color: #171717 !important;
+      caret-color: #171717 !important;
+    }
+    .v-application .secondary.darken-3 {
+      background-color: #000000 !important;
+      border-color: #000000 !important;
+    }
+    .v-application .secondary--text.text--darken-3 {
+      color: #000000 !important;
+      caret-color: #000000 !important;
+    }
+    .v-application .secondary.darken-4 {
+      background-color: #000000 !important;
+      border-color: #000000 !important;
+    }
+    .v-application .secondary--text.text--darken-4 {
+      color: #000000 !important;
+      caret-color: #000000 !important;
+    }
+    .v-application .accent {
+      background-color: #82b1ff !important;
+      border-color: #82b1ff !important;
+    }
+    .v-application .accent--text {
+      color: #82b1ff !important;
+      caret-color: #82b1ff !important;
+    }
+    .v-application .accent.lighten-5 {
+      background-color: #ffffff !important;
+      border-color: #ffffff !important;
+    }
+    .v-application .accent--text.text--lighten-5 {
+      color: #ffffff !important;
+      caret-color: #ffffff !important;
+    }
+    .v-application .accent.lighten-4 {
+      background-color: #f8ffff !important;
+      border-color: #f8ffff !important;
+    }
+    .v-application .accent--text.text--lighten-4 {
+      color: #f8ffff !important;
+      caret-color: #f8ffff !important;
+    }
+    .v-application .accent.lighten-3 {
+      background-color: #daffff !important;
+      border-color: #daffff !important;
+    }
+    .v-application .accent--text.text--lighten-3 {
+      color: #daffff !important;
+      caret-color: #daffff !important;
+    }
+    .v-application .accent.lighten-2 {
+      background-color: #bce8ff !important;
+      border-color: #bce8ff !important;
+    }
+    .v-application .accent--text.text--lighten-2 {
+      color: #bce8ff !important;
+      caret-color: #bce8ff !important;
+    }
+    .v-application .accent.lighten-1 {
+      background-color: #9fccff !important;
+      border-color: #9fccff !important;
+    }
+    .v-application .accent--text.text--lighten-1 {
+      color: #9fccff !important;
+      caret-color: #9fccff !important;
+    }
+    .v-application .accent.darken-1 {
+      background-color: #6596e2 !important;
+      border-color: #6596e2 !important;
+    }
+    .v-application .accent--text.text--darken-1 {
+      color: #6596e2 !important;
+      caret-color: #6596e2 !important;
+    }
+    .v-application .accent.darken-2 {
+      background-color: #467dc6 !important;
+      border-color: #467dc6 !important;
+    }
+    .v-application .accent--text.text--darken-2 {
+      color: #467dc6 !important;
+      caret-color: #467dc6 !important;
+    }
+    .v-application .accent.darken-3 {
+      background-color: #2364aa !important;
+      border-color: #2364aa !important;
+    }
+    .v-application .accent--text.text--darken-3 {
+      color: #2364aa !important;
+      caret-color: #2364aa !important;
+    }
+    .v-application .accent.darken-4 {
+      background-color: #004c90 !important;
+      border-color: #004c90 !important;
+    }
+    .v-application .accent--text.text--darken-4 {
+      color: #004c90 !important;
+      caret-color: #004c90 !important;
+    }
+    .v-application .error {
+      background-color: #ff5252 !important;
+      border-color: #ff5252 !important;
+    }
+    .v-application .error--text {
+      color: #ff5252 !important;
+      caret-color: #ff5252 !important;
+    }
+    .v-application .error.lighten-5 {
+      background-color: #ffe4d5 !important;
+      border-color: #ffe4d5 !important;
+    }
+    .v-application .error--text.text--lighten-5 {
+      color: #ffe4d5 !important;
+      caret-color: #ffe4d5 !important;
+    }
+    .v-application .error.lighten-4 {
+      background-color: #ffc6b9 !important;
+      border-color: #ffc6b9 !important;
+    }
+    .v-application .error--text.text--lighten-4 {
+      color: #ffc6b9 !important;
+      caret-color: #ffc6b9 !important;
+    }
+    .v-application .error.lighten-3 {
+      background-color: #ffa99e !important;
+      border-color: #ffa99e !important;
+    }
+    .v-application .error--text.text--lighten-3 {
+      color: #ffa99e !important;
+      caret-color: #ffa99e !important;
+    }
+    .v-application .error.lighten-2 {
+      background-color: #ff8c84 !important;
+      border-color: #ff8c84 !important;
+    }
+    .v-application .error--text.text--lighten-2 {
+      color: #ff8c84 !important;
+      caret-color: #ff8c84 !important;
+    }
+    .v-application .error.lighten-1 {
+      background-color: #ff6f6a !important;
+      border-color: #ff6f6a !important;
+    }
+    .v-application .error--text.text--lighten-1 {
+      color: #ff6f6a !important;
+      caret-color: #ff6f6a !important;
+    }
+    .v-application .error.darken-1 {
+      background-color: #df323b !important;
+      border-color: #df323b !important;
+    }
+    .v-application .error--text.text--darken-1 {
+      color: #df323b !important;
+      caret-color: #df323b !important;
+    }
+    .v-application .error.darken-2 {
+      background-color: #bf0025 !important;
+      border-color: #bf0025 !important;
+    }
+    .v-application .error--text.text--darken-2 {
+      color: #bf0025 !important;
+      caret-color: #bf0025 !important;
+    }
+    .v-application .error.darken-3 {
+      background-color: #9f0010 !important;
+      border-color: #9f0010 !important;
+    }
+    .v-application .error--text.text--darken-3 {
+      color: #9f0010 !important;
+      caret-color: #9f0010 !important;
+    }
+    .v-application .error.darken-4 {
+      background-color: #800000 !important;
+      border-color: #800000 !important;
+    }
+    .v-application .error--text.text--darken-4 {
+      color: #800000 !important;
+      caret-color: #800000 !important;
+    }
+    .v-application .info {
+      background-color: #2196f3 !important;
+      border-color: #2196f3 !important;
+    }
+    .v-application .info--text {
+      color: #2196f3 !important;
+      caret-color: #2196f3 !important;
+    }
+    .v-application .info.lighten-5 {
+      background-color: #d4ffff !important;
+      border-color: #d4ffff !important;
+    }
+    .v-application .info--text.text--lighten-5 {
+      color: #d4ffff !important;
+      caret-color: #d4ffff !important;
+    }
+    .v-application .info.lighten-4 {
+      background-color: #b5ffff !important;
+      border-color: #b5ffff !important;
+    }
+    .v-application .info--text.text--lighten-4 {
+      color: #b5ffff !important;
+      caret-color: #b5ffff !important;
+    }
+    .v-application .info.lighten-3 {
+      background-color: #95e8ff !important;
+      border-color: #95e8ff !important;
+    }
+    .v-application .info--text.text--lighten-3 {
+      color: #95e8ff !important;
+      caret-color: #95e8ff !important;
+    }
+    .v-application .info.lighten-2 {
+      background-color: #75ccff !important;
+      border-color: #75ccff !important;
+    }
+    .v-application .info--text.text--lighten-2 {
+      color: #75ccff !important;
+      caret-color: #75ccff !important;
+    }
+    .v-application .info.lighten-1 {
+      background-color: #51b0ff !important;
+      border-color: #51b0ff !important;
+    }
+    .v-application .info--text.text--lighten-1 {
+      color: #51b0ff !important;
+      caret-color: #51b0ff !important;
+    }
+    .v-application .info.darken-1 {
+      background-color: #007cd6 !important;
+      border-color: #007cd6 !important;
+    }
+    .v-application .info--text.text--darken-1 {
+      color: #007cd6 !important;
+      caret-color: #007cd6 !important;
+    }
+    .v-application .info.darken-2 {
+      background-color: #0064ba !important;
+      border-color: #0064ba !important;
+    }
+    .v-application .info--text.text--darken-2 {
+      color: #0064ba !important;
+      caret-color: #0064ba !important;
+    }
+    .v-application .info.darken-3 {
+      background-color: #004d9f !important;
+      border-color: #004d9f !important;
+    }
+    .v-application .info--text.text--darken-3 {
+      color: #004d9f !important;
+      caret-color: #004d9f !important;
+    }
+    .v-application .info.darken-4 {
+      background-color: #003784 !important;
+      border-color: #003784 !important;
+    }
+    .v-application .info--text.text--darken-4 {
+      color: #003784 !important;
+      caret-color: #003784 !important;
+    }
+    .v-application .success {
+      background-color: #4caf50 !important;
+      border-color: #4caf50 !important;
+    }
+    .v-application .success--text {
+      color: #4caf50 !important;
+      caret-color: #4caf50 !important;
+    }
+    .v-application .success.lighten-5 {
+      background-color: #dcffd6 !important;
+      border-color: #dcffd6 !important;
+    }
+    .v-application .success--text.text--lighten-5 {
+      color: #dcffd6 !important;
+      caret-color: #dcffd6 !important;
+    }
+    .v-application .success.lighten-4 {
+      background-color: #beffba !important;
+      border-color: #beffba !important;
+    }
+    .v-application .success--text.text--lighten-4 {
+      color: #beffba !important;
+      caret-color: #beffba !important;
+    }
+    .v-application .success.lighten-3 {
+      background-color: #a2ff9e !important;
+      border-color: #a2ff9e !important;
+    }
+    .v-application .success--text.text--lighten-3 {
+      color: #a2ff9e !important;
+      caret-color: #a2ff9e !important;
+    }
+    .v-application .success.lighten-2 {
+      background-color: #85e783 !important;
+      border-color: #85e783 !important;
+    }
+    .v-application .success--text.text--lighten-2 {
+      color: #85e783 !important;
+      caret-color: #85e783 !important;
+    }
+    .v-application .success.lighten-1 {
+      background-color: #69cb69 !important;
+      border-color: #69cb69 !important;
+    }
+    .v-application .success--text.text--lighten-1 {
+      color: #69cb69 !important;
+      caret-color: #69cb69 !important;
+    }
+    .v-application .success.darken-1 {
+      background-color: #2d9437 !important;
+      border-color: #2d9437 !important;
+    }
+    .v-application .success--text.text--darken-1 {
+      color: #2d9437 !important;
+      caret-color: #2d9437 !important;
+    }
+    .v-application .success.darken-2 {
+      background-color: #00791e !important;
+      border-color: #00791e !important;
+    }
+    .v-application .success--text.text--darken-2 {
+      color: #00791e !important;
+      caret-color: #00791e !important;
+    }
+    .v-application .success.darken-3 {
+      background-color: #006000 !important;
+      border-color: #006000 !important;
+    }
+    .v-application .success--text.text--darken-3 {
+      color: #006000 !important;
+      caret-color: #006000 !important;
+    }
+    .v-application .success.darken-4 {
+      background-color: #004700 !important;
+      border-color: #004700 !important;
+    }
+    .v-application .success--text.text--darken-4 {
+      color: #004700 !important;
+      caret-color: #004700 !important;
+    }
+    .v-application .warning {
+      background-color: #fb8c00 !important;
+      border-color: #fb8c00 !important;
+    }
+    .v-application .warning--text {
+      color: #fb8c00 !important;
+      caret-color: #fb8c00 !important;
+    }
+    .v-application .warning.lighten-5 {
+      background-color: #ffff9e !important;
+      border-color: #ffff9e !important;
+    }
+    .v-application .warning--text.text--lighten-5 {
+      color: #ffff9e !important;
+      caret-color: #ffff9e !important;
+    }
+    .v-application .warning.lighten-4 {
+      background-color: #fffb82 !important;
+      border-color: #fffb82 !important;
+    }
+    .v-application .warning--text.text--lighten-4 {
+      color: #fffb82 !important;
+      caret-color: #fffb82 !important;
+    }
+    .v-application .warning.lighten-3 {
+      background-color: #ffdf67 !important;
+      border-color: #ffdf67 !important;
+    }
+    .v-application .warning--text.text--lighten-3 {
+      color: #ffdf67 !important;
+      caret-color: #ffdf67 !important;
+    }
+    .v-application .warning.lighten-2 {
+      background-color: #ffc24b !important;
+      border-color: #ffc24b !important;
+    }
+    .v-application .warning--text.text--lighten-2 {
+      color: #ffc24b !important;
+      caret-color: #ffc24b !important;
+    }
+    .v-application .warning.lighten-1 {
+      background-color: #ffa72d !important;
+      border-color: #ffa72d !important;
+    }
+    .v-application .warning--text.text--lighten-1 {
+      color: #ffa72d !important;
+      caret-color: #ffa72d !important;
+    }
+    .v-application .warning.darken-1 {
+      background-color: #db7200 !important;
+      border-color: #db7200 !important;
+    }
+    .v-application .warning--text.text--darken-1 {
+      color: #db7200 !important;
+      caret-color: #db7200 !important;
+    }
+    .v-application .warning.darken-2 {
+      background-color: #bb5900 !important;
+      border-color: #bb5900 !important;
+    }
+    .v-application .warning--text.text--darken-2 {
+      color: #bb5900 !important;
+      caret-color: #bb5900 !important;
+    }
+    .v-application .warning.darken-3 {
+      background-color: #9d4000 !important;
+      border-color: #9d4000 !important;
+    }
+    .v-application .warning--text.text--darken-3 {
+      color: #9d4000 !important;
+      caret-color: #9d4000 !important;
+    }
+    .v-application .warning.darken-4 {
+      background-color: #802700 !important;
+      border-color: #802700 !important;
+    }
+    .v-application .warning--text.text--darken-4 {
+      color: #802700 !important;
+      caret-color: #802700 !important;
+    }</style></head><body><noscript><strong>We're sorry but SGP doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div data-app="true" class="v-application v-application--is-ltr theme--light" id="app"><div class="v-application--wrap"><main class="v-main" style="padding: 0px;" data-booted="true"><div class="v-main__wrap"><div data-v-69064571=""><div data-v-69064571=""><header id="dashboard-header"><div><a class="btn-menu-header"><i aria-hidden="true" class="v-icon notranslate mdi mdi-menu theme--light"></i></a><a href="/dashboard"><img src="/img/logo-sgp-branco.3b27f8bd.svg" width="70" alt="Logo da Claro" class="mdn-logoSvg"></a></div><div class="header-actions"><button aria-haspopup="true" aria-expanded="false" class="btn-usuario-header"> DA </button><div class="v-menu"><!----></div></div></header></div><nav data-v-69064571="" class="v-navigation-drawer v-navigation-drawer--close v-navigation-drawer--fixed v-navigation-drawer--is-mobile v-navigation-drawer--temporary theme--light mt-14 no-padding" data-booted="true" style="height: 100vh; top: 0px; transform: translateX(-100%); width: 256px;"><div class="v-navigation-drawer__content"></div><div class="v-navigation-drawer__border"></div></nav><div data-v-69064571="" class="container container--fluid"><div data-v-69064571="" class="row no-gutters"><div data-v-69064571="" class="body-wrapper col"><div data-v-69064571=""><div><div class="row"><div class="col col-4" cols="4"><h1> Ficha Técnica <!----><!----><button type="button" class="ml-2 v-btn v-btn--fab v-btn--has-bg v-btn--round v-btn--rounded theme--dark v-size--small red" dark="" small="" fab=""><span class="v-btn__content"><i aria-hidden="true" class="v-icon notranslate mdi mdi-page-next-outline theme--dark white--text"></i></span></button></h1></div><div class="d-flex justify-end col col-8" cols="8"><button type="button" class="mr-2 v-btn v-btn--outlined v-btn--rounded theme--dark v-size--default primary--text" dark="" outlined=""><span class="v-btn__content"> Check. Agen. </span></button><button type="button" class="mr-2 v-btn v-btn--outlined v-btn--rounded theme--dark v-size--default primary--text" dark="" outlined=""><span class="v-btn__content"> Atualização </span></button><!----><button type="button" class="mr-2 v-btn v-btn--outlined v-btn--rounded theme--dark v-size--default primary--text" dark="" outlined=""><span class="v-btn__content"><span class="v-badge badge-anotacoes theme--dark"><i aria-hidden="true" middle="" class="v-icon notranslate mr-2 mdi mdi-comment-text-outline theme--dark"></i><span class="v-badge__wrapper"><span aria-atomic="true" aria-label="Badge" aria-live="polite" role="status" class="v-badge__badge primary" style="inset: auto auto calc(100% - 4px) calc(100% - 4px);">2</span></span></span> Anotações </span></button><a href="/sgp/filas-tarefa/135" class="mr-2 v-btn v-btn--outlined v-btn--rounded v-btn--router theme--light v-size--default primary--text" outlined="" link="" to="/sgp/filas-tarefa/135"><span class="v-btn__content"> Fila Tarefas </span></a><a href="/sgp/filas-trabalho/5" class="v-btn v-btn--outlined v-btn--rounded v-btn--router theme--light v-size--default primary--text" outlined="" link="" to="/sgp/filas-trabalho/5"><span class="v-btn__content"><i aria-hidden="true" medium="" class="v-icon notranslate mr-2 mdi mdi-cursor-default-click-outline theme--light"></i> Meus Atendimentos </span></a><button type="button" class="ml-2 v-btn v-btn--icon v-btn--round v-btn--rounded theme--dark v-size--default primary--text" icon="" dark=""><span class="v-btn__content"><div class="v-avatar" style="height: 48px; min-width: 48px; width: 48px;"><i aria-hidden="true" class="v-icon notranslate mdi mdi-file-image theme--dark"></i></div></span></button></div></div><!----><div><div class="row"><div class="pl-5"><div class="container-dados-usuario"><div class="grid"><div class="grid-container"><div class="grid-row"><div class="titulo-grid"> Informações Circuito - SGP ID: 313693 </div></div><div class="grid-row"><div class="titulo"> Código do Circuito </div><div><a href="http://2k8rjostar2101.nt.embratel.com.br/star21/circuitos/fraHeaderCircuito_alterado.asp?cod_cir=2361458" target="_blank"> 2361458 / A </a></div><div class="titulo"> Terminal </div><div> 0 </div></div><div class="grid-row"><div class="titulo"> Data Cadastro tarefa </div><div> 03/04/2024, 09:38:00 </div><div class="titulo"> Data Fim tarefa </div><div><span>-</span></div></div><div class="grid-row"><div class="titulo"> Tipo de Alteração </div><div><span> ATIVAR </span></div><div class="titulo"> Disponibilizado </div><div> Não </div></div><div class="grid-row"><div class="titulo"> Designação </div><div> RJO/IP/39919 </div><div class="titulo"> Velocidade </div><div> 100M </div></div><div class="grid-row"><div class="titulo"> Pendência Star21 </div><div> 6.16-Programação-Finalização do Agendamento <span> (6.16) </span></div><div class="titulo"> ctrl_star21_pendencia_anterior_id </div><div>  </div></div><div class="grid-row"><div class="titulo"> Data de inicio da Pendência </div><div><span>-</span></div><div class="titulo"> Código Cir associado </div><div><span> - </span></div></div><div class="grid-row"><div class="titulo"> Dias Pendência (extração) </div><div> 3 </div><div class="titulo"> Número Viabilidade </div><div>  </div></div><div class="grid-row"><div class="titulo-grid"> Serviço </div></div><div class="grid-row"><div class="titulo"> Serviço </div><div><span> INTERNET </span></div><div class="titulo"> Portabilidade </div><div> - </div></div><div class="grid-row"><div class="titulo"> Modalidade </div><div><span> BLD </span></div><div class="titulo"> Rede Híbrida </div><div> - </div></div><div class="grid-row"><div class="titulo"> BLC Wifi </div><div><span> - </span></div><div class="titulo"> Operadora </div><div> claro s a </div></div><div class="grid-row"><div class="titulo"> Tipo Serviço </div><div><span> SELECIONE </span></div><div class="titulo"> Migração PABX Virtual </div><div> - </div></div><div class="grid-row"><div class="titulo"> Valor Backlog </div><div> 0.00 </div><div class="titulo"> Origem Valor </div><div> - </div></div><div class="grid-row"><div class="titulo"> Classificação Gross </div><div> Gross </div><div class="titulo">Redundante</div><div>-</div></div><div class="grid-row"><div class="titulo"> Broadsoft </div><div> - </div><div></div><div></div></div></div><div class="grid-container mb-1"><div class="grid-row"><div variant="primary" clickable="" class="titulo-grid collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-1" style="overflow-anchor: none;"> Informações Cliente </div></div><div class="grid-row"><div class="titulo"> Cliente </div><div> LLE FERR <button type="button" class="v-icon notranslate ml-2 v-icon--link mdi mdi-card-account-phone-outline theme--light red--text" color="red"></button></div><div class="titulo"> Orgão de vendas </div><div><span> VEM-15 </span></div></div><div class="grid-row"><div class="titulo"> Classificação Cliente </div><div><span> EMP2 </span></div><div class="titulo"> Centro de manutenção (CM) </div><div><span> RJO </span></div></div><div class="grid-row"><div class="titulo"> Contrato </div><div><span> IM-SPO-IGC- - IP - 28869/2024 </span></div><div class="titulo"> Cadastro Nacional de Localidades (CNL) </div><div><span> RJO </span></div></div><div class="grid-row"><div class="titulo"> Solicitaçao OTS/OE </div><div><span> IM-SPO-IGC- - IP - 28869/2024 </span></div><div class="titulo"> Ação </div><div><span> ATIVAR </span></div></div><div class="grid-row"><div class="titulo"> Coordenação Implantação </div><div><span> SPO </span></div><div class="titulo"> Estado (UF) </div><div><span> RIO DE JANEIRO (RJ) </span></div></div><div class="grid-row"><div class="titulo"> Execução CNL </div><div><span> RIO DE JANEIRO </span></div><div class="titulo"> Regional </div><div><span> RIO DE JANEIRO E ESPÍRITO SANTO </span></div></div><div class="grid-row"><div class="titulo"> Projeto </div><div><span> SEM PROJETO CEC </span></div><div class="titulo"> Número ITP </div><div><span> 10015176/2 </span></div></div><div class="grid-row"><div class="titulo"> Nome da dependência do Cliente </div><div><span> NA </span></div><div class="titulo"> IDP </div><div><span> NA </span></div></div><div class="grid-row"><div class="titulo"> Razão Social </div><div><span> LLE FERRAGENS LTDA </span></div><div class="titulo"> Conta Corrente </div><div><span> 000090321010017 </span></div></div><div class="grid-row"><div class="titulo"> CNPJ </div><div><span> 05953543000147 </span></div><div class="titulo"> OS SAPWEB </div><div><span> 7222731 </span></div></div><div class="grid-row"><div class="titulo"> Inscrição Estadual </div><div><span> 77657681 </span></div><div></div><div></div></div><div class="grid-row"><div class="titulo-grid"> Responsáveis </div></div><div class="grid-row"><div class="titulo"> CEC </div><div> EUSJOTA </div><div class="titulo"> PVTEC Execução </div><div> ADOC/SOE </div></div><div class="grid-row"><div class="titulo"> Nome CEC </div><div> Eustáquio Batista Jota </div><div class="titulo"> Nome PVTEC Execução </div><div> - </div></div><div class="grid-row"><div class="titulo"> Telefone CEC </div><div>  </div><div class="titulo"> Telefone PVTEC Execução </div><div> - </div></div><div class="grid-row"><div class="titulo"> CS </div><div> - </div><div class="titulo"> GECS </div><div> - </div></div><div class="grid-row"><div class="titulo"> Nome CS </div><div> - </div><div class="titulo"> Nome GECS </div><div> - </div></div><div class="grid-row"><div class="titulo"> Telefone CS </div><div> - </div><div class="titulo"> Telefone GECS </div><div> - </div></div><div class="grid-row"><div class="titulo"> GC </div><div> - </div><div class="titulo"> GEV </div><div> - </div></div><div class="grid-row"><div class="titulo"> Nome GC </div><div> - </div><div class="titulo"> Nome GEV </div><div> - </div></div><div class="grid-row"><div class="titulo"> Telefone GC </div><div> - </div><div class="titulo"> Telefone GEV </div><div> - </div></div><div class="grid-row"><div class="titulo"> Pendência CS </div><div> - </div><div class="titulo"></div><div></div></div><div class="grid-row"><div class="titulo-grid"> Datas </div></div><div class="grid-row"><div class="titulo"> Data Agendamento </div><div><span>-</span></div><div class="titulo"> Data Forecast </div><div><span>-</span></div></div><div class="grid-row"><div class="titulo"> Data Aprazada </div><div> 26/06/2024 </div><div class="titulo"> Data Prometida </div><div> - </div></div><div class="grid-row"><div class="titulo"> Data Cadastro </div><div> 28/03/2024 </div><div></div><div></div></div><div><div><div class="grid-row"><div class="titulo-grid"> Contato 1 </div></div><div class="grid-row"><div class="titulo"> Nome </div><div> JOSÉ BENTO </div><div class="titulo"> Celular </div><div> 21 97964-1734 </div></div><div class="grid-row"><div class="titulo"> E-mail </div><div> jose.freitas@itstecnologia.com.br </div><div class="titulo"> Telefone </div><div>  </div></div></div></div></div><div><div class="grid-row"><div class="titulo-grid"> Informações da Tarefa </div></div><div class="grid-row"><div class="titulo"> Tarefa </div><div> PA0301 - Gerar Ordens de Serviço (6.16) </div><div class="titulo"> Usuário Responsável </div><div> Ana Carla dos Santos Pereira </div></div><div class="grid-row"><div></div><div></div><div class="titulo"> Telefone Responsável </div><div> - </div></div></div><div><div class="grid-row"><div class="titulo-grid"> Status da Tarefa </div></div><div class="grid-row"><div class="titulo"> Status </div><div><span> NÃO INICIADA </span></div><div class="titulo"> Aging Status </div><div> 0 dias </div></div><div class="grid-row"><div></div><div></div><div class="titulo"> Aging Status Disponível </div><div> 0 dias </div></div><!----><!----><!----></div><div><div class="grid-row"><div class="titulo-grid"> Tarefa: PA0301 - Gerar Ordens de Serviço (6.16) </div></div><div class="grid-row"><div class="titulo"> Aging dias </div><div> 0 dias </div><div class="titulo"> Aging dias úteis </div><div> 0 dias </div></div><div class="grid-row"><div class="titulo"> Aging horas </div><div> 0 dias 02:48 </div><div class="titulo"> Aging horas úteis </div><div></div></div></div><div><div class="grid-row"><div class="titulo-grid"> Processo: Gerar Ordens de Serviço </div></div><div class="grid-row"><div class="titulo"> Aging dias </div><div> 0 dias </div><div class="titulo"> Aging dias úteis </div><div> 0 dias </div></div><div class="grid-row"><div class="titulo"> Aging horas </div><div> 0 dias 02:48 </div><div class="titulo"> Aging horas úteis </div><div></div></div></div><div><div class="grid-row"><div class="titulo-grid"> Macro processo: Preparar Ativação </div></div><div class="grid-row"><div class="titulo"> Aging dias </div><div> 2 dias </div><div class="titulo"> Aging dias úteis </div><div> 2 dias </div></div><div class="grid-row"><div class="titulo"> Aging horas </div><div> 1 dia 16:43 </div><div class="titulo"> Aging horas úteis </div><div></div></div></div><div><div class="grid-row"><div class="titulo-grid"> Viabilidade Pré Venda - Dados da SEV </div></div><div><div class="grid-row"><div class="titulo-center destaque-texto"> SEV Inválida </div></div><div class="grid-row"><div class="titulo"> Número da SEV </div><div> 7141083 </div><div class="titulo"> Mensagem </div><div> SEV 7141083 NAO ENCONTRADA </div></div></div></div><div><div class="grid-row"><div variant="primary" clickable="" class="titulo-grid collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-1" style="overflow-anchor: none;"> Adoção <i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div></div><!----></div><div data-v-3cee9c3c=""><div data-v-3cee9c3c=""><div data-v-3cee9c3c="" class="grid-row"><div data-v-3cee9c3c="" variant="primary" class="titulo-grid mt-1 celula-informacao collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-definicao_solucao" style="overflow-anchor: none;"> Definir Solução de Acesso <i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div></div><div data-v-3cee9c3c="" id="collapse-definicao_solucao" class="mt-3 mb-2 ml-3 collapse" style="display: none;"><div data-v-3cee9c3c="" class="row"><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> SEV </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> 7141083-FO GPON_RESID ETH </span><!----><!----><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> SOL-ID CLA </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> 2430728 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Tecnologia </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> FO Net </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Tipo de Acesso </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Cliente Abordado </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Conectorização </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> SC-APC </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Tipo de Interface </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Monomodo </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Solução Pós-venda </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> GPON </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Motivo da Troca de Solução </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Reservar Recurso Rede </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A - Não se Aplica </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Descrição do Projeto de Acesso </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Em contato com o cliente, o mesmo informa que Existe sim um Huawei SmartAX MA 5628. Este equipamento compõe 8 portas ETHERNET porém, 1 já está em uso para 1 DIGITRONCO EMBRATEL TRONCO CHAVE/NÚMERO DE CIRCUITO 21-2131-8500. </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Interface de Entrega Cliente </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Elétrico </span></div></div></div><div data-v-3cee9c3c=""><div data-v-3cee9c3c="" class="grid-row"><div data-v-3cee9c3c="" variant="primary" class="titulo-grid mt-1 celula-informacao collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-construcao" style="overflow-anchor: none;"> Construir Acesso <i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div></div><div data-v-3cee9c3c="" id="collapse-construcao" class="mt-3 mb-2 ml-3 collapse" style="display: none;"><div data-v-3cee9c3c="" class="row"><!----><!----><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Celular do Cliente Construção </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao">  21 97964-1734 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Contato Cliente Construção </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao">  JOSÉ BENTO </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Data Previsão de Entrega </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> 2024-05-01 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Telefone do Cliente Construção </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao">  21 97964-1734 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Local da instalação do acesso </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> . </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Dados Configuração Acesso </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> CLA NET: 2430728	CH: 563775 - APROVISIONADO
+    Status:	Atividade Concluida	Motivo:	
+    Usuário:	PEDRO GABRIEL MOREIRA SILVA
+    519 2232	Data:	01/04/2024 17:37:05
+    Descrição:	PONTA A: LINK:  SW:PRN_RJ_DQ2_(10.203.26.117) PORTA: 3/26| OTS:26870/2022 ITEM 1 |UACC01.RJOEN TENG 0/1/0/0| SVLAN:3608| CVLAN:37|
+    
+    PONTA B: LINK: MODEM: HUAWEI MA5628| PORTA: GETH-1|
+    
+    *PORTAL FO NÃO TEMOS MAIS ACESSO, DESCONSIDERAMOS QUALQUER "EBT"*
+    
+    Status PENDENTE DE ATIVACAO DO SERVICO PELO APROVISIONADOR
+     </span></div></div></div><div data-v-3cee9c3c=""><div data-v-3cee9c3c="" class="grid-row"><div data-v-3cee9c3c="" variant="primary" class="titulo-grid mt-1 celula-informacao collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-aprovisionamento" style="overflow-anchor: none;"> Aprovisionar Serviço <i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div></div><div data-v-3cee9c3c="" id="collapse-aprovisionamento" class="mt-3 mb-2 ml-3 collapse" style="display: none;"><div data-v-3cee9c3c="" class="row"><!----><!----><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Vigência </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> CRQ - Sigla do Site </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Sinalização </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Abertura CRQ </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Não </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> CRQ - ID Equipamento </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Agendamento PCL </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Não </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Roteamento SAIP </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Estático </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> RT - Requisito Técnico </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> POP Agendamento PCL </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> CRQ - Posição Equipamento </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Informação Adicional para Configuração </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> 
+    "Olá,
+    Circuito encaminhado para Configuração   
+    Analista: Priscila Gazolla
+    E-mail: priscila.gazolla@globalhitss.com.br” </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Designação MLPPP/MULTIPATH </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Atividade Remota </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Presencial </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Ação Abertura Ticket GerCPE </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Ativação </span></div></div></div><div data-v-3cee9c3c=""><div data-v-3cee9c3c="" class="grid-row"><div data-v-3cee9c3c="" variant="primary" class="titulo-grid mt-1 celula-informacao collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="collapse-preparar_ativacao" style="overflow-anchor: none;"> Preparar Ativação <i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i data-v-3cee9c3c="" aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div></div><div data-v-3cee9c3c="" id="collapse-preparar_ativacao" class="mt-3 mb-2 ml-3 collapse" style="display: none;"><div data-v-3cee9c3c="" class="row"><!----><!----><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> OS AGEN </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> WF: 3937271 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Atividade </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> ATIVAÇÃO NOVO BLD 100 MB + GRC </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Integração </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Não </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Site Survey </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Infra pronta </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Sim </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> E-mail que Agendou </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> bianca.garces@claro.com.br </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Tipo de Ambiente </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Endereço Comum </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Contato que Agendou </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> BIANCA </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Responsável pelo Agendamento </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Coordenação </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Atuação Mantenedor </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Presencial </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Justificar se Data/Hora Superior a 48h </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Versão Site Survey </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Enviar Técnico Ponta </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Contato Local do Cliente </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> BIANCA </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> POP PRIO </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> N/A </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Data/Hora Pré-Agendada </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> 2024-04-05T10:00 </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Informação Adicional para Agendamento </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Produto BLD </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Cliente ciente da paralização </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Sim </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Contato que Validará a Atividade </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> BIANCA </span><!----><span data-v-3cee9c3c="" cols="3" class="titulo col-3 celula-informacao"> Pesquisa - Acionamento do Cliente </span><!----><span data-v-3cee9c3c="" cols="3" class=" col-3 celula-informacao"> Fora do Centralizado </span></div></div></div></div><!----></div></div></div></div><div class="row"><div class="col col-12" cols="12"><div class="my-3"><!----></div><div><h4>Tratativas</h4><div class="mt-4 mb-4"><!----><!----><button type="button" class="mr-2 v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default primary"><span class="v-btn__content">Apropriar</span></button><!----></div></div></div></div><!----><div id="historico"><div><div class="row ml-2 no-gutters" no-gutters=""><div class="mt-4 col col-2" cols="2"><h4>Histórico</h4></div><div class="col col-2" cols="2"><div data-v-78e19271="" class="v-input sgp-toggle theme--light v-input--selection-controls v-input--switch"><div class="v-input__control"><div class="v-input__slot"><div class="v-input--selection-controls__input"><input aria-checked="false" id="input-217" role="switch" type="checkbox" aria-disabled="false" value=""><div class="v-input--selection-controls__ripple"></div><div class="v-input--switch__track theme--light"></div><div class="v-input--switch__thumb theme--light"><!----></div></div><label for="input-217" class="v-label theme--light" style="left: 0px; right: auto; position: relative;">Exibir Tratativas Sistêmicas</label></div><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div><div class="mt-4 col col-6" cols="6"><button type="button" class="float-right ml-3 v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default grey-2"><span class="v-btn__content"><i aria-hidden="true" class="v-icon notranslate mr-2 mdi mdi-magnify theme--light" small="" style="font-size: 16px;"></i> Buscar </span></button><div data-v-d100fd8a="" outlined="" dense="" clearable="" class="float-right" style="width: 500px;"><div data-v-d100fd8a="" class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined hide-error"><div class="v-input__control"><div class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-text-field__slot"><label for="input-227" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Digite o que deseja buscar...</label><input autocomplete="on" id="input-227" type="text"></div><div class="v-input__append-inner"><div></div></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div><!----></div></div><div class="mt-4 float-right col col-2" cols="2"><button type="button" class="float-right v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default error darken-1"><span class="v-btn__content"><i aria-hidden="true" class="v-icon notranslate mr-2 mdi mdi-filter theme--light" small="" style="font-size: 16px;"></i> Filtro Avançado </span></button></div></div><aside class="px-2 pt-15 v-navigation-drawer v-navigation-drawer--close v-navigation-drawer--fixed v-navigation-drawer--is-mobile v-navigation-drawer--right v-navigation-drawer--temporary theme--light" nav="" fixed="" style="height: 100%; top: 0px; transform: translateX(100%); width: 400px;" data-booted="true"><div class="v-navigation-drawer__content"><div class="v-card v-sheet theme--light elevation-0"><div class="v-card__title text-h5 font-weight-medium"><i aria-hidden="true" class="v-icon notranslate mr-2 fa fa-filter theme--light grey--text text--darken-2" style="font-size: 36px;"></i> FILTRO AVANÇADO </div><div class="v-card__text"><div class="row"><div class="col"><div class="row"></div></div><div class="my-2 col-12"><div class="row"><div class="col"></div><div class="col col-12"><!----><div class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder v-select v-select--is-multi hide-error"><div class="v-input__control"><div role="button" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-242" class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-select__slot"><label for="input-242" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Macro Processos</label><div class="v-select__selections"><input id="input-242" readonly="readonly" type="text" aria-readonly="false" autocomplete="off"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light"></i></div></div><input type="hidden" name="ctrl_processo_id"></div><div class="v-menu"><!----></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></div><div class="col col-12"><!----><div class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder v-select v-select--is-multi hide-error"><div class="v-input__control"><div role="button" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-248" class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-select__slot"><label for="input-248" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Tarefa Origem</label><div class="v-select__selections"><input id="input-248" readonly="readonly" type="text" aria-readonly="false" autocomplete="off"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light"></i></div></div><input type="hidden" name="ctrl_tarefa_origem_id"></div><div class="v-menu"><!----></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></div><div class="col col-12"><!----><div class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder v-select v-select--is-multi hide-error"><div class="v-input__control"><div role="button" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-254" class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-select__slot"><label for="input-254" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Tarefa Destino</label><div class="v-select__selections"><input id="input-254" readonly="readonly" type="text" aria-readonly="false" autocomplete="off"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light"></i></div></div><input type="hidden" name="ctrl_tarefa_destino_id"></div><div class="v-menu"><!----></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></div><div class="col col-12"><!----><div class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder v-select v-select--is-multi hide-error"><div class="v-input__control"><div role="button" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-260" class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-select__slot"><label for="input-260" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Tratativa</label><div class="v-select__selections"><input id="input-260" readonly="readonly" type="text" aria-readonly="false" autocomplete="off"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light"></i></div></div><input type="hidden" name="ctrl_tratativa_id"></div><div class="v-menu"><!----></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></div><div class="col"><div class="row no-gutters" no-gutters=""><div class="col-sm-12 mb-6"><div data-v-a7fe119c=""><div data-v-a7fe119c="" class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined hide-error"><div class="v-input__control"><div class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-text-field__slot"><label for="input-268" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Data Início</label><input role="button" aria-haspopup="true" aria-expanded="false" id="input-268" type="text"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-calendar theme--light"></i></div></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div><div data-v-a7fe119c="" class="v-dialog__container"><!----></div></div></div></div><div class="row no-gutters" no-gutters=""><div class="col-sm-12 mb-6"><div data-v-a7fe119c=""><div data-v-a7fe119c="" class="v-input v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined hide-error"><div class="v-input__control"><div class="v-input__slot"><fieldset aria-hidden="true"><legend style="width: 0px;"><span class="notranslate">​</span></legend></fieldset><div class="v-text-field__slot"><label for="input-275" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Data Fim</label><input role="button" aria-haspopup="true" aria-expanded="false" id="input-275" type="text"></div><div class="v-input__append-inner"><div class="v-input__icon v-input__icon--append"><i aria-hidden="true" class="v-icon notranslate mdi mdi-calendar theme--light"></i></div></div></div><div class="v-text-field__details"><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div><div data-v-a7fe119c="" class="v-dialog__container"><!----></div></div></div></div><div class="row no-gutters" no-gutters=""><div class="col"><div data-v-78e19271="" class="v-input sgp-toggle theme--light v-input--selection-controls v-input--switch"><div class="v-input__control"><div class="v-input__slot"><div class="v-input--selection-controls__input"><input aria-checked="false" id="input-282" role="switch" type="checkbox" aria-disabled="false" value=""><div class="v-input--selection-controls__ripple"></div><div class="v-input--switch__track theme--light"></div><div class="v-input--switch__thumb theme--light"><!----></div></div><label for="input-282" class="v-label theme--light" style="left: 0px; right: auto; position: relative;">Meus Históricos</label></div><div class="v-messages theme--light"><div class="v-messages__wrapper"></div></div></div></div></div></div></div><div class="col col-12"><button type="button" class="mr-1 v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default primary"><span class="v-btn__content">Filtrar</span></button><button type="button" class="v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default grey-5"><span class="v-btn__content">Limpar</span></button></div></div></div></div></div></div></div><div class="v-navigation-drawer__border"></div></aside><div role="tablist" class="accordion"><div><div class="list-group mb-1 lista-tratativas"><div class="list-group-item"><div class="d-flex justify-content-between trativa-linha-0 not-collapsed" role="button" tabindex="0" aria-expanded="true" aria-controls="accordion-4321964" style="overflow-anchor: none;"><span variant="light" class="font-size-15 mt-1 mb-1" style="display: block;"><span style="margin-right: 20px;"><strong>Stefany Caroline Villani Miranda da Silva</strong> 03/04/2024, 09:38:00 </span><span style="margin-right: 20px;"><strong>MACRO PROCESSO:</strong> Preparar Ativação <br></span><span style="margin-right: 20px;"><strong>TRATATIVA:</strong> Avançar </span><!----><strong>TAREFA ORIGEM:</strong><span> PA0201 - Agendar Atividade (6.6) (ESTEIRA) </span><span> / <strong>TAREFA DESTINO:</strong><span><!----> PA0301 - Gerar Ordens de Serviço (6.16) <span> (ESTEIRA) </span></span></span><br></span><i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div><div class="ids"><strong>ID:</strong> 2447495 / <strong>TRATAMENTO_ID:</strong> 4321964 <!----></div><div><div id="accordion-4321964" class="my-6 collapse show" role="tabpanel"><span><div class="mt-10"><div class="row"><div class="col-xs-12"><div class="row"><h4 class="mb-5 mt-5">PA0301 Gerar Ordens de Serviço (6.16)</h4><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-1_label" for="formulate--sgp-ficha-tecnica-2453958-1" class="formulate-input-label formulate-input-label--before">Atividade</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Descrição da atividade que será realizada no cliente" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-1" name="atividade"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-2_label" for="formulate--sgp-ficha-tecnica-2453958-2" class="formulate-input-label formulate-input-label--before">POP PRIO</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-2" name="observacao_agendamento"><!----> <option value="N/A">N/A</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="text" data-has-value="true" data-type="datetime-local" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-3_label" for="formulate--sgp-ficha-tecnica-2453958-3" class="formulate-input-label formulate-input-label--before">Data/Hora Pré-Agendada</label> <!----> <div data-type="datetime-local" class="formulate-input-element formulate-input-element--datetime-local"><!----> <input type="datetime-local" placeholder="Data e Hora Agendada" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-3" name="datahora_pre_agendamento"> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-4_label" for="formulate--sgp-ficha-tecnica-2453958-4" class="formulate-input-label formulate-input-label--before">Justificar se Data/Hora Superior a 48h</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-4" name="justificativa_agen"><!----> <option value="N/A">N/A</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-5_label" for="formulate--sgp-ficha-tecnica-2453958-5" class="formulate-input-label formulate-input-label--before">Contato que Agendou</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Contato do cliente que realizou o agendamento" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-5" name="contato_agendou"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-6_label" for="formulate--sgp-ficha-tecnica-2453958-6" class="formulate-input-label formulate-input-label--before">E-mail que Agendou</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="E-mail do cliente que realizou o agendamento" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-6" name="email_agendou"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-7_label" for="formulate--sgp-ficha-tecnica-2453958-7" class="formulate-input-label formulate-input-label--before">Contato que Validará a Atividade</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Contato do cliente que validará a atividade" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-7" name="contato_validacao_atividade"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-8_label" for="formulate--sgp-ficha-tecnica-2453958-8" class="formulate-input-label formulate-input-label--before">Contato Local do Cliente</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Contato do cliente que receberá o técnico" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-8" name="contato_local_cliente"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-9_label" for="formulate--sgp-ficha-tecnica-2453958-9" class="formulate-input-label formulate-input-label--before">Pesquisa - Acionamento do Cliente</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-9" name="pesquisa_acionamento_cliente"><!----> <option value="Fora do Centralizado">Fora do Centralizado</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-10_label" for="formulate--sgp-ficha-tecnica-2453958-10" class="formulate-input-label formulate-input-label--before">Responsável pelo Agendamento</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-10" name="responsavel_agen"><!----> <option value="Coordenação">Coordenação</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="text" data-has-value="true" data-type="text" class="formulate-input col-md-4"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-11_label" for="formulate--sgp-ficha-tecnica-2453958-11" class="formulate-input-label formulate-input-label--before">OS AGEN</label> <!----> <div data-type="text" class="formulate-input-element formulate-input-element--text"><!----> <input type="text" placeholder="OS aberta para o técnico da ativação" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-11" name="os_agen"> <!----></div> <!----></div> <!----> <!----></div><!----><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-12_label" for="formulate--sgp-ficha-tecnica-2453958-12" class="formulate-input-label formulate-input-label--before">Infra pronta</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-12" name="infra_pronta"><!----> <option value="Sim">Sim</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-13_label" for="formulate--sgp-ficha-tecnica-2453958-13" class="formulate-input-label formulate-input-label--before">Cliente ciente da paralização</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-13" name="cliente_ciente_paralizacao"><!----> <option value="Sim">Sim</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-14_label" for="formulate--sgp-ficha-tecnica-2453958-14" class="formulate-input-label formulate-input-label--before">Integração</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-14" name="integracao"><!----> <option value="Não">Não</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-4 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-15_label" for="formulate--sgp-ficha-tecnica-2453958-15" class="formulate-input-label formulate-input-label--before">Atuação Mantenedor</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-15" name="atuacao_mantenedor"><!----> <option value="Presencial">Presencial</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-6 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-16_label" for="formulate--sgp-ficha-tecnica-2453958-16" class="formulate-input-label formulate-input-label--before">Tipo de Ambiente</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-16" name="tipo_ambiente"><!----> <option value="Endereço Comum">Endereço Comum</option></select> <!----></div> <!----></div> <!----> <!----></div><div data-classification="select" data-has-value="true" data-type="select" class="formulate-input col-md-6 select-readonly"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-17_label" for="formulate--sgp-ficha-tecnica-2453958-17" class="formulate-input-label formulate-input-label--before">Enviar Técnico Ponta</label> <!----> <div data-type="select" class="formulate-input-element formulate-input-element--select select-readonly"><!----> <select readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-17" name="enviar_tecnico_ponta"><!----> <option value="A">A</option></select> <!----></div> <!----></div> <!----> <!----></div><!----><!----></div></div></div></div></span></div></div></div></div></div><div><div class="list-group mb-1 lista-tratativas"><div class="list-group-item"><div class="d-flex justify-content-between trativa-linha-1 collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="accordion-4316125" style="overflow-anchor: none;"><span variant="light" class="font-size-15 mt-1 mb-1" style="display: block;"><span style="margin-right: 20px;"><strong>BIANCA SOARES GARCÊS</strong> 02/04/2024, 15:28:42 </span><span style="margin-right: 20px;"><strong>MACRO PROCESSO:</strong> Preparar Ativação <br></span><span style="margin-right: 20px;"><strong>TRATATIVA:</strong> Atualização Agendamento </span><!----><strong>TAREFA ORIGEM:</strong><span> PA0201 - Agendar Atividade (6.6) (ESTEIRA) </span><!----><br></span><i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div><div class="ids"><strong>ID:</strong> 2447495 / <strong>TRATAMENTO_ID:</strong> 4316125 <!----></div><div><div id="accordion-4316125" class="my-6 collapse" role="tabpanel" style="display: none;"><span><div class="mt-10"><div class="row"><div class="col-xs-12"><div class="row"><h4 class="mb-5 mt-5">Data/Hora Pré-Agendamento</h4><div data-classification="text" data-has-value="true" data-type="datetime-local" class="formulate-input"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-18_label" for="formulate--sgp-ficha-tecnica-2453958-18" class="formulate-input-label formulate-input-label--before">Data/Hora Pré-Agendada</label> <!----> <div data-type="datetime-local" class="formulate-input-element formulate-input-element--datetime-local"><!----> <input type="datetime-local" placeholder="Data e Hora Agendada" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-18" name="datahora_pre_agendamento"> <!----></div> <!----></div> <!----> <!----></div><!----></div></div></div></div></span></div></div></div></div></div><div><div class="list-group mb-1 lista-tratativas"><div class="list-group-item"><div class="d-flex justify-content-between trativa-linha-0 collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="accordion-4315537" style="overflow-anchor: none;"><span variant="light" class="font-size-15 mt-1 mb-1" style="display: block;"><span style="margin-right: 20px;"><strong>Eustáquio Batista Jota</strong> 02/04/2024, 15:04:25 </span><span style="margin-right: 20px;"><strong>MACRO PROCESSO:</strong> Preparar Ativação <br></span><span style="margin-right: 20px;"><strong>TRATATIVA:</strong> Atualização Coordenação </span><!----><strong>TAREFA ORIGEM:</strong><span> PA0201 - Agendar Atividade (6.6) (ESTEIRA) </span><!----><br></span><i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div><div class="ids"><strong>ID:</strong> 2447495 / <strong>TRATAMENTO_ID:</strong> 4315537 <!----></div><div><div id="accordion-4315537" class="my-6 collapse" role="tabpanel" style="display: none;"><span><div class="mt-10"><div class="row"><div class="col-xs-12"><div class="row"><h4 class="mb-5 mt-5">Coordenação - Projeto</h4><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-19_label" for="formulate--sgp-ficha-tecnica-2453958-19" class="formulate-input-label formulate-input-label--before">Projeto</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Projeto" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-19" name="txtNome_proj"></textarea> <!----></div> <!----></div> <!----> <!----></div><div data-classification="text" data-has-value="true" data-type="text" class="formulate-input"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-20_label" for="formulate--sgp-ficha-tecnica-2453958-20" class="formulate-input-label formulate-input-label--before">Nome da Dependência do Cliente</label> <!----> <div data-type="text" class="formulate-input-element formulate-input-element--text"><!----> <input type="text" placeholder="Nome da Dependência do Cliente" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-20" name="txtDependencia"> <!----></div> <!----></div> <!----> <!----></div><div data-classification="text" data-has-value="true" data-type="text" class="formulate-input"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-21_label" for="formulate--sgp-ficha-tecnica-2453958-21" class="formulate-input-label formulate-input-label--before">IDP</label> <!----> <div data-type="text" class="formulate-input-element formulate-input-element--text"><!----> <input type="text" placeholder="IDP" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-21" name="txtIDP"> <!----></div> <!----></div> <!----> <!----></div></div></div></div></div></span></div></div></div></div></div><div><div class="list-group mb-1 lista-tratativas"><div class="list-group-item"><div class="d-flex justify-content-between trativa-linha-1 collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="accordion-4315389" style="overflow-anchor: none;"><span variant="light" class="font-size-15 mt-1 mb-1" style="display: block;"><span style="margin-right: 20px;"><strong>BIANCA SOARES GARCÊS</strong> 02/04/2024, 14:58:04 </span><span style="margin-right: 20px;"><strong>MACRO PROCESSO:</strong> Preparar Ativação <br></span><span style="margin-right: 20px;"><strong>TRATATIVA:</strong> Solicitação de Alteração de Tarefa </span><!----><strong>TAREFA ORIGEM:</strong><span> PA0201 - Agendar Atividade (6.6) (ESTEIRA) </span><!----><br></span><i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div><div class="ids"><strong>ID:</strong> 2447495 / <strong>TRATAMENTO_ID:</strong> 4315389 <!----></div><div><div id="accordion-4315389" class="my-6 collapse" role="tabpanel" style="display: none;"><span><div class="mt-10"><div class="row"><div class="col-xs-12"><div class="row"><h4 class="mb-5 mt-5">Incluir Solicitação de Mobilidade</h4><div data-classification="textarea" data-has-value="true" data-type="textarea" class="formulate-input"><div class="formulate-input-wrapper"><label id="formulate--sgp-ficha-tecnica-2453958-22_label" for="formulate--sgp-ficha-tecnica-2453958-22" class="formulate-input-label formulate-input-label--before">Descrição</label> <!----> <div data-type="textarea" class="formulate-input-element formulate-input-element--textarea"><!----> <textarea placeholder="Descrição" readonly="readonly" id="formulate--sgp-ficha-tecnica-2453958-22" name="desc_solicitacao_mob"></textarea> <!----></div> <!----></div> <!----> <!----></div><!----><!----></div></div></div></div></span></div></div></div></div></div><div><div class="list-group mb-1 lista-tratativas"><div class="list-group-item"><div class="d-flex justify-content-between trativa-linha-0 collapsed" role="button" tabindex="0" aria-expanded="false" aria-controls="accordion-4306635" style="overflow-anchor: none;"><span variant="light" class="font-size-15 mt-1 mb-1" style="display: block;"><span style="margin-right: 20px;"><strong>SGP User</strong> 01/04/2024, 19:41:02 </span><span style="margin-right: 20px;"><strong>MACRO PROCESSO:</strong> Preparar Ativação <br></span><span style="margin-right: 20px;"><strong>TRATATIVA:</strong> Avançar </span><!----><strong>TAREFA ORIGEM:</strong><span> PA0101 - Triar ação técnica (6.4) (ESTEIRA) </span><span> / <strong>TAREFA DESTINO:</strong> PA0201 - Agendar Atividade (6.6) <span> (ESTEIRA) </span><br></span><br></span><i aria-hidden="true" class="v-icon notranslate when-closed float-right mdi mdi-chevron-down-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i><i aria-hidden="true" class="v-icon notranslate when-open float-right mdi mdi-chevron-up-circle theme--light" color="#444444" style="color: rgb(68, 68, 68); caret-color: rgb(68, 68, 68);"></i></div><div class="ids"><strong>ID:</strong> 2447494 / <strong>TRATAMENTO_ID:</strong> 4306635 <!----></div><div><div id="accordion-4306635" class="my-6 collapse" role="tabpanel" style="display: none;"><span></span></div></div></div></div></div></div><div class="d-flex justify-content-center pa-4"><button type="button" class="v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default primary"><span class="v-btn__content"> Carregar Mais </span></button></div></div></div></div><!----><!----></div><!----><!----><!----><!----><!----><!----><!----></div></div></div></div></div></div></main></div></div><script src="/js/chunk-vendors.362f756a.js"></script><script src="/js/app.2c52631c.js"></script><div><div><div class="Vue-Toastification__container top-left"></div></div><div><div class="Vue-Toastification__container top-center"></div></div><div><div class="Vue-Toastification__container top-right"></div></div><div><div class="Vue-Toastification__container bottom-left"></div></div><div><div class="Vue-Toastification__container bottom-center"></div></div><div><div class="Vue-Toastification__container bottom-right"></div></div></div></body></html>
