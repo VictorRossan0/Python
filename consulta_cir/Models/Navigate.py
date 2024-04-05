@@ -2,6 +2,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
+import pytesseract
+import cv2
 import pyautogui
 import time
 
@@ -137,26 +139,86 @@ class Navigate:
         
         # Clicar no "Aprovisionar Serviço"
         print("Clicando em Aprovisionar Serviço")
-        aprovisionar_servico_x = 1811  # Coordenada x do botão "Aprovisionar Serviço"
-        aprovisionar_servico_y = 649  # Coordenada y do botão "Aprovisionar Serviço"
-        pyautogui.click(aprovisionar_servico_x, aprovisionar_servico_y)
+        
+        # Captura a tela inteira
+        screenshot = pyautogui.screenshot()
+
+        # Salva a imagem
+        screenshot.save('Images/screenshot.png')
+        
+        # Passo 1: Ler a primeira imagem
+        imagem_1 = cv2.imread("Images/screenshot.png")
+
+        # Passo 2: Extrair texto da primeira imagem
+        texto_1 = pytesseract.image_to_string(imagem_1, lang="por")
+
+        # Procura pelo texto "Aprovisionar Serviço" na tela capturada
+        if "Aprovisionar Serviço" in texto_1:
+            # Localiza o centro do botão na tela
+            posicao_botao = pyautogui.locateCenterOnScreen('Images/aprovisionar_servico.png')
+            if posicao_botao:
+                x, y = posicao_botao
+                pyautogui.click(x, y)
+            else:
+                print("Botão 'Aprovisionar Serviço' não encontrado na tela")
+        else:
+            print("Texto 'Aprovisionar Serviço' não encontrado na tela")
+
+        time.sleep(3)
+        pyautogui.scroll(-100)
+        pyautogui.scroll(-100)
+        pyautogui.scroll(-100)
+        screenshot2 = pyautogui.screenshot()
+        screenshot2.save('Images/screenshot2.png')
         time.sleep(3)
         
         # Extrair informações dos campos específicos
         print("Clicando em Atividade Remota")
-        atividade_remota_x = 573  # Coordenada x do campo "Atividade Remota"
-        atividade_remota_y = 842  # Coordenada y do campo "Atividade Remota"
-        pyautogui.doubleClick(atividade_remota_x, atividade_remota_y)
+        # Passo 1: Ler a segunda imagem
+        imagem_2 = cv2.imread("Images/screenshot2.png")
+
+        # Passo 2: Extrair texto da segunda imagem
+        texto_2 = pytesseract.image_to_string(imagem_2, lang="por")
+
+        # Procura pelo texto "Atividade Remota" na tela capturada
+        if "Atividade Remota" in texto_2:
+            # Localiza o centro do botão na tela
+            posicao_botao = pyautogui.locateCenterOnScreen('Images/atividade_remota.png', confidence=0.9)
+            print(posicao_botao)
+            if posicao_botao:
+                x, y = posicao_botao
+                pyautogui.moveTo(x, y)
+                pyautogui.move(300, 0)
+                pyautogui.doubleClick()
+            else:
+                print("Botão 'Atividade Remota' não encontrado na tela")
+        else:
+            print("Texto 'Atividade Remota' não encontrado na tela")
         time.sleep(3)
         
         print("Clicando em Agendamento PCL")
-        agendamento_pcl_x = 1457  # Coordenada x do campo "Agendamento PCL"
-        agendamento_pcl_y = 703  # Coordenada y do campo "Agendamento PCL"
-        pyautogui.doubleClick(agendamento_pcl_x, agendamento_pcl_y)
+        # agendamento_pcl_x = 1457  # Coordenada x do campo "Agendamento PCL"
+        # agendamento_pcl_y = 703  # Coordenada y do campo "Agendamento PCL"
+        # pyautogui.doubleClick(agendamento_pcl_x, agendamento_pcl_y)
+        # Procura pelo texto "Atividade Remota" na tela capturada
+        if "Agendamento PCL" in texto_2:
+            # Localiza o centro do botão na tela
+            posicao_botao = pyautogui.locateCenterOnScreen('Images/pcl.png', confidence=0.9)
+            print(posicao_botao)
+            if posicao_botao:
+                x, y = posicao_botao
+                pyautogui.moveTo(x, y)
+                pyautogui.move(300, 0)
+                pyautogui.doubleClick()
+            else:
+                print("Botão 'Agendamento PCL' não encontrado na tela")
+        else:
+            print("Texto 'Agendamento PCL' não encontrado na tela")
         time.sleep(3)
         
         print("Movendo a página Novamente")
         pyautogui.scroll(700)  # Exemplo de rolar 700 pixels para cima
+        pyautogui.scroll(700)
         pyautogui.scroll(700)
         pyautogui.scroll(700)
         time.sleep(3)
