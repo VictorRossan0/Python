@@ -197,9 +197,6 @@ class Navigate:
         time.sleep(3)
         
         print("Clicando em Agendamento PCL")
-        # agendamento_pcl_x = 1457  # Coordenada x do campo "Agendamento PCL"
-        # agendamento_pcl_y = 703  # Coordenada y do campo "Agendamento PCL"
-        # pyautogui.doubleClick(agendamento_pcl_x, agendamento_pcl_y)
         # Procura pelo texto "Atividade Remota" na tela capturada
         if "Agendamento PCL" in texto_2:
             # Localiza o centro do botão na tela
@@ -251,7 +248,7 @@ class Navigate:
         pyautogui.scroll(-250)
         time.sleep(3)
         
-        print("Clicando em SOLID") #Dentro de Carimbo ou Dentro da div onde consta Definir Solução de Acesso/SOL-ID CLA ou Preparar Ativação/Informação Adicional para Agendamento
+        print("Clicando em SOLID") # Dentro de Carimbo ou Dentro da div onde consta Definir Solução de Acesso/SOL-ID CLA ou Preparar Ativação/Informação Adicional para Agendamento
         solid_x = 237  # Coordenada x do campo "SOLID"
         solid_y = 357  # Coordenada y do campo "SOLID"
         pyautogui.doubleClick(solid_x, solid_y)

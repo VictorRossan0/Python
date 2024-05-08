@@ -55,8 +55,7 @@ def extrair_info_lideres():
 
             # Convertendo a estrutura combinada para uma string formatada
 
-            json_formatado = json.dumps(espnfitt_data['page']['content']['statistics']['leaders'], indent=2,
-                                        ensure_ascii=False)
+            json_formatado = json.dumps(espnfitt_data['page']['content']['statistics']['leaders'], indent=2, ensure_ascii=False)
 
             # Escrevendo o conteúdo no arquivo
             with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
@@ -85,8 +84,7 @@ def extrair_info_lideres():
                         stat_value = leader['statValue']
 
                         df_geral = pd.concat([df_geral, pd.DataFrame(
-                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team],
-                             'Valor': [stat_value]})])
+                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team], 'Valor': [stat_value]})])
 
                 for group in leaders_defensivos:
                     header = group['header']
@@ -99,8 +97,7 @@ def extrair_info_lideres():
                         stat_value = leader['statValue']
 
                         df_geral = pd.concat([df_geral, pd.DataFrame(
-                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team],
-                             'Valor': [stat_value]})])
+                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team], 'Valor': [stat_value]})])
 
                 # Salvar DataFrame em arquivo Excel
                 caminho_excel = 'Excel/leaders_nba.xlsx'

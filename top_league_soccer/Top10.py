@@ -5,7 +5,7 @@ from Models.eredivisie import eredivisie
 from Models.premier_russia import premier_russia
 from Models.primeira_liga import primeira_liga
 from Models.super_lig import super_lig
-from Models.tipico_bundesliga import tipico_bundesliga
+from Models.brasileirao import brasileirao
 
 
 def criar_novo_excel():
@@ -17,7 +17,7 @@ def criar_novo_excel():
     premier_russia()
     primeira_liga()
     super_lig()
-    tipico_bundesliga()
+    brasileirao()
     
     # Abre os arquivos Excel existentes
     wb_bundesliga = load_workbook('Excel/dados_bundesliga.xlsx')
@@ -29,7 +29,7 @@ def criar_novo_excel():
     wb_primeira_liga = load_workbook('Excel/dados_primeira_liga.xlsx')
     wb_serieA = load_workbook('Excel/dados_serieA.xlsx')
     wb_super_lig = load_workbook('Excel/dados_super_lig.xlsx')
-    wb_tipico = load_workbook('Excel/dados_tipico_bundesliga.xlsx')
+    wb_brasileirao = load_workbook('Excel/dados_tabela_brasileirao.xlsx')
 
     # Copia as abas para o novo arquivo Excel
     for sheet in wb_bundesliga.sheetnames:
@@ -95,8 +95,8 @@ def criar_novo_excel():
             values = [cell.value for cell in row]
             ws_novo.append(values)
     
-    for sheet in wb_tipico.sheetnames:
-        ws = wb_tipico[sheet]
+    for sheet in wb_brasileirao.sheetnames:
+        ws = wb_brasileirao[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]

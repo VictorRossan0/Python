@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Importação Metabase Financeiro</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="logo-container">
+            <img src="https://globalhitss.com/br/wp-content/uploads/2024/03/logo_BR-no-copy.png" alt="Globalhitss Logo" id="logo">
+        </div>
+        
+        <h2>Importação Metabase Financeiro</h2>
+
+        <div class="col-sm-8">
+            <h2>Procedimento</h2>
+            <p>Para garantir uma importação perfeita no Banco de Dados do Metabase Financeiro, siga as etapas abaixo:</p>
+            <ol>
+                <li>Verifique o arquivo fornecido por Kelvin para garantir que não exista nenhum 'IdOper' diferente dos valores existentes na tabela operacoes (1 ao 24).</li>
+                <li>Após verificar e remover esses 'IdOper' do arquivo, prossiga com a conversão do arquivo.</li>
+                <li>Selecione o arquivo CSV e converta-o para o formato Excel.</li>
+                <li>Selecione o arquivo Excel baixado automaticamente e ajuste as colunas conforme necessário.</li>
+                <li>Importe o arquivo Excel baixado automaticamente para o Banco de Dados.</li>
+            </ol>
+        </div>
+
+        <div class="form-column">
+            <h2>Converter CSV para Excel</h2>
+            <form action="/convert_csv_to_excel" method="POST" enctype="multipart/form-data">
+                <input type="file" name="csv_file" accept=".csv">
+                <input type="submit" value="Converter para Excel">
+            </form>
+        </div>        
+
+        <div class="form-column">
+            <h2>Converter Tipos de Colunas</h2>
+            <form action="/process_excel" method="POST" enctype="multipart/form-data">
+                <input type="file" name="excel_file" accept=".xlsx">
+                <input type="submit" value="Converter Tipos de Colunas">
+            </form>
+        </div>
+
+        <div class="form-column">
+            <h2>Importar Dados para o Banco de Dados</h2>
+            <form action="/import_data" method="POST" enctype="multipart/form-data">
+                <input type="file" name="csv_file" accept=".csv">
+                <input type="submit" value="Importar Dados para o Banco de Dados">
+            </form>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+</body>
+</html>

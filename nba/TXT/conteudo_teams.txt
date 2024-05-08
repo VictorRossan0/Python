@@ -4,36 +4,36 @@
     "mode": "universal",
     "apiEnv": "production",
     "envName": "prod",
-    "cdnPath": "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client",
+    "cdnPath": "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client",
     "allowMocks": true,
     "mockDataPort": 1981,
     "excludePageCSS": false,
     "assets": {
       "chunks": [
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/runtime-28e14236.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/8126-f8993b3e.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/3242-7f1f5451.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/9264-abee4af7.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/4857-fae90ea1.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/4682-8f4330c5.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/7984-56cc3d1e.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/6746-1d128225.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/3768-8714c3eb.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/9946-ec3bda7e.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/1607-02b43a89.js"
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/runtime-c6c2c67b.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/4855-1039a039.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/3242-bc68d9dc.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/9264-abee4af7.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/4857-fae90ea1.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/4682-8f4330c5.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/7984-56cc3d1e.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/6746-1d128225.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/3768-8714c3eb.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/9946-06f314c6.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/1607-02b43a89.js"
       ],
       "entries": [
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/espn-pt-br-9c067a69.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/espnfitt-648da908.js",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/stats-3c4103c1.js"
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/espn-pt-br-dadd5741.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/espnfitt-51f1e769.js",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/stats-c685919c.js"
       ],
       "css": [
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/8126-ea8df18a.css",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/espnfitt-752f93be.css",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/fusion-7aca9e16.css",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/2708-978242b4.css",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/1992-10b8e461.css",
-        "//cdn1.espn.net/fitt/d9ce3698eabb-release-03-13-2024.2.0.617/client/espnfitt/css/stats-9ff555d7.css"
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/4855-49e522d3.css",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/espnfitt-8dbc0d09.css",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/fusion-3e63fc39.css",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/2149-f8f14c08.css",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/1992-10b8e461.css",
+        "//cdn1.espn.net/fitt/e357aeeccd5d-release-04-24-2024.2.0.754/client/espnfitt/css/stats-b0a8baf1.css"
       ]
     },
     "device": "desktop",
@@ -239,6 +239,7 @@
       "oddsStrip": true,
       "oneIDV4": true,
       "playerFollowing": true,
+      "contributorFollowing": false,
       "siteBroadcast": true,
       "browerDeprecation": true,
       "gateFavorites": true,
@@ -262,7 +263,7 @@
       "deflateZips": false,
       "enablePWA": true,
       "disableBet365": false,
-      "enableMarketplace": false,
+      "enableMarketplace": true,
       "enableGamecastSponsoredAd": false,
       "enableHuluPromo": false,
       "enableScoreboardPromo": false,
@@ -270,7 +271,8 @@
       "enableWatchHeaderVideoPromo": true,
       "disableAmp": true,
       "enableFlagship": false,
-      "fittRoutes": true
+      "fittRoutes": true,
+      "enableCBHLTest": false
     },
     "footer": {
       "ad": {
@@ -2106,6 +2108,12 @@
           "qa": true,
           "prod": true
         },
+        "contributorFollowing": {
+          "local": false,
+          "sandbox": false,
+          "qa": false,
+          "prod": false
+        },
         "siteBroadcast": {
           "edition": "espn-en",
           "config": {
@@ -2265,7 +2273,7 @@
           "local": true,
           "sandbox": true,
           "qa": true,
-          "prod": false
+          "prod": true
         },
         "enableGamecastSponsoredAd": {
           "local": false,
@@ -2335,6 +2343,12 @@
             "(mlb|nhl|nba|wnba|nfl|mens-college-basketball|womens-college-basketball|college-football|soccer)\\/team",
             "(mlb|nba|wnba|nba-summer-league|nba-g-league|nbl|mens-college-basketball|womens-college-basketball|mens-olympics-basketball|womens-olympics-basketball|nfl|college-football|world-baseball-classic|caribbean-series|soccer|college-softball|college-baseball)\\/(match|boxscore|game|matchup|playbyplay|preview|recap|video|lineups|matchstats|commentary|report|verslag)"
           ]
+        },
+        "enableCBHLTest": {
+          "local": true,
+          "sandbox": true,
+          "qa": true,
+          "prod": false
         }
       },
       "ab": {
@@ -2565,6 +2579,12 @@
           "qa": true,
           "prod": true
         },
+        "contributorFollowing": {
+          "local": false,
+          "sandbox": false,
+          "qa": false,
+          "prod": false
+        },
         "siteBroadcast": {
           "edition": "espn-en",
           "config": {
@@ -2724,7 +2744,7 @@
           "local": true,
           "sandbox": true,
           "qa": true,
-          "prod": false
+          "prod": true
         },
         "enableGamecastSponsoredAd": {
           "local": false,
@@ -2794,6 +2814,12 @@
             "(mlb|nhl|nba|wnba|nfl|mens-college-basketball|womens-college-basketball|college-football|soccer)\\/team",
             "(mlb|nba|wnba|nba-summer-league|nba-g-league|nbl|mens-college-basketball|womens-college-basketball|mens-olympics-basketball|womens-olympics-basketball|nfl|college-football|world-baseball-classic|caribbean-series|soccer|college-softball|college-baseball)\\/(match|boxscore|game|matchup|playbyplay|preview|recap|video|lineups|matchstats|commentary|report|verslag)"
           ]
+        },
+        "enableCBHLTest": {
+          "local": true,
+          "sandbox": true,
+          "qa": true,
+          "prod": false
         }
       }
     },
@@ -3980,8 +4006,8 @@
     "title": "",
     "type": "stats",
     "meta": {
-      "title": "Líderes de estatísticas NBA Time - 2023-24 Temporada regular - ESPN (BR)",
-      "description": "Os líderes de estatísticas do NBA Temporada regular Time de 2023-24 na ESPN (BR). Inclui os líderes de estatísticas em cada categoria, de pontos e assistências a rebotes e tocos.",
+      "title": "Líderes de estatísticas NBA Time - 2023-24 Pós-temporada - ESPN (BR)",
+      "description": "Os líderes de estatísticas do NBA Pós-temporada Time de 2023-24 na ESPN (BR). Inclui os líderes de estatísticas em cada categoria, de pontos e assistências a rebotes e tocos.",
       "canonical": "https://www.espn.com.br/nba/estatisticas/_/vista/time",
       "robots": "",
       "ogMetadata": {
@@ -4010,6 +4036,11 @@
           "key": "en-za",
           "region": "za",
           "url": "https://africa.espn.com/nba/stats/_/view/team"
+        },
+        {
+          "key": "en-au",
+          "region": "au",
+          "url": "https://www.espn.com.au/nba/stats/_/view/team"
         },
         {
           "key": "es-ve",
@@ -5570,15 +5601,15 @@
           },
           {
             "l": {
-              "t": "eSports",
+              "t": "Olimpíadas",
               "w": {
                 "a": {
-                  "icon": "esports"
+                  "icon": "olympics"
                 },
-                "h": "/esports/"
+                "h": "/olimpiada/"
               }
             },
-            "t": "Esports",
+            "t": "Olimpíadas",
             "i": [
               {
                 "l": {
@@ -5588,46 +5619,63 @@
                       "mobile": "false",
                       "breakpoints": "desktop,desktop-lg"
                     },
-                    "h": "/esports/"
+                    "h": "/olimpiada/"
                   }
                 },
-                "id": 3624040
+                "id": 3623988
               },
               {
                 "l": {
-                  "t": "Tudo Sobre EA Sports FC 24",
+                  "t": "Calendário",
                   "w": {
-                    "h": "https://www.espn.com.br/esports/artigo/_/id/12513791/tudo-sobre-ea-sports-fc-24-dicas-ultimate-team-esports-muito-mais-tuto-guias-tutoriais"
+                    "h": "/olimpiada/inverno/2022/calendario"
                   }
                 },
-                "id": 12545177
+                "id": 8755629
               },
               {
                 "l": {
-                  "t": "Tudo Sobre Counter-Strike 2",
+                  "t": "Resultados",
                   "w": {
-                    "h": "https://www.espn.com.br/esports/artigo/_/id/12108849/tudo-sobre-counter-strike-2-guias-dicas-esports-muito-mais"
+                    "h": "/olimpiada/inverno/2022/resultados"
                   }
                 },
-                "id": 8058506
+                "id": 8755630
               },
               {
                 "l": {
-                  "t": "Tudo Sobre o CBLOL 24",
+                  "t": "Quadro de Medalhas",
                   "w": {
-                    "e": true,
-                    "h": "https://www.espn.com.br/esports/artigo/_/id/13108430/guia-cblo-escalacoes-times-datas-ingressos-formato-muito-mais-primeira-etapa-2024"
+                    "h": "/olimpiada/inverno/2022/medalhas/_/vs-division/overall/sort/gold"
                   }
                 },
-                "id": 12095425
+                "id": 3712372
+              },
+              {
+                "l": {
+                  "t": "Esportes de Inverno ",
+                  "w": {
+                    "h": "/olimpiada/inverno/2022/esportes"
+                  }
+                },
+                "id": 9767067
+              },
+              {
+                "l": {
+                  "t": "Esportes de Verão",
+                  "w": {
+                    "h": "/olimpiada/verao/2020/esportes"
+                  }
+                },
+                "id": 3648411
               }
             ],
             "a": {
-              "root": "esports",
-              "sport_id": "8367"
+              "root": "olympics",
+              "sport_id": "3700"
             },
-            "id": 3608105,
-            "lbl": "ESPN Esports Home"
+            "id": 3608283,
+            "lbl": "ESPN Olimpíadas Home"
           },
           {
             "t": "More Sports",
@@ -5642,6 +5690,66 @@
             },
             "id": 2467476,
             "i": [
+              {
+                "l": {
+                  "t": "eSports",
+                  "w": {
+                    "a": {
+                      "icon": "esports"
+                    },
+                    "h": "/esports/"
+                  }
+                },
+                "t": "Esports",
+                "i": [
+                  {
+                    "l": {
+                      "t": "Notícias",
+                      "w": {
+                        "a": {
+                          "mobile": "false",
+                          "breakpoints": "desktop,desktop-lg"
+                        },
+                        "h": "/esports/"
+                      }
+                    },
+                    "id": 3624040
+                  },
+                  {
+                    "l": {
+                      "t": "Tudo Sobre EA Sports FC 24",
+                      "w": {
+                        "h": "https://www.espn.com.br/esports/artigo/_/id/12513791/tudo-sobre-ea-sports-fc-24-dicas-ultimate-team-esports-muito-mais-tuto-guias-tutoriais"
+                      }
+                    },
+                    "id": 12545177
+                  },
+                  {
+                    "l": {
+                      "t": "Tudo Sobre Counter-Strike 2",
+                      "w": {
+                        "h": "https://www.espn.com.br/esports/artigo/_/id/12108849/tudo-sobre-counter-strike-2-guias-dicas-esports-muito-mais"
+                      }
+                    },
+                    "id": 8058506
+                  },
+                  {
+                    "l": {
+                      "t": "Tudo Sobre o CBLOL 24",
+                      "w": {
+                        "e": true,
+                        "h": "https://www.espn.com.br/esports/artigo/_/id/13108430/guia-cblo-escalacoes-times-datas-ingressos-formato-muito-mais-primeira-etapa-2024"
+                      }
+                    },
+                    "id": 12095425
+                  }
+                ],
+                "a": {
+                  "root": "esports",
+                  "sport_id": "8367"
+                },
+                "id": 3608105
+              },
               {
                 "l": {
                   "t": "espnW",
@@ -5761,83 +5869,6 @@
                   "sport_id": "600"
                 },
                 "id": 4373343
-              },
-              {
-                "l": {
-                  "t": "Olimpíadas",
-                  "w": {
-                    "a": {
-                      "icon": "olympics"
-                    },
-                    "h": "/olimpiada/"
-                  }
-                },
-                "t": "Olimpíadas",
-                "i": [
-                  {
-                    "l": {
-                      "t": "Notícias",
-                      "w": {
-                        "a": {
-                          "mobile": "false",
-                          "breakpoints": "desktop,desktop-lg"
-                        },
-                        "h": "/olimpiada/"
-                      }
-                    },
-                    "id": 3623988
-                  },
-                  {
-                    "l": {
-                      "t": "Calendário",
-                      "w": {
-                        "h": "/olimpiada/inverno/2022/calendario"
-                      }
-                    },
-                    "id": 8755629
-                  },
-                  {
-                    "l": {
-                      "t": "Resultados",
-                      "w": {
-                        "h": "/olimpiada/inverno/2022/resultados"
-                      }
-                    },
-                    "id": 8755630
-                  },
-                  {
-                    "l": {
-                      "t": "Quadro de Medalhas",
-                      "w": {
-                        "h": "/olimpiada/inverno/2022/medalhas/_/vs-division/overall/sort/gold"
-                      }
-                    },
-                    "id": 3712372
-                  },
-                  {
-                    "l": {
-                      "t": "Esportes de Inverno ",
-                      "w": {
-                        "h": "/olimpiada/inverno/2022/esportes"
-                      }
-                    },
-                    "id": 9767067
-                  },
-                  {
-                    "l": {
-                      "t": "Esportes de Verão",
-                      "w": {
-                        "h": "/olimpiada/verao/2020/esportes"
-                      }
-                    },
-                    "id": 3648411
-                  }
-                ],
-                "a": {
-                  "root": "olympics",
-                  "sport_id": "3700"
-                },
-                "id": 3608283
               },
               {
                 "l": {
@@ -6999,12 +7030,30 @@
               },
               {
                 "l": {
+                  "t": "PódioCast",
+                  "w": {
+                    "h": "https://open.spotify.com/show/0yjOgMm3LNw9EALJxtEEJl"
+                  }
+                },
+                "id": 8296359
+              },
+              {
+                "l": {
                   "t": "Resenha",
                   "w": {
                     "h": "https://cms.megaphone.fm/channel/ESP7716901483"
                   }
                 },
                 "id": 8296372
+              },
+              {
+                "l": {
+                  "t": "Bola da Vez",
+                  "w": {
+                    "h": "https://cms.megaphone.fm/channel/ESP6220738147"
+                  }
+                },
+                "id": 8296358
               },
               {
                 "l": {
@@ -7023,24 +7072,6 @@
                   }
                 },
                 "id": 9599237
-              },
-              {
-                "l": {
-                  "t": "Bola da Vez",
-                  "w": {
-                    "h": "https://cms.megaphone.fm/channel/ESP6220738147"
-                  }
-                },
-                "id": 8296358
-              },
-              {
-                "l": {
-                  "t": "Esports ESPN",
-                  "w": {
-                    "h": "https://cms.megaphone.fm/channel/ESP9602213506"
-                  }
-                },
-                "id": 8296359
               }
             ],
             "a": {
@@ -7064,19 +7095,19 @@
                     "a": {
                       "icon": "watch"
                     },
-                    "h": "https://www.espn.com.br/nba/artigo/_/id/13374943/profecia-jokic-wembanyana-nba-voce-precisa-assistir-espn-star"
+                    "h": "https://www.espn.com.br/espnnostar+/artigo/_/id/13564150/aniversario-um-ano-vinicius-jr-comemora-real-madrid-voce-precisa-assistir-espn-star"
                   }
                 },
                 "id": 9204253
               },
               {
                 "l": {
-                  "t": "Canais ESPN",
+                  "t": "Agenda do dia",
                   "w": {
                     "a": {
                       "icon": "watch"
                     },
-                    "h": "https://www.espn.com.br/watch/calendario/"
+                    "h": "https://www.starplus.com/editorial/agenda?cid=DTCI_STAR-Synergy-ESPN-Site-NA-StarPlus-BR-StarPlus-NA-PTBR-DStory-Ag-NA"
                   }
                 },
                 "id": 3692292
@@ -7563,18 +7594,6 @@
                       }
                     },
                     "id": 6672156
-                  },
-                  {
-                    "l": {
-                      "t": "Onde Assistir",
-                      "w": {
-                        "a": {
-                          "type": "league"
-                        },
-                        "h": "http://www.espn.com.br/ondeassistir"
-                      }
-                    },
-                    "id": 3692332
                   }
                 ],
                 "a": {
@@ -7699,6 +7718,46 @@
             "slug": "topevents"
           },
           {
+            "league": "conmebol.libertadores",
+            "sport": "soccer",
+            "sportId": 783,
+            "displayName": "Libertadores",
+            "href": "/futebol/resultados/_/liga/conmebol.libertadores",
+            "linkText": "Resultados &#187;",
+            "top25Only": true,
+            "slug": "conmebol.libertadores"
+          },
+          {
+            "league": "conmebol.sudamericana",
+            "sport": "soccer",
+            "sportId": 5454,
+            "displayName": "Sul-Americana",
+            "href": "/futebol/resultados?league=CONMEBOL.SUDAMERICANA",
+            "linkText": "Resultados &#187;",
+            "top25Only": true,
+            "slug": "conmebol.sudamericana"
+          },
+          {
+            "league": "bra.copa_do_nordeste",
+            "sport": "soccer",
+            "sportId": 10951,
+            "displayName": "Copa do Nordeste",
+            "href": "/futbol/resultados",
+            "linkText": "Resultados &#187;",
+            "top25Only": true,
+            "slug": "bra.copa_do_nordeste"
+          },
+          {
+            "league": "bra.2",
+            "sport": "soccer",
+            "sportId": 4007,
+            "displayName": "Brasileiro - Série B",
+            "href": "/futebol/resultados/_/liga/bra.2",
+            "linkText": "Resultados &#187;",
+            "top25Only": true,
+            "slug": "bra.2"
+          },
+          {
             "league": "eng.1",
             "sport": "soccer",
             "sportId": 700,
@@ -7749,54 +7808,14 @@
             "slug": "ger.1"
           },
           {
-            "league": "bra.camp.carioca",
+            "league": "por.1",
             "sport": "soccer",
-            "sportId": 2265,
-            "displayName": "Carioca",
-            "href": "/futebol/resultados",
+            "sportId": 715,
+            "displayName": "Português",
+            "href": "/futebol/resultados/_/liga/por.1",
             "linkText": "Resultados &#187;",
             "top25Only": true,
-            "slug": "bra.camp.carioca"
-          },
-          {
-            "league": "bra.camp.paulista",
-            "sport": "soccer",
-            "sportId": 8207,
-            "displayName": "Paulista",
-            "href": "/futbol/resultados",
-            "linkText": "Resultados &#187;",
-            "top25Only": true,
-            "slug": "bra.camp.paulista"
-          },
-          {
-            "league": "bra.camp.mineiro",
-            "sport": "soccer",
-            "sportId": 10872,
-            "displayName": "Mineiro",
-            "href": "/futbol/resultados",
-            "linkText": "Resultados &#187;",
-            "top25Only": true,
-            "slug": "bra.camp.mineiro"
-          },
-          {
-            "league": "bra.camp.gaucho",
-            "sport": "soccer",
-            "sportId": 2272,
-            "displayName": "Ga&uacutecho",
-            "href": "/futbol/resultados",
-            "linkText": "Resultados &#187;",
-            "top25Only": true,
-            "slug": "bra.camp.gaucho"
-          },
-          {
-            "league": "ufc",
-            "sport": "mma",
-            "sportId": 3321,
-            "displayName": "UFC",
-            "href": "/mma/",
-            "linkText": "Resultados &#187;",
-            "top25Only": true,
-            "slug": "ufc"
+            "slug": "por.1"
           },
           {
             "league": "nba",
@@ -7807,6 +7826,16 @@
             "linkText": "Resultados &#187;",
             "top25Only": true,
             "slug": "nba"
+          },
+          {
+            "league": "ufc",
+            "sport": "mma",
+            "sportId": 3321,
+            "displayName": "UFC",
+            "href": "/mma/",
+            "linkText": "Resultados &#187;",
+            "top25Only": true,
+            "slug": "ufc"
           }
         ],
         "collegeConfs": null
@@ -7918,52 +7947,52 @@
           "header": "Notícias - NBA",
           "articles": [
             {
-              "headline": "Jogada 'humilhante' de Jalen Green, cravada de Jaylen Brown e mais: as melhores jogadas desta quinta na NBA",
+              "headline": "'Não vou desistir': Embiid faz desabafo após jogar com paralisia facial e bater recorde com 50 pontos nos playoffs",
+              "byLine": "Tim Bontemps",
+              "description": "Em uma noite épica de playoffs na NBA, Joel Embiid já teria lugar na história ao anotar seus 50 pontos na vitória do Philadelphia 76ers por 125 a 114 diante do New York Knicks",
+              "image": "https://a.espncdn.com/combiner/i?img=/photo/2024/0426/r1324867_1296x729_16-9.jpg&h=120",
+              "premium": false,
+              "published": "2024-04-26T16:34:39Z",
+              "logoSrc": "https://a.espncdn.com/redesign/assets/img/logos/espnplus/espnplus-2x.png",
+              "images": [
+                {
+                  "src": "https://a.espncdn.com/combiner/i?img=/photo/2024/0426/r1324867_1296x729_16-9.jpg&h=120",
+                  "alt": "'Não vou desistir': Embiid faz desabafo após jogar com paralisia facial e bater recorde com 50 pontos nos playoffs"
+                }
+              ],
+              "link": "/nba/artigo/_/id/13574504/philadelphia-76ers-embiid-desabafa-paralisia-facial-recorde-50-pontos-playoffs-nba"
+            },
+            {
+              "headline": "Cravada de Suggs, pôster de DiVincenzo e mais: as melhores jogadas desta quinta na NBA",
               "byLine": "",
               "description": "Veja a melhor cobertura da temporada da NBA pela ESPN no Star+",
-              "image": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_basquete_nba_top_10_jogadas_quinta_highlight/Hu_240315_BR_basquete_nba_top_10_jogadas_quinta_highlight.jpg&h=120",
+              "image": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0426/Hu_240426_BR_basquete_nba_top_10_jogadas_quinta_highlight/Hu_240426_BR_basquete_nba_top_10_jogadas_quinta_highlight.jpg&h=120",
               "premium": false,
-              "published": "2024-03-15T10:30:59Z",
+              "published": "2024-04-26T12:30:03Z",
               "logoSrc": "https://a.espncdn.com/redesign/assets/img/logos/espnplus/espnplus-2x.png",
               "images": [
                 {
-                  "src": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_basquete_nba_top_10_jogadas_quinta_highlight/Hu_240315_BR_basquete_nba_top_10_jogadas_quinta_highlight.jpg&h=120",
-                  "alt": "Jogada 'humilhante' de Jalen Green, cravada de Jaylen Brown e mais: as melhores jogadas desta quinta na NBA"
+                  "src": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0426/Hu_240426_BR_basquete_nba_top_10_jogadas_quinta_highlight/Hu_240426_BR_basquete_nba_top_10_jogadas_quinta_highlight.jpg&h=120",
+                  "alt": "Cravada de Suggs, pôster de DiVincenzo e mais: as melhores jogadas desta quinta na NBA"
                 }
               ],
-              "link": "/video/clipe/_/id/13378149"
+              "link": "/video/clipe/_/id/13573489"
             },
             {
-              "headline": "Thunder vence Mavericks com duelo à parte entre Shai e Irving e reassume liderança do Oeste na NBA; VEJA",
-              "byLine": "",
-              "description": "Equipe de Oklahoma leva a melhor em casa e quebra sequência da franquia de Dallas",
-              "image": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_nba_thunder_x_mavericks_mm_finalgamehighlight/Hu_240315_BR_nba_thunder_x_mavericks_mm_finalgamehighlight.jpg&h=120",
+              "headline": "Por que feito que nenhum time conseguiu na história NBA virou 'única salvação' para LeBron e os Lakers",
+              "byLine": "ESPN.com.br",
+              "description": "O jogo 4 entre Lakers e Nuggets, que pode dar a \"sobrevida\" ao time de Los Angeles ou então definir a nova varrida no confronto, terá transmissão ao vivo pela ESPN no Star+ neste sábado (27), a partir de 21h30 (de Brasília)",
+              "image": "https://a.espncdn.com/combiner/i?img=/photo/2024/0426/r1324778_1296x729_16-9.jpg&h=120",
               "premium": false,
-              "published": "2024-03-15T06:28:13Z",
+              "published": "2024-04-26T12:11:52Z",
               "logoSrc": "https://a.espncdn.com/redesign/assets/img/logos/espnplus/espnplus-2x.png",
               "images": [
                 {
-                  "src": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_nba_thunder_x_mavericks_mm_finalgamehighlight/Hu_240315_BR_nba_thunder_x_mavericks_mm_finalgamehighlight.jpg&h=120",
-                  "alt": "Thunder vence Mavericks com duelo à parte entre Shai e Irving e reassume liderança do Oeste na NBA; VEJA"
+                  "src": "https://a.espncdn.com/combiner/i?img=/photo/2024/0426/r1324778_1296x729_16-9.jpg&h=120",
+                  "alt": "Por que feito que nenhum time conseguiu na história NBA virou 'única salvação' para LeBron e os Lakers"
                 }
               ],
-              "link": "/video/clipe/_/id/13378058"
-            },
-            {
-              "headline": "Jalen Brunson faz 45 pontos, e New York Knicks bate Portland Trail Blazers na NBA; VEJA",
-              "byLine": "",
-              "description": "Equipe de Nova York engata segunda vitória seguida na liga e mantém embalo rumo aos playoffs",
-              "image": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_nba_trail_blazers_x_knicks_mm_finalgamehighlight/Hu_240315_BR_nba_trail_blazers_x_knicks_mm_finalgamehighlight.jpg&h=120",
-              "premium": false,
-              "published": "2024-03-15T06:18:08Z",
-              "logoSrc": "https://a.espncdn.com/redesign/assets/img/logos/espnplus/espnplus-2x.png",
-              "images": [
-                {
-                  "src": "https://a.espncdn.com/combiner/i?img=/media/motion/2024/0315/Hu_240315_BR_nba_trail_blazers_x_knicks_mm_finalgamehighlight/Hu_240315_BR_nba_trail_blazers_x_knicks_mm_finalgamehighlight.jpg&h=120",
-                  "alt": "Jalen Brunson faz 45 pontos, e New York Knicks bate Portland Trail Blazers na NBA; VEJA"
-                }
-              ],
-              "link": "/video/clipe/_/id/13378055"
+              "link": "/nba/artigo/_/id/13573426/lebron-james-lakers-feito-inedito-historia-nba-unica-salvacao-para-playoffs"
             }
           ],
           "link": "/nba/",
@@ -7980,48 +8009,48 @@
                 "header": "Pontos",
                 "leaders": [
                   {
+                    "name": "Minnesota Timberwolves",
+                    "uid": "s:40~l:46~t:16",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "statValue": "112.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
+                    "rank": 1
+                  },
+                  {
+                    "name": "Philadelphia 76ers",
+                    "uid": "s:40~l:46~t:20",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+                    "statValue": "110.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/phi/philadelphia-76ers",
+                    "rank": 2
+                  },
+                  {
+                    "name": "New York Knicks",
+                    "uid": "s:40~l:46~t:18",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+                    "statValue": "109.7",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/ny/new-york-knicks",
+                    "rank": 3
+                  },
+                  {
                     "name": "Indiana Pacers",
                     "uid": "s:40~l:46~t:11",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-                    "statValue": "123.1",
+                    "statValue": "109.5",
                     "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
-                    "rank": 1
-                  },
-                  {
-                    "name": "Boston Celtics",
-                    "uid": "s:40~l:46~t:2",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                    "statValue": "120.9",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
-                    "rank": 2
-                  },
-                  {
-                    "name": "Oklahoma City Thunder",
-                    "uid": "s:40~l:46~t:25",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                    "statValue": "120.8",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
-                    "rank": 3
-                  },
-                  {
-                    "name": "Milwaukee Bucks",
-                    "uid": "s:40~l:46~t:15",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-                    "statValue": "120.4",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/mil/milwaukee-bucks",
                     "rank": 4
                   },
                   {
-                    "name": "Atlanta Hawks",
-                    "uid": "s:40~l:46~t:1",
+                    "name": "Denver Nuggets",
+                    "uid": "s:40~l:46~t:7",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-                    "statValue": "119.4",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/atl/atlanta-hawks",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+                    "statValue": "109.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/den/denver-nuggets",
                     "rank": 5
                   }
                 ],
@@ -8036,48 +8065,48 @@
                 "header": "Arremessos %",
                 "leaders": [
                   {
-                    "name": "Indiana Pacers",
-                    "uid": "s:40~l:46~t:11",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-                    "statValue": "50.6",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
-                    "rank": 1
-                  },
-                  {
                     "name": "Oklahoma City Thunder",
                     "uid": "s:40~l:46~t:25",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                    "statValue": "50.0",
+                    "statValue": "50.9",
                     "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
-                    "rank": 2
+                    "rank": 1
                   },
                   {
                     "name": "Los Angeles Lakers",
                     "uid": "s:40~l:46~t:13",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-                    "statValue": "49.8",
+                    "statValue": "49.0",
                     "href": "https://www.espn.com.br/nba/time/_/nome/lal/los-angeles-lakers",
+                    "rank": 2
+                  },
+                  {
+                    "name": "Miami Heat",
+                    "uid": "s:40~l:46~t:14",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "statValue": "48.1",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/mia/miami-heat",
                     "rank": 3
                   },
                   {
-                    "name": "Denver Nuggets",
-                    "uid": "s:40~l:46~t:7",
+                    "name": "Minnesota Timberwolves",
+                    "uid": "s:40~l:46~t:16",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-                    "statValue": "49.5",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/den/denver-nuggets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "statValue": "47.6",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
                     "rank": 4
                   },
                   {
-                    "name": "Phoenix Suns",
-                    "uid": "s:40~l:46~t:21",
+                    "name": "Indiana Pacers",
+                    "uid": "s:40~l:46~t:11",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                    "statValue": "49.3",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/phx/phoenix-suns",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+                    "statValue": "47.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
                     "rank": 5
                   }
                 ],
@@ -8092,12 +8121,12 @@
                 "header": "Diferencial de Pontos",
                 "leaders": [
                   {
-                    "name": "Boston Celtics",
-                    "uid": "s:40~l:46~t:2",
+                    "name": "Minnesota Timberwolves",
+                    "uid": "s:40~l:46~t:16",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                    "statValue": "+11.2",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "statValue": "+18.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
                     "rank": 1
                   },
                   {
@@ -8105,35 +8134,35 @@
                     "uid": "s:40~l:46~t:25",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                    "statValue": "+7.6",
+                    "statValue": "+17.0",
                     "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
                     "rank": 2
-                  },
-                  {
-                    "name": "Minnesota Timberwolves",
-                    "uid": "s:40~l:46~t:16",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-                    "statValue": "+6.4",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
-                    "rank": 3
-                  },
-                  {
-                    "name": "New Orleans Pelicans",
-                    "uid": "s:40~l:46~t:3",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-                    "statValue": "+4.8",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/no/new-orleans-pelicans",
-                    "rank": 4
                   },
                   {
                     "name": "Denver Nuggets",
                     "uid": "s:40~l:46~t:7",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-                    "statValue": "+4.4",
+                    "statValue": "+6.6",
                     "href": "https://www.espn.com.br/nba/time/_/nome/den/denver-nuggets",
+                    "rank": 3
+                  },
+                  {
+                    "name": "Boston Celtics",
+                    "uid": "s:40~l:46~t:2",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "statValue": "+5.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+                    "rank": 4
+                  },
+                  {
+                    "name": "Orlando Magic",
+                    "uid": "s:40~l:46~t:19",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "statValue": "+4.6",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/orl/orlando-magic",
                     "rank": 5
                   }
                 ],
@@ -8153,48 +8182,48 @@
                 "header": "Pontos Permitidos",
                 "leaders": [
                   {
-                    "name": "Minnesota Timberwolves",
-                    "uid": "s:40~l:46~t:16",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-                    "statValue": "106.7",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
-                    "rank": 1
-                  },
-                  {
-                    "name": "New York Knicks",
-                    "uid": "s:40~l:46~t:18",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-                    "statValue": "108.1",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/ny/new-york-knicks",
-                    "rank": 2
-                  },
-                  {
                     "name": "Orlando Magic",
                     "uid": "s:40~l:46~t:19",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-                    "statValue": "109.3",
+                    "statValue": "92.0",
                     "href": "https://www.espn.com.br/nba/time/_/nome/orl/orlando-magic",
+                    "rank": 1
+                  },
+                  {
+                    "name": "Oklahoma City Thunder",
+                    "uid": "s:40~l:46~t:25",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "statValue": "92.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+                    "rank": 1
+                  },
+                  {
+                    "name": "Minnesota Timberwolves",
+                    "uid": "s:40~l:46~t:16",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "statValue": "94.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
                     "rank": 3
+                  },
+                  {
+                    "name": "LA Clippers",
+                    "uid": "s:40~l:46~t:12",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+                    "statValue": "96.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/lac/la-clippers",
+                    "rank": 4
                   },
                   {
                     "name": "Cleveland Cavaliers",
                     "uid": "s:40~l:46~t:5",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-                    "statValue": "109.4",
+                    "statValue": "96.7",
                     "href": "https://www.espn.com.br/nba/time/_/nome/cle/cleveland-cavaliers",
-                    "rank": 4
-                  },
-                  {
-                    "name": "Boston Celtics",
-                    "uid": "s:40~l:46~t:2",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                    "statValue": "109.7",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
                     "rank": 5
                   }
                 ],
@@ -8209,49 +8238,49 @@
                 "header": "Rebotes",
                 "leaders": [
                   {
-                    "name": "Boston Celtics",
-                    "uid": "s:40~l:46~t:2",
+                    "name": "Denver Nuggets",
+                    "uid": "s:40~l:46~t:7",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                    "statValue": "46.9",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+                    "statValue": "48.3",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/den/denver-nuggets",
                     "rank": 1
                   },
                   {
-                    "name": "Golden State Warriors",
-                    "uid": "s:40~l:46~t:9",
+                    "name": "Indiana Pacers",
+                    "uid": "s:40~l:46~t:11",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-                    "statValue": "46.7",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/gs/golden-state-warriors",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+                    "statValue": "47.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
                     "rank": 2
                   },
                   {
-                    "name": "Utah Jazz",
-                    "uid": "s:40~l:46~t:26",
+                    "name": "LA Clippers",
+                    "uid": "s:40~l:46~t:12",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
-                    "statValue": "46.1",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/utah/utah-jazz",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+                    "statValue": "46.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/lac/la-clippers",
                     "rank": 3
                   },
                   {
-                    "name": "Houston Rockets",
-                    "uid": "s:40~l:46~t:10",
+                    "name": "Dallas Mavericks",
+                    "uid": "s:40~l:46~t:6",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-                    "statValue": "45.9",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/hou/houston-rockets",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+                    "statValue": "45.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/dal/dallas-mavericks",
                     "rank": 4
                   },
                   {
-                    "name": "New York Knicks",
-                    "uid": "s:40~l:46~t:18",
+                    "name": "Minnesota Timberwolves",
+                    "uid": "s:40~l:46~t:16",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-                    "statValue": "45.8",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/ny/new-york-knicks",
-                    "rank": 5
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "statValue": "45.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
+                    "rank": 4
                   }
                 ],
                 "completeLeaders": {
@@ -8265,48 +8294,48 @@
                 "header": "Tocos",
                 "leaders": [
                   {
-                    "name": "Oklahoma City Thunder",
-                    "uid": "s:40~l:46~t:25",
+                    "name": "Dallas Mavericks",
+                    "uid": "s:40~l:46~t:6",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                    "statValue": "6.7",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/okc/oklahoma-city-thunder",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+                    "statValue": "8.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/dal/dallas-mavericks",
                     "rank": 1
+                  },
+                  {
+                    "name": "Philadelphia 76ers",
+                    "uid": "s:40~l:46~t:20",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+                    "statValue": "7.0",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/phi/philadelphia-76ers",
+                    "rank": 2
                   },
                   {
                     "name": "Boston Celtics",
                     "uid": "s:40~l:46~t:2",
                     "type": "team",
                     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                    "statValue": "6.6",
+                    "statValue": "7.0",
                     "href": "https://www.espn.com.br/nba/time/_/nome/bos/boston-celtics",
                     "rank": 2
                   },
                   {
-                    "name": "San Antonio Spurs",
-                    "uid": "s:40~l:46~t:24",
+                    "name": "Cleveland Cavaliers",
+                    "uid": "s:40~l:46~t:5",
                     "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-                    "statValue": "6.3",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/sa/san-antonio-spurs",
-                    "rank": 3
-                  },
-                  {
-                    "name": "Memphis Grizzlies",
-                    "uid": "s:40~l:46~t:29",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-                    "statValue": "6.3",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/mem/memphis-grizzlies",
-                    "rank": 3
-                  },
-                  {
-                    "name": "Minnesota Timberwolves",
-                    "uid": "s:40~l:46~t:16",
-                    "type": "team",
-                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
                     "statValue": "6.0",
-                    "href": "https://www.espn.com.br/nba/time/_/nome/min/minnesota-timberwolves",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/cle/cleveland-cavaliers",
+                    "rank": 4
+                  },
+                  {
+                    "name": "Indiana Pacers",
+                    "uid": "s:40~l:46~t:11",
+                    "type": "team",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+                    "statValue": "5.5",
+                    "href": "https://www.espn.com.br/nba/time/_/nome/ind/indiana-pacers",
                     "rank": 5
                   }
                 ],
@@ -8318,7 +8347,7 @@
             ]
           }
         },
-        "header": " Líderes de Estatísticas - NBA - 2023-24",
+        "header": " Líderes de Estatísticas da Postseason - NBA - 2023-24",
         "season": "2023-24",
         "dropdownTeams": [
           {
@@ -8479,6 +8508,11 @@
         ],
         "filters": {
           "seasons": [
+            {
+              "value": "2024|3",
+              "label": "2023-24 Pós-temporada",
+              "paramValue": "2024|3"
+            },
             {
               "value": "2024|2",
               "label": "2023-24 Temporada regular",
@@ -8727,17 +8761,17 @@
           "defaultSettings": {
             "activeView": 1,
             "currentSeason": "2023-24",
-            "seasonAndTypeValue": "2024|2",
+            "seasonAndTypeValue": "2024|3",
             "conference": ""
           },
           "footerNote": "Estatísticas serão atualizadas todas as noites",
           "currentConference": {},
           "seasonType": {
-            "id": "2",
-            "type": 2,
-            "name": "Temporada regular",
-            "startDate": "2023-10-24T07:00:00.000+00:00",
-            "endDate": "2024-04-15T06:59:00.000+00:00",
+            "id": "3",
+            "type": 3,
+            "name": "Pós-temporada",
+            "startDate": "2024-04-20T07:00:00.000+00:00",
+            "endDate": "2024-06-27T07:00:00.000+00:00",
             "week": {}
           },
           "currentConferenceName": "",

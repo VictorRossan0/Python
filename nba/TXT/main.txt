@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "C:\xampp\htdocs\python\nba\main.py", line 4, in <module>
-    from Models.calendario_nba import extrair_info_calendario
-  File "C:\xampp\htdocs\python\nba\Models\calendario_nba.py", line 1, in <module>
-    from selenium import webdriver
-ModuleNotFoundError: No module named 'selenium'
