@@ -18,3 +18,11 @@ Competidores: Phoenix Suns vs Minnesota Timberwolves
 Data do Evento: 26-04-2024
 Local do Evento: Phoenix
 
+Competidores: New York Knicks vs Indiana Pacers
+Data do Evento: 14-05-2024
+Local do Evento: Nova York
+
+Competidores: Denver Nuggets vs Minnesota Timberwolves
+Data do Evento: 14-05-2024
+Local do Evento: Denver
+

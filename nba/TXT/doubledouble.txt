@@ -1,35 +1,35 @@
 Informações do Atleta 1:
-Nome do Jogador: Anthony Davis
-Time do Jogador: LAL
+Nome do Jogador: Luka Doncic
+Time do Jogador: DAL
 Rank: 1
 Estatísticas do Jogador 1:
 Estatística: doubleDouble
-Quantidade: 3
+Quantidade: 8
 Informações do Atleta 2:
 Nome do Jogador: Nikola Jokic
 Time do Jogador: DEN
-Rank: 1
+Rank: 2
 Estatísticas do Jogador 2:
 Estatística: doubleDouble
-Quantidade: 3
+Quantidade: 7
 Informações do Atleta 3:
-Nome do Jogador: Josh Hart
-Time do Jogador: NY
-Rank: 3
+Nome do Jogador: Jayson Tatum
+Time do Jogador: BOS
+Rank: 2
 Estatísticas do Jogador 3:
 Estatística: doubleDouble
-Quantidade: 2
+Quantidade: 7
 Informações do Atleta 4:
-Nome do Jogador: Aaron Gordon
-Time do Jogador: DEN
-Rank: 3
+Nome do Jogador: Josh Hart
+Time do Jogador: NY
+Rank: 4
 Estatísticas do Jogador 4:
 Estatística: doubleDouble
-Quantidade: 2
+Quantidade: 6
 Informações do Atleta 5:
-Nome do Jogador: Bobby Portis
-Time do Jogador: MIL
-Rank: 3
+Nome do Jogador: Anthony Davis
+Time do Jogador: LAL
+Rank: 5
 Estatísticas do Jogador 5:
 Estatística: doubleDouble
-Quantidade: 2
+Quantidade: 5
