@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Globalhitss | Desenvolvendo a Sociedade Digital - Exportar e Importar</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        form {
+            display: inline-block;
+            margin-right: 20px; /* Espaçamento entre os formulários */
+        }
+    </style>
+</head>
+<body>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <img src="https://globalhitss.com/br/wp-content/uploads/2024/03/logo_BR-no-copy.png" alt="Globalhitss Logo" id="logo" data-height-percentage="54" data-actual-width="300" data-actual-height="90">
+    <h1>BPO Agendamento - Exportar e Importar</h1>
+    <div class="container">
+        <a href="/export">Excel Farqui</a><br>
+        <a href="/exportar-wf">Robo do WF</a><br>
+        <form method="post" action="/upload_excel" enctype="multipart/form-data">
+            <label for="excel_file">Escolha um arquivo Excel (.xlsx):</label>
+            <input type="file" id="excel_file" name="excel_file">
+            <input type="submit" value="Converter Excel para CSV">
+        </form>
+        <form method="post" action="/import" enctype="multipart/form-data">
+            <label for="file">Escolha um arquivo CSV:</label>
+            <input type="file" id="file" name="file">
+            <input type="submit" value="Importar CSV">
+        </form>
+    </div>    
+</body>
+</html>

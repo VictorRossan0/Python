@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333; /* Adicionado para garantir que o texto tenha cor padrão */
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* Garante que a imagem não exceda a largura máxima da página */
+    height: auto; /* Permite que a altura da imagem se ajuste automaticamente */
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.container a {
+    display: block;
+    margin-bottom: 10px; /* Espaçamento entre os links */
+}
+
+
+form {
+    margin-top: 20px;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+    display: block; /* Para que o elemento ocupe toda a largura disponível */
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
