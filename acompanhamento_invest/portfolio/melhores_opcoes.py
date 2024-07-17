@@ -11,7 +11,7 @@ def encontrar_melhores_opcoes_web_scraping(tipo_ativo, tickers):
         'Dividend Yield': [],
         'P/L': [],
         'P/VP': [],
-        'Crescimento Histórico (%)': []
+        'Variação(12M)': []
     }
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -34,9 +34,9 @@ def encontrar_melhores_opcoes_web_scraping(tipo_ativo, tickers):
                 
                 if tipo_ativo == 'acoes':
                     dividend_yield = soup.find('div', class_='_card dy').find('div', class_='_card-body').find('span').text.strip()
-                    pl_ratio = soup.find('div', class_='_card pl').find('div', class_='_card-body').find('span').text.strip()
+                    pl_ratio = soup.find('div', class_='_card val').find('div', class_='_card-body').find('span').text.strip()
                     pv_ratio = soup.find('div', class_='_card vp').find('div', class_='_card-body').find('span').text.strip()
-                    crescimento = soup.find('div', class_='_card val').find('div', class_='_card-body').find('span').text.strip()
+                    crescimento = soup.find('div', class_='_card pl').find('div', class_='_card-body').find('span').text.strip()
                 elif tipo_ativo == 'fiis':
                     dy_card = soup.find('div', class_='_card dy')
                     if dy_card:
@@ -59,7 +59,7 @@ def encontrar_melhores_opcoes_web_scraping(tipo_ativo, tickers):
                 dados['Dividend Yield'].append(dividend_yield)
                 dados['P/L'].append(pl_ratio)
                 dados['P/VP'].append(pv_ratio)
-                dados['Crescimento Histórico (%)'].append(crescimento)
+                dados['Variação(12M)'].append(crescimento)
                 
             except Exception as e:
                 print(f"Erro ao extrair dados de {ticker}: {str(e)}")
@@ -70,10 +70,10 @@ def encontrar_melhores_opcoes_web_scraping(tipo_ativo, tickers):
         time.sleep(1)
     
     df = pd.DataFrame(dados)
-    df = df.sort_values(by='Dividend Yield', ascending=False).head(5)
+    df = df.sort_values(by='Ativo', ascending=True)
     
     return df
 
 tickers_acoes = ['petr4', 'vale3', 'bbas3', 'cpfe3', 'cple6', 'itsa4', 'itub4', 'jall3', 'kepl3', 'tgma3', 'ugpa3', 'vivt3', 'alup11']
-tickers_fiis = ['knip11', 'hglg11', 'xplg11', 'cpts11', 'kncr11', 'knsc11', 'knri11', 'rbrr11', 'xpml11', 'irdm11', 'btlg11', 'visc11']
-tickers_bdrs = ['aapl34', 'amzo34', 'gogl34', 'msft34', 'nflx34', 'coca34', 'inbr32', 'nvdc34', 'tsla34', 'meli34', 'jpmc34', 'ibmb34']
+tickers_fiis = ['bdiv11','knip11', 'hglg11', 'xplg11', 'cpts11', 'kncr11', 'knsc11', 'knri11', 'rbrr11', 'xpml11', 'irdm11', 'btlg11', 'visc11']
+tickers_bdrs = ['aapl34', 'amzo34', 'gogl34', 'msft34', 'nflx34', 'coca34', 'inbr32', 'nvdc34', 'tsla34', 'meli34', 'jpmc34', 'ibmb34', 'verz34']

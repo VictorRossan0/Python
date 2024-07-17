@@ -55,7 +55,8 @@ def exportar_resultados(resultado_carteira, resultado_acoes, resultado_fiis, res
     plt.legend()
     plt.grid(True)
     plt.savefig('images/crescimento_total_carteira.png')
-
+    print("Crescimento Total da Carteira ao Longo de 12 Meses feito")
+    
     # Plotar crescimento por categoria
     plt.figure(figsize=(10, 6))
     for coluna in df.columns[2:]:
@@ -66,5 +67,7 @@ def exportar_resultados(resultado_carteira, resultado_acoes, resultado_fiis, res
     plt.legend()
     plt.grid(True)
     plt.savefig('images/crescimento_por_categoria.png')
+    print("Crescimento por Categoria ao Longo de 12 Meses feito")
+    
 
     print("Resultados exportados com sucesso!")
