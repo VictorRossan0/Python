@@ -3,14 +3,9 @@
     "deposito_mensal": 300.00,
     "taxas_crescimento_anuais": {
         "emergencia": 0.11679,
-        "tesouro_ipca": 0.0021,
-        "tesouro_selic": 0.0083,
-        "renda_fixa": {
-            "cdb_13": 0.13,
-            "cdb_124_cdi": 0.14418, 
-            "cdb_140_cdi": 0.1635
-        },
-        "acoes_fiis": 0.12,
+        "tesouro_direto": 0.1488,
+        "renda_fixa": 0.43,
+        "bolsa_valores": 0.12,
         "fundo_investimento": 0.1374
     }
 }

@@ -17,12 +17,9 @@ def main():
     for mes in range(1, 13):
         registrar_movimentacao('crescimento_total', resultado_carteira['total'][mes - 1], f'{mes}/2024')
         registrar_movimentacao('reserva_emergencia', resultado_carteira['emergencia'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('tesouro_ipca', resultado_carteira['tesouro_ipca'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('tesouro_selic', resultado_carteira['tesouro_selic'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('renda_fixa_cdb_13', resultado_carteira['renda_fixa_cdb_13'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('renda_fixa_cdb_124_cdi', resultado_carteira['renda_fixa_cdb_124_cdi'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('renda_fixa_cdb_140_cdi', resultado_carteira['renda_fixa_cdb_140_cdi'][mes - 1], f'{mes}/2024')
-        registrar_movimentacao('acoes_fiis', resultado_carteira['acoes_fiis'][mes - 1], f'{mes}/2024')
+        registrar_movimentacao('tesouro_direto', resultado_carteira['tesouro_direto'][mes - 1], f'{mes}/2024')
+        registrar_movimentacao('renda_fixa', resultado_carteira['renda_fixa'][mes - 1], f'{mes}/2024')
+        registrar_movimentacao('bolsa_valores', resultado_carteira['bolsa_valores'][mes - 1], f'{mes}/2024')
         registrar_movimentacao('fundo_investimento', resultado_carteira['fundo_investimento'][mes - 1], f'{mes}/2024')
 
     # Obter resultados de ações e FIIs usando melhores_opcoes.py

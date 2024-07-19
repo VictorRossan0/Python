@@ -15,20 +15,15 @@ def exportar_resultados(resultado_carteira, resultado_acoes, resultado_fiis, res
         'Mes': meses,
         'Total': resultado_carteira['total'],
         'Reserva de Emergência': resultado_carteira['emergencia'],
-        'Tesouro IPCA': resultado_carteira['tesouro_ipca'],
-        'Tesouro Selic': resultado_carteira['tesouro_selic'],
-        'Renda Fixa CDB 13%': resultado_carteira['renda_fixa_cdb_13'],
-        'Renda Fixa CDB 124% CDI': resultado_carteira['renda_fixa_cdb_124_cdi'],
-        'Renda Fixa CDB 140% CDI': resultado_carteira['renda_fixa_cdb_140_cdi'],
-        'Ações/FIIs': resultado_carteira['acoes_fiis'],
+        'Tesouro Direto': resultado_carteira['tesouro_direto'],
+        'Renda Fixa': resultado_carteira['renda_fixa'],
+        'Bolsa de Valores': resultado_carteira['bolsa_valores'],
         'Fundo de Investimento': resultado_carteira['fundo_investimento']
     })
-    
+
     # Arredondar as colunas especificadas para duas casas decimais
     colunas_para_arredondar = [
-        'Total', 'Reserva de Emergência', 'Tesouro IPCA', 'Tesouro Selic',
-        'Renda Fixa CDB 13%', 'Renda Fixa CDB 124% CDI', 'Renda Fixa CDB 140% CDI',
-        'Ações/FIIs', 'Fundo de Investimento'
+        'Total', 'Reserva de Emergência', 'Tesouro Direto', 'Renda Fixa', 'Bolsa de Valores', 'Fundo de Investimento'
     ]
     
     df[colunas_para_arredondar] = df[colunas_para_arredondar].round(2)

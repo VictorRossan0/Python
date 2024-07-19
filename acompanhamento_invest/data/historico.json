@@ -19438,5 +19438,1265 @@
         "tipo": "fundo_investimento",
         "valor": 1636.9970870869229,
         "data": "12/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11358.96,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 12936.448846284798,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2353.9022156399997,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2336.5627632,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2350.6478736,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1178.2015399999998,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1179.6043336967998,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1181.373150948,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1177.25496,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1178.9020091999998,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 13382.142805222718,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2436.811568953716,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2401.46954500272,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2430.15825095088,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1220.9653900166663,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1223.840152677153,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1227.469950816242,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1219.0275096,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1222.4004372053398,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 13831.980920434871,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2520.5278375485577,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2466.512631047226,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2510.328564433772,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1264.1925150751802,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1268.6098227917064,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1274.194842631089,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1261.217784696,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1266.396922211341,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 14286.006708496074,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2605.0588747274987,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2531.6923075724253,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2591.164291518572,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1307.8879339884945,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1313.9197867161035,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1321.556384459359,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1303.8299625429602,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1310.897166970661,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 14744.264164277129,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2690.4126102257837,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2597.0088614183273,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2672.6709551381764,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1352.0567199400364,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1359.7765648781294,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1369.56325097581,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1346.8682621683897,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1355.906939532475,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 15206.797766348878,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2776.597050954806,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2662.4625800273056,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2754.8541240658233,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1396.70400107272,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1406.186756396048,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1418.224235051981,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1390.3369447900736,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1401.4320739901218,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 15673.652482448726,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2863.6202817532235,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2728.053751445363,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2837.7194132955697,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1441.834961084341,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1453.1570400282621,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1467.5482493666818,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1434.2403142379744,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1447.4784712373087,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 16144.873775010321,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2951.4904661453866,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2793.7826643233984,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 2921.272484425923,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1487.4548398294214,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1500.694175134435,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1517.5443280384277,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1478.582717380354,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1494.0520997329759,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 16620.507606757255,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3040.215847107146,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2859.6496079184776,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 3005.519046046658,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1533.5689339275734,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1548.80500264821,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1568.2216282801153,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1523.3685445541576,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1541.1589962749183,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 17100.6004463614,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3129.8047478391163,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2925.6548720951064,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 3090.464854128845,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1580.1825973784553,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1597.496446061669,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1619.589432076246,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1568.6022299996991,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1588.805266782266,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 17585.199274166764,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3220.26557254746,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "tesouro_ipca",
+        "valor": 2991.798747326506,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "tesouro_selic",
+        "valor": 3176.1157124181145,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_13",
+        "valor": 1627.3012421833885,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_124_cdi",
+        "valor": 1646.775512421675,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "renda_fixa_cdb_140_cdi",
+        "valor": 1671.657147883001,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "acoes_fiis",
+        "valor": 1614.288252299696,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1636.9970870869229,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11358.96,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 9397.269821639999,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2353.9022156399997,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2336.5627632,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2350.6478736,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1177.25496,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1178.9020091999998,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 9709.867311712656,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2436.811568953716,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2401.46954500272,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2430.15825095088,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1219.0275096,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1222.4004372053398,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10024.983739936897,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2520.5278375485577,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2466.512631047226,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2510.328564433772,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1261.217784696,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1266.396922211341,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10342.642603332117,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2605.0588747274987,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2531.6923075724253,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2591.164291518572,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1303.8299625429602,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1310.897166970661,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10662.867628483153,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2690.4126102257837,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2597.0088614183273,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2672.6709551381764,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1346.8682621683897,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1355.906939532475,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10985.68277382813,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2776.597050954806,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2662.4625800273056,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2754.8541240658233,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1390.3369447900736,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1401.4320739901218,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11311.112231969439,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2863.6202817532235,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2728.053751445363,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2837.7194132955697,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1434.2403142379744,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1447.4784712373087,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11639.180432008037,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2951.4904661453866,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2793.7826643233984,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2921.272484425923,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1478.582717380354,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1494.0520997329759,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11969.912041901358,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3040.215847107146,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2859.6496079184776,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3005.519046046658,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1523.3685445541576,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1541.1589962749183,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 12303.331970845033,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3129.8047478391163,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2925.6548720951064,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3090.464854128845,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1568.6022299996991,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1588.805266782266,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 12639.4653716787,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3220.26557254746,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2991.798747326506,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3176.1157124181145,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1614.288252299696,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1636.9970870869229,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11358.96,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2271.792,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1135.896,
+        "data": "1/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 9397.269821639999,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2353.9022156399997,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2336.5627632,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2350.6478736,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1177.25496,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1178.9020091999998,
+        "data": "2/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 9709.867311712656,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2436.811568953716,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2401.46954500272,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2430.15825095088,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1219.0275096,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1222.4004372053398,
+        "data": "3/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10024.983739936897,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2520.5278375485577,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2466.512631047226,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2510.328564433772,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1261.217784696,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1266.396922211341,
+        "data": "4/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10342.642603332117,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2605.0588747274987,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2531.6923075724253,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2591.164291518572,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1303.8299625429602,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1310.897166970661,
+        "data": "5/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10662.867628483153,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2690.4126102257837,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2597.0088614183273,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2672.6709551381764,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1346.8682621683897,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1355.906939532475,
+        "data": "6/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 10985.68277382813,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2776.597050954806,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2662.4625800273056,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2754.8541240658233,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1390.3369447900736,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1401.4320739901218,
+        "data": "7/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11311.112231969439,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2863.6202817532235,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2728.053751445363,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2837.7194132955697,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1434.2403142379744,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1447.4784712373087,
+        "data": "8/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11639.180432008037,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 2951.4904661453866,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2793.7826643233984,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 2921.272484425923,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1478.582717380354,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1494.0520997329759,
+        "data": "9/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 11969.912041901358,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3040.215847107146,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2859.6496079184776,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3005.519046046658,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1523.3685445541576,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1541.1589962749183,
+        "data": "10/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 12303.331970845033,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3129.8047478391163,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2925.6548720951064,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3090.464854128845,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1568.6022299996991,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1588.805266782266,
+        "data": "11/2024"
+    },
+    {
+        "tipo": "crescimento_total",
+        "valor": 12639.4653716787,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "reserva_emergencia",
+        "valor": 3220.26557254746,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "tesouro_direto",
+        "valor": 2991.798747326506,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "renda_fixa",
+        "valor": 3176.1157124181145,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "bolsa_valores",
+        "valor": 1614.288252299696,
+        "data": "12/2024"
+    },
+    {
+        "tipo": "fundo_investimento",
+        "valor": 1636.9970870869229,
+        "data": "12/2024"
     }
 ]
