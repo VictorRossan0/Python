@@ -20,10 +20,10 @@ def create_model():
     return model
 
 if __name__ == "__main__":
-    train_gen, val_gen = load_data('../data/')
+    train_gen, val_gen = load_data('data/train')
     
     model = create_model()
     
     history = model.fit(train_gen, validation_data=val_gen, epochs=10)
-    model.save('../models/base_model.h5')
+    model.save('models/base_model.h5')
     print("Modelo salvo com sucesso!")
