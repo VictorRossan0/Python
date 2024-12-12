@@ -45,7 +45,7 @@ def plotar_grafico(saldos, meses):
 # Parâmetros de entrada
 valor_inicial = float(input("Digite o valor inicial da reserva (R$): "))
 aporte_mensal = float(input("Digite o valor do aporte mensal (R$): "))
-taxa_anual = 0.10835  # CDI anual de 10,835%
+taxa_anual = 0.1084  # CDI anual de 10,84%
 meses = int(input("Digite o período em meses: "))
 
 # Cálculo e exibição

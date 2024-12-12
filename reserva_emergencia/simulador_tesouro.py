@@ -56,7 +56,7 @@ def plotar_grafico(saldos, meses, tipo):
 # Parâmetros de entrada
 valor_inicial = float(input("Digite o valor inicial do investimento (R$): "))
 aporte_mensal = float(input("Digite o valor do aporte mensal (R$): "))
-taxa_anual = float(input("Digite a taxa anual (exemplo: 0.1125 para 11,25%): "))
+taxa_anual = float(input("Digite a taxa anual (exemplo: 0.1225 para 12,25%): "))
 meses = int(input("Digite o período em meses: "))
 tipo = input("Digite o tipo de título ('selic', 'prefixado', 'ipca', 'ipca_juros', 'renda+', 'educa+'): ")
 
