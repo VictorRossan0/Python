@@ -1,16 +1,18 @@
-# Ignorar o ambiente virtual
+# Ignorar o ambiente virtual e outros gerenciadores de ambiente
 .venv/
+env/
 
 # Ignorar arquivos de cache do Python
 __pycache__/
 *.pyc
 *.pyo
 
-# Ignorar logs e arquivos temporários
+# Ignorar logs, arquivos temporários e backups
 *.log
 *.tmp
+*.bak
 
-# Ignorar configurações do editor
+# Ignorar configurações de IDEs e editores de texto
 .vscode/
 .idea/
 *.swp
@@ -19,6 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignorar Excel e Imagem
-.xlsx
-.png
+# Ignorar arquivos específicos do projeto
+*.xlsx
+*.png
