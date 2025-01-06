@@ -71,7 +71,7 @@ def salvar_em_excel(dados):
     df = pd.DataFrame(dados)
 
     # Salvar em Excel
-    arquivo_excel = "dividendos_atualizado.xlsx"
+    arquivo_excel = "excel/dividendos_atualizado.xlsx"
     with pd.ExcelWriter(arquivo_excel, engine="openpyxl") as writer:
         df.to_excel(writer, index=False, sheet_name="Dados")
         worksheet = writer.sheets["Dados"]
@@ -96,7 +96,7 @@ def salvar_em_excel(dados):
         plt.tight_layout()
 
         # Salvar gráfico como imagem
-        grafico_imagem = "grafico_dividendos.png"
+        grafico_imagem = "graficos/grafico_dividendos.png"
         plt.savefig(grafico_imagem)
         plt.close()
 

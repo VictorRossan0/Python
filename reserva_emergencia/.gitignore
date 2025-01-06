@@ -11,6 +11,7 @@ __pycache__/
 *.log
 *.tmp
 *.bak
+*log.txt
 
 # Ignorar configurações de IDEs e editores de texto
 .vscode/

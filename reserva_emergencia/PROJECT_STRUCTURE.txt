@@ -1,0 +1,13 @@
+.
+├── main.py                 # Arquivo principal que executa o programa.
+├── cadastro.py             # Funções relacionadas ao cadastro de ativos.
+├── calculos.py             # Funções para cálculos (quantidades, diversificação, rentabilidade).
+├── visualizacao.py         # Funções para geração de gráficos.
+├── relatorios.py           # Funções para salvar relatórios (Excel e logs).
+├── simulador_reserva.py    # Funções para cálculos da Reserva de Emergência.
+├── simulador_tesouro.py    # Funções para cálculos do Tesouro Direto.
+├── utils.py                # Funções auxiliares (validação de entrada, logs, etc.).
+├── README.md               # Documentação do projeto.
+├── requirements.txt        # Dependências do projeto.
+├── dividendos_atualizado.xlsx  # Arquivo Excel gerado pelo programa (após execução).
+└── log_operacoes.txt       # Registro de operações realizadas pelo programa.
