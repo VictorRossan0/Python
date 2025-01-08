@@ -12,7 +12,7 @@ import pandas as pd
 def extrair_info_estatistica(url, estatisticas, quantidade=5):
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
     
     driver = webdriver.Firefox(options=firefox_options)
 

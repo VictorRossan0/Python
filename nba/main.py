@@ -3,6 +3,7 @@ from openpyxl.workbook import Workbook
 from openpyxl.utils import get_column_letter
 from Models.calendario_nba import extrair_info_calendario
 from Models.leaders_nba import extrair_info_lideres
+from Models.leaders_teams_nba import extrair_info_classificacao
 from Models.teams_nba_leaders import extrair_info_teams
 from Models.doubled_tripled_nba import main as doubled_tripled_main
 
@@ -11,6 +12,7 @@ extrair_info_calendario()
 extrair_info_lideres()
 extrair_info_teams()
 doubled_tripled_main()
+extrair_info_classificacao()
 
 def criar_novo_excel():
     wb_novo = Workbook()
@@ -22,6 +24,7 @@ def criar_novo_excel():
     wb_teams = load_workbook('Excel/team_leaders_nba.xlsx')
     wb_dd = load_workbook('Excel/doubledouble.xlsx')
     wb_td = load_workbook('Excel/tripledouble.xlsx')
+    wb_classificacao = load_workbook('Excel/classificacao_nba.xlsx')
 
     # Copia as abas para o novo arquivo Excel
     for sheet in wb_calendario.sheetnames:
@@ -54,6 +57,13 @@ def criar_novo_excel():
     
     for sheet in wb_td.sheetnames:
         ws = wb_td[sheet]
+        ws_novo = wb_novo.create_sheet(title=sheet)
+        for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
+            values = [cell.value for cell in row]
+            ws_novo.append(values)
+    
+    for sheet in wb_classificacao.sheetnames:
+        ws = wb_classificacao[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]

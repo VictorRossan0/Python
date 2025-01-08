@@ -11,7 +11,7 @@ import json
 def extrair_info_lideres():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
 
     driver = webdriver.Firefox(options=firefox_options)
 

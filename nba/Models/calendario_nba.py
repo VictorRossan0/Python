@@ -11,7 +11,7 @@ import openpyxl
 def extrair_info_calendario():
     print("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
     firefox_options.binary_location = "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"  # Adicione o caminho para o executável do Firefox
 
     driver = webdriver.Firefox(options=firefox_options)
