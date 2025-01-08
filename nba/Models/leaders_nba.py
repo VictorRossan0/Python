@@ -48,13 +48,12 @@ def extrair_info_lideres():
             espnfitt_json = espnfitt_match.group(1)
             print("Json Carregado com sucesso")
             espnfitt_data = json.loads(espnfitt_json)
-            print("Content do Json carregado")
+            print("Conteúdo do Json carregado")
 
             # Especificando o caminho do arquivo de texto
             caminho_arquivo = 'TXT/conteudo_espnfitt.txt'
 
             # Convertendo a estrutura combinada para uma string formatada
-
             json_formatado = json.dumps(espnfitt_data['page']['content']['statistics']['leaders'], indent=2, ensure_ascii=False)
 
             # Escrevendo o conteúdo no arquivo
@@ -68,50 +67,50 @@ def extrair_info_lideres():
                 leaders_ofensivos = espnfitt_data['page']['content']['statistics']['leaders']['0']['groups']
                 leaders_defensivos = espnfitt_data['page']['content']['statistics']['leaders']['1']['groups']
 
-                # Criar DataFrame do Pandas para todos os líderes
-                df_geral = pd.DataFrame(
-                    columns=['Tipo', 'Rank', 'Nome de Jogador', 'Time', 'Valor'])
-
-                # Preencher DataFrame com informações
-                for group in leaders_ofensivos:
-                    header = group['header']
-                    leaders = group['leaders']
-
-                    for leader in leaders:
-                        rank = leader['rank']
-                        player_name = leader['name']
-                        team = leader['team']
-                        stat_value = leader['statValue']
-
-                        df_geral = pd.concat([df_geral, pd.DataFrame(
-                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team], 'Valor': [stat_value]})])
-
-                for group in leaders_defensivos:
-                    header = group['header']
-                    leaders = group['leaders']
-
-                    for leader in leaders:
-                        rank = leader['rank']
-                        player_name = leader['name']
-                        team = leader['team']
-                        stat_value = leader['statValue']
-
-                        df_geral = pd.concat([df_geral, pd.DataFrame(
-                            {'Tipo': [header], 'Rank': [rank], 'Nome de Jogador': [player_name], 'Time': [team], 'Valor': [stat_value]})])
-
-                # Salvar DataFrame em arquivo Excel
-                caminho_excel = 'Excel/leaders_nba.xlsx'
-
-                # Remover a coluna 'Tipo' do DataFrame principal
-                df_geral_sem_tipo = df_geral.drop(columns=['Tipo'])
-
                 # Cria um escritor Excel
+                caminho_excel = 'Excel/leaders_nba.xlsx'
                 writer = pd.ExcelWriter(caminho_excel, engine='xlsxwriter')
 
-                # Filtra e salva cada tabela sem a coluna 'Tipo'
-                for tipo, tabela in df_geral.groupby('Tipo'):
-                    tabela_sem_tipo = tabela.drop(columns=['Tipo'])
-                    tabela_sem_tipo.to_excel(writer, sheet_name=tipo, index=False)
+                # Função para adicionar tabelas em uma única aba
+                def adicionar_tabelas_aba(writer, nome_aba, grupos):
+                    workbook = writer.book
+                    worksheet = workbook.add_worksheet(nome_aba)
+                    writer.sheets[nome_aba] = worksheet
+
+                    linha_inicial = 0  # Linha inicial para começar a escrever os dados
+
+                    for group in grupos:
+                        header = group['header']
+                        leaders = group['leaders']
+
+                        # Criar DataFrame para o grupo atual
+                        tabela_grupo = pd.DataFrame([
+                            {
+                                'Rank': leader['rank'],
+                                'Nome de Jogador': leader['name'],
+                                'Time': leader['team'],
+                                'Valor': leader['statValue']
+                            }
+                            for leader in leaders
+                        ])
+
+                        # Escreve o cabeçalho do grupo
+                        worksheet.write(linha_inicial, 0, header)
+                        linha_inicial += 1  # Pula uma linha
+
+                        # Escreve os dados do grupo como tabela
+                        for r, row in tabela_grupo.iterrows():
+                            for c, value in enumerate(row):
+                                worksheet.write(linha_inicial + r, c, value)
+
+                        # Avança linhas para próxima tabela
+                        linha_inicial += len(tabela_grupo) + 2  # Pula mais 2 linhas para separar tabelas
+
+                # Adiciona os líderes ofensivos na aba correspondente
+                adicionar_tabelas_aba(writer, 'Líderes Ofensivos', leaders_ofensivos)
+
+                # Adiciona os líderes defensivos na aba correspondente
+                adicionar_tabelas_aba(writer, 'Líderes Defensivos', leaders_defensivos)
 
                 # Fecha o escritor Excel
                 writer.close()
@@ -128,3 +127,4 @@ def extrair_info_lideres():
 
     finally:
         driver.quit()
+
