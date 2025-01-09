@@ -9,10 +9,10 @@ from Models.doubled_tripled_nba import main as doubled_tripled_main
 
 # Extrai as informações uma vez
 extrair_info_calendario()
-extrair_info_lideres()
-extrair_info_teams()
-doubled_tripled_main()
 extrair_info_classificacao()
+extrair_info_lideres()
+doubled_tripled_main()
+extrair_info_teams()
 
 def criar_novo_excel():
     wb_novo = Workbook()
@@ -20,12 +20,12 @@ def criar_novo_excel():
 
     # Abre os arquivos Excel existentes
     wb_calendario = load_workbook('Excel/informacoes_eventos.xlsx')
+    wb_classificacao = load_workbook('Excel/classificacao_nba.xlsx')
     wb_lideres = load_workbook('Excel/leaders_nba.xlsx')
-    wb_teams = load_workbook('Excel/team_leaders_nba.xlsx')
     wb_dd = load_workbook('Excel/doubledouble.xlsx')
     wb_td = load_workbook('Excel/tripledouble.xlsx')
-    wb_classificacao = load_workbook('Excel/classificacao_nba.xlsx')
-
+    wb_teams = load_workbook('Excel/team_leaders_nba.xlsx')
+    
     # Copia as abas para o novo arquivo Excel
     for sheet in wb_calendario.sheetnames:
         ws = wb_calendario[sheet]
@@ -34,15 +34,15 @@ def criar_novo_excel():
             values = [cell.value for cell in row]
             ws_novo.append(values)
 
-    for sheet in wb_lideres.sheetnames:
-        ws = wb_lideres[sheet]
+    for sheet in wb_classificacao.sheetnames:
+        ws = wb_classificacao[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
             ws_novo.append(values)
-    
-    for sheet in wb_teams.sheetnames:
-        ws = wb_teams[sheet]
+
+    for sheet in wb_lideres.sheetnames:
+        ws = wb_lideres[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]
@@ -62,8 +62,8 @@ def criar_novo_excel():
             values = [cell.value for cell in row]
             ws_novo.append(values)
     
-    for sheet in wb_classificacao.sheetnames:
-        ws = wb_classificacao[sheet]
+    for sheet in wb_teams.sheetnames:
+        ws = wb_teams[sheet]
         ws_novo = wb_novo.create_sheet(title=sheet)
         for row in ws.iter_rows(min_row=1, max_row=ws.max_row, min_col=1, max_col=ws.max_column):
             values = [cell.value for cell in row]

@@ -1,3 +1,4 @@
+import pytz
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -5,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 import re
+
 from datetime import datetime
 import openpyxl
 
@@ -61,7 +63,7 @@ def extrair_info_calendario():
             ws.title = "Jogos de Hoje"
             
             # Cria as colunas no arquivo Excel
-            columns = ["Competidores", "Data do Evento", "Local do Evento"]
+            columns = ["Competidores", "Data do Evento", "Horário do Evento", "Local do Evento"]
             ws.append(columns)
 
             # Itera sobre cada evento
@@ -81,19 +83,41 @@ def extrair_info_calendario():
 
                         data_do_evento = datetime.strptime(date, "%Y%m%d").strftime("%d-%m-%Y")
                         local_do_evento = event['venue']['address']['city']
+                        
+                        # Extrai e converte o horário
+                        horario_raw = event['status']['detail']
+                        horario_match = re.search(r"at (\d+:\d+ [AP]M)", horario_raw)
+                        if horario_match:
+                            horario_bruto = horario_match.group(1)
+                            horario_obj = datetime.strptime(horario_bruto, "%I:%M %p").replace(
+                                                                year=datetime.now().year, 
+                                                                month=datetime.now().month, 
+                                                                day=datetime.now().day
+                                                            )
+
+                            est_tz = pytz.timezone("US/Eastern")
+                            horario_com_fuso = est_tz.localize(horario_obj)
+                            brasilia_tz = pytz.timezone("America/Sao_Paulo")
+                            horario_brasilia = horario_com_fuso.astimezone(brasilia_tz)
+
+                            horario_do_evento = horario_brasilia.strftime("%H:%M")
+                        else:
+                            horario_do_evento = "Horário não disponível"
 
                         # Escreve as informações no arquivo de texto
                         with open(nome_arquivo_txt, 'a', encoding='utf-8') as arquivo_txt:
                             arquivo_txt.write(f"Competidores: {teams_formatted}\n")  # Usando a nova formatação
                             arquivo_txt.write(f"Data do Evento: {data_do_evento}\n")
+                            arquivo_txt.write(f"Horário do Evento: {horario_do_evento}\n")
                             arquivo_txt.write(f"Local do Evento: {local_do_evento}\n\n")
 
                             print(f"Competidores: {teams_formatted}")  # Usando a nova formatação
                             print(f"Data do Evento: {data_do_evento}")
+                            print(f"Horário do Evento: {horario_do_evento}")
                             print(f"Local do Evento: {local_do_evento}\n")
 
                         # Escreve as informações no arquivo Excel
-                        ws.append([teams_formatted, data_do_evento, local_do_evento])
+                        ws.append([teams_formatted, data_do_evento, horario_do_evento, local_do_evento])
 
             # Salva o arquivo Excel
             wb.save(nome_arquivo_excel)
