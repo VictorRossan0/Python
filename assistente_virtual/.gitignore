@@ -1,0 +1,12 @@
+# Ignorar arquivos do ambiente virtual
+.venv/
+
+# Ignorar arquivos de configuração sensíveis
+.env
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+
+#Ignorar mp3
+*.mp3
