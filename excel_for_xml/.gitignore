@@ -1,0 +1,28 @@
+# Ignorar o ambiente virtual e outros gerenciadores de ambiente
+.venv/
+env/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar logs, arquivos temporários e backups
+*.log
+*.tmp
+*.bak
+*log.txt
+
+# Ignorar configurações de IDEs e editores de texto
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos específicos do projeto
+*.xlsx
+*.png
+*.xml
