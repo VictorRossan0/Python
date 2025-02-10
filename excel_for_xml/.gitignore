@@ -26,3 +26,9 @@ Thumbs.db
 *.xlsx
 *.png
 *.xml
+
+# Ignorar diretórios de build e distribuição
+build/
+dist/
+*.egg-info/
+*.egg

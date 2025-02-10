@@ -1,6 +1,19 @@
 import os
+import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
+import logging
+
+def get_base_dir():
+    """
+    Retorna o diretório base onde o executável ou script está localizado.
+    """
+    if hasattr(sys, '_MEIPASS'):
+        # Diretório temporário criado pelo PyInstaller
+        return os.path.dirname(sys.argv[0])
+    else:
+        # Diretório do script ou do executável
+        return os.path.dirname(os.path.abspath(__file__))
 
 def excel_to_xml(input_excel: str, output_xml: str):
     """
@@ -40,8 +53,14 @@ def excel_to_xml(input_excel: str, output_xml: str):
         raise IOError(f"Erro ao escrever o arquivo XML: {e}")
 
 def main():
-    # Diretório base do código
-    diretorio_base = os.path.dirname(os.path.abspath(__file__))
+    # Diretório base do script ou executável
+    diretorio_base = get_base_dir()
+    
+    # Configuração do logging
+    logging.basicConfig(filename='logging.txt', level=logging.INFO, 
+                        format='%(asctime)s - %(levelname)s - %(message)s')
+
+    logging.info("Iniciando o Conversor de Excel para XML.")
     
     print("Bem-vindo ao Conversor de Excel para XML")
     print("Por favor, siga as instruções abaixo.\n")
@@ -50,12 +69,16 @@ def main():
     nome_arquivo_excel = input("Digite o nome do arquivo Excel (com extensão) que está no mesmo diretório deste código: ").strip()
     caminho_excel = os.path.join(diretorio_base, nome_arquivo_excel)
 
+    logging.info(f"Procurando o arquivo Excel: {caminho_excel}")
+    
     # Verifica se o arquivo Excel existe
     if not os.path.exists(caminho_excel):
+        logging.warning(f"Arquivo Excel não encontrado no diretório: {diretorio_base}")
         print(f"Arquivo Excel não encontrado no diretório: {diretorio_base}")
         print("Por favor, coloque o arquivo Excel no mesmo diretório que este código e tente novamente.")
         return
     else:
+        logging.info(f"Arquivo Excel encontrado: {caminho_excel}")
         print(f"Arquivo Excel encontrado: {caminho_excel}")
 
     # Caminho do arquivo XML de saída
@@ -73,8 +96,10 @@ def main():
     # Realiza a conversão
     try:
         excel_to_xml(caminho_excel, caminho_xml)
+        logging.info(f"Conversão realizada com sucesso! Arquivo XML salvo como: {os.path.basename(caminho_xml)}")
         print(f"\nConversão realizada com sucesso! O arquivo XML foi salvo como: {os.path.basename(caminho_xml)}")
     except Exception as e:
+        logging.error(f"Ocorreu um erro durante a conversão: {e}")
         print(f"Ocorreu um erro durante a conversão: {e}")
 
 if __name__ == "__main__":
