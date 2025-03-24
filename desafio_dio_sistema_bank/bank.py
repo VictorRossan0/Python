@@ -15,29 +15,30 @@ class ContaBancaria:
         self.saldo = 0
         self.historico = []
 
+    def registrar_transacao(self, descricao):
+        self.historico.append(descricao)
+
     def depositar(self, valor):
         if valor > 0:
             self.saldo += valor
-            self.historico.append(f"Depósito de R$ {valor:.2f}")
-            print("Depósito realizado com sucesso!")
-        else:
-            print("Valor inválido para depósito.")
+            self.registrar_transacao(f"Depósito de R$ {valor:.2f}")
+            return "Depósito realizado com sucesso!"
+        return "Valor inválido para depósito."
 
     def sacar(self, valor):
         if valor > 0 and valor <= self.saldo:
             self.saldo -= valor
-            self.historico.append(f"Saque de R$ {valor:.2f}")
-            print("Saque realizado com sucesso!")
-        else:
-            print("Saldo insuficiente ou valor inválido.")
+            self.registrar_transacao(f"Saque de R$ {valor:.2f}")
+            return "Saque realizado com sucesso!"
+        return "Saldo insuficiente ou valor inválido."
 
     def consultar_saldo(self):
-        print(f"Saldo atual: R$ {self.saldo:.2f}")
+        return f"Saldo atual: R$ {self.saldo:.2f}"
 
     def exibir_historico(self):
-        print("Histórico de transações:")
-        for transacao in self.historico:
-            print("-", transacao)
+        if not self.historico:
+            return "Nenhuma transação realizada."
+        return "Histórico de transações:\n" + "\n".join(f"- {transacao}" for transacao in self.historico)
 
 
 class Banco:
@@ -45,25 +46,41 @@ class Banco:
         self.clientes = []
         self.contas = []
 
-    def cadastrar_cliente(self, cliente):
+    def cadastrar_cliente(self, nome, cpf, data_nascimento):
+        cliente = Cliente(nome, cpf, data_nascimento)
         self.clientes.append(cliente)
-        print(f"Cliente {cliente.nome} cadastrado com sucesso!")
+        return f"Cliente {nome} cadastrado com sucesso!"
 
     def criar_conta(self, cliente):
         numero_conta = len(self.contas) + 1
         conta = ContaBancaria(numero_conta, cliente)
         self.contas.append(conta)
-        print(f"Conta criada para {cliente.nome}. Número da conta: {numero_conta}")
-        return conta
+        return f"Conta criada para {cliente.nome}. Número da conta: {numero_conta}", conta
+
+
+# Funções para operar o sistema
+def realizar_deposito(conta, valor):
+    return conta.depositar(valor)
+
+def realizar_saque(conta, valor):
+    return conta.sacar(valor)
+
+def consultar_saldo(conta):
+    return conta.consultar_saldo()
+
+def exibir_historico(conta):
+    return conta.exibir_historico()
 
 
 # Exemplo de uso
 banco = Banco()
-cliente1 = Cliente("João Silva", "123.456.789-00", "01/01/1980")
-banco.cadastrar_cliente(cliente1)
+print(banco.cadastrar_cliente("João Silva", "123.456.789-00", "01/01/1980"))
 
-conta1 = banco.criar_conta(cliente1)
-conta1.depositar(500)
-conta1.sacar(200)
-conta1.consultar_saldo()
-conta1.exibir_historico()
+cliente1 = banco.clientes[0]
+mensagem, conta1 = banco.criar_conta(cliente1)
+print(mensagem)
+
+print(realizar_deposito(conta1, 500))
+print(realizar_saque(conta1, 200))
+print(consultar_saldo(conta1))
+print(exibir_historico(conta1))
