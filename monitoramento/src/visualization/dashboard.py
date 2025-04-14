@@ -66,9 +66,15 @@ if menu == "Resumo":
         with col2:
             st.metric("Casos Ativos", casos_ativos)
         with col3:
-            st.metric("Última Data (D/M/A)", ultimo_end_time.strftime("%d/%m/%y") if ultimo_end_time else "N/A")
+            st.metric(
+                "Última Data (D/M/A)",
+                ultimo_end_time.strftime("%d/%m/%y")
+                if ultimo_end_time else "N/A")
         with col4:
-            st.metric("Último Horário (H:M:S)", ultimo_end_time.strftime("%H:%M:%S") if ultimo_end_time else "N/A")
+            st.metric(
+                "Último Horário (H:M:S)",
+                ultimo_end_time.strftime("%H:%M:%S")
+                if ultimo_end_time else "N/A")
     else:
         st.warning("Nenhuma execução ativa ou recente encontrada.")
 
@@ -93,15 +99,21 @@ elif menu == "Gráfico":
     if not data.empty:
         # Gráfico de Execuções por Hora
         st.subheader("Execuções por Hora")
-        data["hour"] = data["entry_datetime"].dt.floor("H")  # Arredonda para a hora completa
-        data["formatted_hour"] = data["hour"].apply(lambda x: x.strftime("%H:%M") if not pd.isnull(x) else "N/A")
-        execucoes_por_hora = data[data["formatted_hour"] != "N/A"].groupby("formatted_hour").size().reset_index(name="count")
+        data["hour"] = data["entry_datetime"].dt.floor(
+            "H")  # Arredonda para a hora completa
+        data["formatted_hour"] = data["hour"].apply(
+            lambda x: x.strftime("%H:%M") if not pd.isnull(x) else "N/A")
+        execucoes_por_hora = data[data["formatted_hour"] != "N/A"].groupby(
+            "formatted_hour").size().reset_index(name="count")
         fig_hora = px.bar(
             execucoes_por_hora,
             x="formatted_hour",
             y="count",
             title="Execuções por Hora",
-            labels={"formatted_hour": "Hora (hh:mm)", "count": "Quantidade"},
+            labels={
+                "formatted_hour": "Hora (hh:mm)",
+                "count": "Quantidade"
+            },
             text="count",
         )
         fig_hora.update_layout(
@@ -115,14 +127,26 @@ elif menu == "Gráfico":
         # Gráfico de Execuções por Dia
         st.subheader("Execuções por Dia")
         data["date"] = data["entry_datetime"].dt.date  # Extrai a data
-        data["formatted_date"] = data["date"].apply(lambda x: x.strftime("%d/%m/%y") if not pd.isnull(x) else "N/A")
-        execucoes_por_dia = data[data["formatted_date"] != "N/A"].groupby("formatted_date").size().reset_index(name="count")
+        data["formatted_date"] = data["date"].apply(
+            lambda x: x.strftime("%d/%m/%y") if not pd.isnull(x) else "N/A")
+        execucoes_por_dia = data[data["formatted_date"] != "N/A"].groupby(
+            "formatted_date").size().reset_index(name="count")
+
+        # Ordenar por data
+        execucoes_por_dia["formatted_date_sort"] = pd.to_datetime(
+            execucoes_por_dia["formatted_date"], format="%d/%m/%y")
+        execucoes_por_dia = execucoes_por_dia.sort_values(
+            "formatted_date_sort")
+
         fig_dia = px.bar(
             execucoes_por_dia,
             x="formatted_date",
             y="count",
             title="Execuções por Dia",
-            labels={"formatted_date": "Data (dd/mm/yy)", "count": "Quantidade"},
+            labels={
+                "formatted_date": "Data (dd/mm/yy)",
+                "count": "Quantidade"
+            },
             text="count",
         )
         fig_dia.update_layout(
