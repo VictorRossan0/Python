@@ -2,7 +2,7 @@ import logging
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from database.queries import fetch_execution_status, monitor_relatorios74
+from database.queries import fetch_execution_status
 from processing.processing import calculate_execution_time
 from dotenv import load_dotenv
 from st_aggrid import AgGrid
@@ -29,26 +29,14 @@ def load_execution_data():
         st.error("Falha ao carregar os dados de execuções.")
     return data
 
-# Função para carregar e processar dados de relatórios
-def load_reports_data():
-    data = pd.DataFrame()
-    try:
-        data = monitor_relatorios74()
-        data["data_hora_extracao"] = pd.to_datetime(data["data_hora_extracao"], errors="coerce")
-    except Exception as e:
-        logger.error(f"Erro ao buscar ou processar dados de relatórios: {e}")
-        st.error("Falha ao carregar os dados de relatórios.")
-    return data
-
 # Carregar dados
 exec_data = load_execution_data()
-report_data = load_reports_data()
 
-# Separação de abas
-menu = st.sidebar.radio("Menu", ["Execuções Ativas", "Relatórios Pendentes/Incompletos"])
+# Menu de Navegação
+menu = st.sidebar.radio("Menu", ["Resumo", "Detalhes", "Gráfico"])
 
-if menu == "Execuções Ativas":
-    st.header("Monitoramento das Execuções")
+if menu == "Resumo":
+    st.header("Resumo das Execuções")
     if not exec_data.empty:
         total_execucoes = exec_data["entry_datetime"].notnull().sum()
         casos_ativos = exec_data["ativo"].sum()
@@ -69,7 +57,12 @@ if menu == "Execuções Ativas":
                 "Último Horário (H:M:S)",
                 ultimo_end_time.strftime("%H:%M:%S") if ultimo_end_time else "N/A"
             )
+    else:
+        st.warning("Nenhuma execução ativa ou recente encontrada.")
 
+elif menu == "Detalhes":
+    st.header("Detalhes das Execuções")
+    if not exec_data.empty:
         st.subheader("Tabela de Execuções")
         AgGrid(
             exec_data,
@@ -81,67 +74,63 @@ if menu == "Execuções Ativas":
             theme="streamlit",
         )
     else:
-        st.warning("Nenhuma execução ativa ou recente encontrada.")
+        st.warning("Nenhum dado disponível para exibir.")
 
-elif menu == "Relatórios Pendentes/Incompletos":
-    st.header("Monitoramento dos Relatórios")
-    if not report_data.empty:
-        pendentes = report_data[report_data["status"] == 0]
-        incompletos = report_data[report_data["data_hora_extracao"].isna()]
-
-        st.subheader("Resumo dos Relatórios")
-        col1, col2 = st.columns(2)
-        with col1:
-            st.metric("Relatórios Pendentes", len(pendentes))
-        with col2:
-            st.metric("Relatórios Incompletos", len(incompletos))
-
-        st.subheader("Gráfico de Relatórios Pendentes por Status")
-        status_counts = report_data["status"].value_counts().reset_index()
-        status_counts.columns = ["Status", "Quantidade"]
-        fig_status = px.pie(
-            status_counts,
-            names="Status",
-            values="Quantidade",
-            title="Distribuição de Relatórios por Status",
+elif menu == "Gráfico":
+    st.header("Gráficos das Execuções")
+    if not exec_data.empty:
+        # Gráfico de Execuções por Hora
+        st.subheader("Execuções por Hora")
+        exec_data["hour"] = exec_data["entry_datetime"].dt.floor("H")
+        exec_data["formatted_hour"] = exec_data["hour"].apply(
+            lambda x: x.strftime("%H:%M") if not pd.isnull(x) else "N/A"
+        )
+        execucoes_por_hora = exec_data[exec_data["formatted_hour"] != "N/A"].groupby(
+            "formatted_hour"
+        ).size().reset_index(name="count")
+        fig_hora = px.bar(
+            execucoes_por_hora,
+            x="formatted_hour",
+            y="count",
+            title="Execuções por Hora",
+            labels={"formatted_hour": "Hora (hh:mm)", "count": "Quantidade"},
+            text="count",
+        )
+        fig_hora.update_layout(
+            title_font_size=18,
+            xaxis_title="Hora",
+            yaxis_title="Execuções",
             template="plotly_white",
         )
-        st.plotly_chart(fig_status, use_container_width=True)
+        st.plotly_chart(fig_hora, use_container_width=True)
 
-        st.subheader("Gráfico de Relatórios por Data de Extração")
-        valid_extraction = report_data[report_data["data_hora_extracao"].notna()]
-        valid_extraction["formatted_date"] = valid_extraction["data_hora_extracao"].dt.date
-        date_counts = valid_extraction.groupby("formatted_date").size().reset_index(name="Quantidade")
-        fig_date = px.bar(
-            date_counts,
+        # Gráfico de Execuções por Dia
+        st.subheader("Execuções por Dia")
+        exec_data["date"] = exec_data["entry_datetime"].dt.date
+        exec_data["formatted_date"] = exec_data["date"].apply(
+            lambda x: x.strftime("%d/%m/%y") if not pd.isnull(x) else "N/A"
+        )
+        execucoes_por_dia = exec_data[exec_data["formatted_date"] != "N/A"].groupby(
+            "formatted_date"
+        ).size().reset_index(name="count")
+        execucoes_por_dia["formatted_date_sort"] = pd.to_datetime(
+            execucoes_por_dia["formatted_date"], format="%d/%m/%y"
+        )
+        execucoes_por_dia = execucoes_por_dia.sort_values("formatted_date_sort")
+        fig_dia = px.bar(
+            execucoes_por_dia,
             x="formatted_date",
-            y="Quantidade",
-            title="Relatórios por Data de Extração",
-            labels={"formatted_date": "Data", "Quantidade": "Quantidade"},
+            y="count",
+            title="Execuções por Dia",
+            labels={"formatted_date": "Data (dd/mm/yy)", "count": "Quantidade"},
+            text="count",
+        )
+        fig_dia.update_layout(
+            title_font_size=18,
+            xaxis_title="Data",
+            yaxis_title="Execuções",
             template="plotly_white",
         )
-        st.plotly_chart(fig_date, use_container_width=True)
-
-        st.subheader("Tabela de Relatórios Pendentes")
-        AgGrid(
-            pendentes,
-            editable=True,
-            sortable=True,
-            filter=True,
-            resizable=True,
-            fit_columns_on_grid_load=True,
-            theme="streamlit",
-        )
-
-        st.subheader("Tabela de Relatórios Incompletos")
-        AgGrid(
-            incompletos,
-            editable=True,
-            sortable=True,
-            filter=True,
-            resizable=True,
-            fit_columns_on_grid_load=True,
-            theme="streamlit",
-        )
+        st.plotly_chart(fig_dia, use_container_width=True)
     else:
-        st.warning("Nenhum dado de relatório disponível para exibir.")
+        st.warning("Nenhum dado disponível para exibir.")
