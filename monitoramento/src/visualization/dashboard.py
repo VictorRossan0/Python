@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from database.queries import fetch_execution_status, monitor_status_updates
-from processing.processing import calculate_execution_time
+from processing.processing import calculate_execution_time, calculate_execution_time_2
 from dotenv import load_dotenv
 from st_aggrid import AgGrid
 
@@ -35,7 +35,9 @@ def load_reports_data():
     try:
         data = monitor_status_updates()
         data["data_hora_extracao"] = pd.to_datetime(data["data_hora_extracao"], errors="coerce")
-        data.dropna(subset=["data_hora_extracao"], inplace=True)
+        data["updated_at"] = pd.to_datetime(data["updated_at"], errors="coerce")
+        data.dropna(subset=["data_hora_extracao", "updated_at"], inplace=True)
+        data = calculate_execution_time_2(data)
     except Exception as e:
         logger.error(f"Erro ao buscar ou processar dados do Relatório 2: {e}")
         st.error("Falha ao carregar os dados do Relatório 2.")
@@ -152,7 +154,7 @@ elif menu == "Relatório 2":
         if not report_data.empty:
             total_execucoes_2 = report_data["data_hora_extracao"].notnull().sum()
             casos_ativos_2 = report_data["status"].sum()
-            ultimo_end_time_2 = report_data["data_hora_extracao"].max()
+            ultimo_end_time_2 = report_data["updated_at"].max()
 
             col1, col2, col3, col4 = st.columns(4)
             with col1:
