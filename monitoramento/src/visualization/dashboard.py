@@ -77,8 +77,12 @@ def load_reports_data_relatorios74():
         data["valid_obs"] = data["obs"].astype(str).str.startswith(
             "Pré-Ativação:")
 
-        # Calcula o backlog como a soma de valores nulos na coluna 'obs' (para uso em métricas)
-        data["backlog"] = data["obs"].isnull().sum()
+        # Calcula o backlog como a soma de valores nulos na coluna 'obs' ou contendo "Alerta não previsto" ou "Faltando dado" (para uso em métricas)
+        cond_null = data["obs"].isnull()
+        cond_alerta = data["obs"].astype(
+            str).str.strip() == "Alerta não previsto"
+        cond_faltando = data["obs"].astype(str).str.strip() == "Faltando dado"
+        data["backlog"] = (cond_null | cond_alerta | cond_faltando).sum()
 
         # Calcula o tempo de execução (diferença entre updated_at e data_hora_extracao)
         data = calculate_execution_time_2(data)
@@ -265,10 +269,12 @@ elif menu == "Painel 2":
             hoje = date.today()
 
             # Filtrar os dados apenas para o dia atual e criar cópia
-            execucoes_hoje = report_data_2[report_data_2["date"] == hoje].copy()
+            execucoes_hoje = report_data_2[report_data_2["date"] ==
+                                           hoje].copy()
 
             # Adicionar uma coluna com a hora
-            execucoes_hoje["hour"] = execucoes_hoje["data_hora_extracao"].dt.hour
+            execucoes_hoje["hour"] = execucoes_hoje[
+                "data_hora_extracao"].dt.hour
 
             # Contar as horas distintas em que ocorreram execuções
             execucoes_distintas_por_hora = execucoes_hoje["hour"].nunique()
@@ -418,7 +424,8 @@ elif menu == "Painel 3":
             execucoes_hoje = report_data[report_data["date"] == hoje].copy()
 
             # Adicionar uma coluna com a hora
-            execucoes_hoje["hour"] = execucoes_hoje["data_hora_extracao"].dt.hour
+            execucoes_hoje["hour"] = execucoes_hoje[
+                "data_hora_extracao"].dt.hour
 
             # Contar as horas distintas em que ocorreram execuções
             execucoes_distintas_por_hora = execucoes_hoje["hour"].nunique()
