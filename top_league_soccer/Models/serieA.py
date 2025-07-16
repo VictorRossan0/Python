@@ -24,13 +24,15 @@ def find_table_by_xpath(driver, xpath):
         return None
 
 def save_table_to_file(table, filename):
-    if table:
-        ensure_dir_exists(os.path.dirname(filename))
-        with open(filename, 'w', encoding='utf-8') as file:
+    ensure_dir_exists(os.path.dirname(filename))
+    # Cria ou sobrescreve o arquivo TXT
+    with open(filename, 'w', encoding='utf-8') as file:
+        if table:
             file.write(table.get_attribute('outerHTML'))
             logging.info(f"Tabela salva em {filename}")
-    else:
-        logging.error("Não foi possível salvar a tabela, pois não foi encontrada.")
+        else:
+            file.write('')  # Escreve vazio se não houver tabela
+            logging.warning(f"Arquivo {filename} criado vazio (sem tabela).")
 
 def read_table_from_file(filename):
     try:
