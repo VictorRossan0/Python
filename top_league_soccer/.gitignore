@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+Models/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Excel e arquivos temporários
+Excel/
+TXT/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema

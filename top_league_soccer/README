@@ -1,0 +1,70 @@
+# Top League Soccer
+
+Este projeto automatiza a coleta de dados das principais ligas de futebol do mundo, utilizando Selenium para web scraping e OpenPyXL para manipulação de planilhas Excel.
+
+## Funcionalidades
+
+- Extrai tabelas de classificação de diversas ligas (Bundesliga, Eredivisie, La Liga, Ligue 1, Premier League, Premier Russia, Primeira Liga, Serie A, Super Lig, Brasileirão).
+- Salva os dados de cada liga em arquivos Excel separados.
+- Gera uma planilha consolidada (`planilha_TOP10_ligas.xlsx`) com todas as ligas, cada uma em uma aba.
+- Ajusta automaticamente a largura das colunas para melhor visualização.
+
+## Requisitos
+
+- Python 3.8+
+- Firefox instalado
+- Geckodriver compatível com seu Firefox
+
+## Instalação
+
+Recomenda-se criar um ambiente virtual para instalar as dependências:
+
+```bash
+python -m venv .venv
+```
+
+Ative o ambiente virtual:
+
+- **Windows:**
+
+  ```bash
+  .venv\Scripts\activate
+  ```
+
+- **Linux/Mac:**
+
+  ```bash
+  source .venv/bin/activate
+  ```
+
+Instale as dependências:
+
+```bash
+pip install selenium openpyxl beautifulsoup4 pandas
+```
+
+## Como usar
+
+1. Configure o caminho do Firefox se necessário, usando a variável de ambiente `FIREFOX_PATH`.
+
+2. Execute o script principal:
+
+   ```bash
+   python Top10.py
+   ```
+
+3. Os arquivos Excel serão gerados na pasta `Excel`.
+
+## Estrutura
+
+- `Models/`: Scripts de scraping para cada liga.
+- `Excel/`: Planilhas geradas.
+- `TXT/`: Tabelas HTML salvas temporariamente.
+- `Top10.py`: Script principal para consolidar as ligas.
+
+## Observações
+
+- O scraping depende da estrutura do site redscores.com. Mudanças no site podem exigir ajustes nos scripts.
+- O navegador é executado em modo headless (segundo plano).
+
+---
