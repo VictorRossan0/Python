@@ -92,9 +92,7 @@ def primeira_liga():
     firefox_options.headless = True
     driver = webdriver.Firefox(options=firefox_options)
     
-    driver = None
     try:
-        driver = webdriver.Firefox(options=firefox_options)
         url = 'https://redscores.com/pt-br/league/portugal/primeira-liga/462'
         driver.get(url)
         logging.info("Navegador aberto")

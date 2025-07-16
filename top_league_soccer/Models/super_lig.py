@@ -90,11 +90,9 @@ def super_lig():
     logging.info("Abrindo o navegador")
     firefox_options = Options()
     firefox_options.headless = True
-    firefox_options.binary_location = os.getenv("FIREFOX_PATH", "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe")
+    driver = webdriver.Firefox(options=firefox_options)
 
-    driver = None
     try:
-        driver = webdriver.Firefox(options=firefox_options)
         url = 'https://redscores.com/pt-br/league/turkey/super-lig/600'
         driver.get(url)
         logging.info("Navegador aberto")

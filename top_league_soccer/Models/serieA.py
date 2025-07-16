@@ -92,9 +92,7 @@ def serieA():
     firefox_options.headless = True
     driver = webdriver.Firefox(options=firefox_options)
 
-    driver = None
     try:
-        driver = webdriver.Firefox(options=firefox_options)
         url = 'https://redscores.com/pt-br/league/italy/serie-a/384'
         driver.get(url)
         logging.info("Navegador aberto")

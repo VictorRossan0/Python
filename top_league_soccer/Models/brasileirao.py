@@ -78,7 +78,7 @@ def create_excel_from_data(data, filename):
         return
     try:
         df = pd.DataFrame(data[1:], columns=data[0])
-        colunas_desejadas = ['#', 'Equipe', 'Cartões', 'Escanteios', '1.5+', '2.5+', 'AVG G']
+        colunas_desejadas = ['#','Team', 'Cartões', 'Escanteios', '1.5+', '2.5+', 'AVG G']
         df_filtrado = df[colunas_desejadas].copy()
         ensure_dir_exists(os.path.dirname(filename))
         df_filtrado.to_excel(filename, index=False, sheet_name='Brasileirão')
@@ -91,11 +91,9 @@ def brasileirao():
     logging.info("Abrindo o navegador")
     firefox_options = Options()
     firefox_options.headless = True
-    firefox_options.binary_location = os.getenv("FIREFOX_PATH", "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe")
-
-    driver = None
+    driver = webdriver.Firefox(options=firefox_options)
+    
     try:
-        driver = webdriver.Firefox(options=firefox_options)
         url = 'https://redscores.com/league/brazil/serie-a/648'
         driver.get(url)
         logging.info("Navegador aberto")
