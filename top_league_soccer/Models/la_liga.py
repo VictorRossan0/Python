@@ -90,7 +90,7 @@ def la_liga():
     """Extrai dados da La Liga e salva em Excel."""
     logging.info("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
     driver = webdriver.Firefox(options=firefox_options)
     
     try:

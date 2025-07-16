@@ -90,7 +90,7 @@ def brasileirao():
     """Extrai dados do Brasileirão e salva em Excel."""
     logging.info("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
     driver = webdriver.Firefox(options=firefox_options)
     
     try:

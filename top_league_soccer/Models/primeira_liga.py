@@ -89,7 +89,7 @@ def create_excel_from_data(data, filename):
 def primeira_liga():
     logging.info("Abrindo o navegador")
     firefox_options = Options()
-    firefox_options.headless = True
+    firefox_options.add_argument('--headless')
     driver = webdriver.Firefox(options=firefox_options)
     
     try:
