@@ -40,6 +40,12 @@ Ative o ambiente virtual:
 Instale as dependências:
 
 ```bash
+pip install -r requirements.txt
+```
+
+Ou, se preferir instalar manualmente:
+
+```bash
 pip install selenium openpyxl beautifulsoup4 pandas
 ```
 
