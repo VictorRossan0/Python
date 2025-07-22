@@ -1,0 +1,20 @@
+# requirements.txt para o projeto Playwright
+
+# Biblioteca principal do Playwright
+playwright==1.53.0
+
+# Framework de testes
+pytest==8.4.1
+
+# Plugin do Playwright para pytest
+pytest-playwright==0.7.0
+
+# Plugin para relatórios HTML
+pytest-html==4.1.1
+
+# Plugin para execução paralela
+pytest-xdist==3.8.0
+
+# Bibliotecas adicionais úteis
+requests==2.32.3
+python-dotenv==1.0.1
