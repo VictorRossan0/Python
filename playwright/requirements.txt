@@ -16,5 +16,5 @@ pytest-html==4.1.1
 pytest-xdist==3.8.0
 
 # Bibliotecas adicionais úteis
-requests==2.32.3
+requests==2.32.4
 python-dotenv==1.0.1
